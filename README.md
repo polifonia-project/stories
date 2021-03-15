@@ -1,3 +1,5 @@
-# stories
+# Polifonia Stories
 
-See the [example](example.md).
+This is a shared common space to share stories, scenarios, personas and competency questions.
+
+See this [example](example.md).
