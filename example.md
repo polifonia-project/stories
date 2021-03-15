@@ -29,7 +29,7 @@ John filters ...
 
 John selects ...
 
-John is happy.
+John is happy. <example edit>
 
 COMPETENCY QUESTIONS: 
 
