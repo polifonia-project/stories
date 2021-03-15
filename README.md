@@ -4,6 +4,9 @@ This is a shared common space to share stories, scenarios, personas and competen
 
 See this [example](example.md).
 
+## List of stories
+
+- (add yours here)
 
 ## Useful links
 
