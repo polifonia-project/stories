@@ -31,7 +31,7 @@ John selects ...
 
 John is happy. <example edit>
 
-COMPETENCY QUESTIONS: 
+## Competency questions 
 
 - What is an example?
 - What is a type?
