@@ -16,6 +16,20 @@ A story is composed of:
 
 See this [example](example.md).
 
+## How to create a story
+
+There is one folder for each Persona, named with the name of the Persona. 
+1. Check all existing Personas, in order to see if there is already the Persona you need for your story. You will find a readme file in each folder, describing the Persona.
+2. If you find a Persona that suits you, create a new file in the respective folder, named “name-of-the-persona#progressive-number”, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus/SethusC%231.md).
+3. If not, create a new folder, with the name of the persona, and create a readme file describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus/readme.md)), and then a file with your story.
+4. After you create the file with your story, you should additionally fill a table with this information: 
+- id (name-of-the-persona#progressive-number)
+- persona (name of the persona)
+- Keywords (representing their goals
+- WP (WPs involved in the story)
+- Pilots (pilots involved in the story)
+- Priority (based on a “wow” scale, choosing from “must have”, "nice to have", “great to have”)
+
 ## List of personas
 
 - (add personas here)
