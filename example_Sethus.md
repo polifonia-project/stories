@@ -7,8 +7,9 @@ keywords:
 - theoretical framework
 - compositional framework
 WP:
-- WP3
+- WP2
 - WP4
+- WP5
 Pilots:
 - TONALITIES
 Priority:
