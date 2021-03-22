@@ -3,7 +3,7 @@
 This is a description of the persona Sethus C.
 
 ## Name
-Sethus C.
+Sethus
 
 ## Age
 
