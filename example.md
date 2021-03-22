@@ -18,7 +18,7 @@ Pilots:
 ## Persona
 John is a 30 years old post-doc in Prototypes at the University of Life. He is contributing to a project that aims at investigating connections and relationships between examples and types. 
 
-## User story 
+## Goal 
 In order to investigate connections between examples and types, John needs to collect information about examples and classify it by types. 
 
 ## Scenario  
