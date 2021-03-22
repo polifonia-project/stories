@@ -32,7 +32,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of personas
 
 - (add personas here)
-- [Sethus](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
+- [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Persona#2](https://github.com/polifonia-project/stories/tree/main/Persona%232)
 
 ## List of stories
