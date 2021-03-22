@@ -7,6 +7,7 @@ See this [example](example.md).
 ## List of stories
 
 - (add yours here)
+- [Sethus C.](example_Sethus.md)
 
 ## Useful links
 
