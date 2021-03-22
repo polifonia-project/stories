@@ -14,8 +14,6 @@ A story is composed of:
 - Competency questions
     - Question(s) the persona needs the resource/software/service to answer for satisfying their task/need/problem
 
-See this [example](example.md).
-
 ## How to create a story
 
 There is one folder for each Persona, named with the name of the Persona. 
