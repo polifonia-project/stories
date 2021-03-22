@@ -1,11 +1,11 @@
 ---
 id: Story#1
+persona: 
+- Sethus C.
 keywords: 
 - modal analysis
 - theoretical framework
 - compositional framework
-persona:
-- Sethus C.
 WP:
 - WP3
 - WP4
