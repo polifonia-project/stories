@@ -1,6 +1,6 @@
 ---
 id: 
-- Sethus C. #1
+- Sethus C.#1
 persona: 
 - Sethus C.
 keywords: 
