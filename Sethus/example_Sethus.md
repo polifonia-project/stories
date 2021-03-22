@@ -1,5 +1,5 @@
 ---
-id: Story#1
+id: Sethus C. #1
 persona: 
 - Sethus C.
 keywords: 
