@@ -33,13 +33,13 @@ There is one folder for each Persona, named with the name of the Persona and the
 
 - (add personas here)
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
-- [Persona#2](https://github.com/polifonia-project/stories/tree/main/Persona%232)
+- [Carolina: Music Historian](https://github.com/polifonia-project/stories/tree/main/Carolina:%20Music%20Historian)
 
 ## List of stories
 
 - (add stories here)
 - [Sethus#1](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231.md)
-- [Persona#2](https://github.com/polifonia-project/stories/blob/main/Persona%232/example_Persona%232)
+- [Carolina#1](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231)
 
 
 ## Useful links
