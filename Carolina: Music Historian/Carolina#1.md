@@ -13,7 +13,7 @@ WP:
 Pilots:
 - MusicBo
 Priority:
-- PriorityLevel
+- must have
 ---
 # Carolina#1
 
@@ -29,13 +29,23 @@ In order to accomplish her goal first Carolina must find the scores that constit
 ## Competency questions 
 
 CQ1: In which architectural structures was the musical composition X performed? 
+
 CQ2: In which places was musical composition X performed for the first time? 
+
 CQ3: In which scores is there evidence of musical composition X? 
+
 CQ4: In which historical documents is there evidence of musical composition X? 
+
 CQ5: In which bibliographic references is there evidence of musical composition X? 
+
 CQ6: In which bibliographic references is there evidence of reception of musical composition X?
+
 CQ7: Which musicians have performed musical composition X for the first time? 
-CQ7: Which instruments are involved in musical composition x?
-CQ7: Which were the first means of execution or organic of musical composition X? 
-CQ7: Where was performed musical composition X for the first time? 
-CQ7: In which tonality was written the musical composition X for the first time?
+
+CQ8: Which instruments are involved in musical composition x?
+
+CQ9: Which were the first means of execution or organic of musical composition X? 
+
+CQ10: Where was performed musical composition X for the first time? 
+
+CQ11: In which tonality was written the musical composition X for the first time?
