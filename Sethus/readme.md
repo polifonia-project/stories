@@ -2,11 +2,11 @@
 
 This is a description of the persona Sethus C.
 
-## Photo
-
 ## Name
-
 Sethus C.
+
+## Age
+
 
 ## Occupation
 - Music theorist
