@@ -1,17 +1,20 @@
 ---
-id: example
+id: Story#1
 keywords: 
-- example
-- test
-- prototype
+- keyword#1
+- keyword#2
+- keyword#3
+- keyword#4
+- keyword#5
 persona:
-- John
+- Sethus C.
 WP:
 - WP3
 - WP4
 Pilots:
 - TONALITIES
-- CHILD
+Priority:
+- High
 ---
 # An examplary story
 
