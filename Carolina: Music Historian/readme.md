@@ -1,6 +1,6 @@
 # Persona description
 
-This is a description of the persona Persona#2.
+This is a description of the persona Carolina.
 
 ## Name
 Carolina 
