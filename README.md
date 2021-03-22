@@ -4,10 +4,15 @@ This is a shared common space to share stories, scenarios, personas and competen
 
 See this [example](example.md).
 
+## List of personas
+- Sethus C.
+- Persona#2
+
 ## List of stories
 
 - (add yours here)
 - [Sethus C.](example_Sethus.md)
+- [Persona#2](example_Persona#2)
 
 ## Useful links
 
