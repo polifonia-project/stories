@@ -14,7 +14,7 @@ Pilots:
 Priority:
 - High
 ---
-# An examplary story
+# Story#1
 
 ## Persona
 Sethus C. is a music theorist, composer and teacher, specialized in late Renaissance music. In this field, his research focuses on the description and formalization of the compositional processes at work in modal polyphony. His reflection is based on a close reading of the scientific literature (historical and contemporary) on which he builds a synthesis oriented towards compositional practice.
