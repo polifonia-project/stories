@@ -1,0 +1,29 @@
+---
+id: Story#2
+persona: 
+- Persona#2
+keywords: 
+- keyword#1
+- keyword#2
+- keyword#3
+WP:
+- WP#
+Pilots:
+- Pilot#
+Priority:
+- PriorityLevel
+---
+# Story#2
+
+## Persona
+
+## Goal 
+
+## Scenario  
+
+## Competency questions 
+
+CQ1: 
+CQ2:
+CQ3:
+CQ4: 
