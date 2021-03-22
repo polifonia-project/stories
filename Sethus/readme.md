@@ -1,6 +1,6 @@
 # Persona description
 
-This is a description of the persona Sethus C.
+This is a description of the persona Sethus
 
 ## Name
 Sethus
