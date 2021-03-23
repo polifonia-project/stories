@@ -4,7 +4,11 @@ id:
 persona: 
 - Sethus
 keywords: 
+- conflicting theoretical models/interpretations
+- analytical concepts
 - modal analysis
+- history of music theory
+- Orlando di Lasso
 WP:
 - WP2
 - WP4
@@ -12,7 +16,7 @@ WP:
 Pilots:
 - TONALITIES
 Priority:
-- High
+- Life changer
 ---
 # Sethus#1
 
@@ -55,3 +59,4 @@ CQ4: Apart from Lasso’s possible exegetical intentions, what does this work te
    - Is the ambiguity observed here specific to particular groups of works? 
 
 ## Resources
+the literature dedicated to Vide homo
