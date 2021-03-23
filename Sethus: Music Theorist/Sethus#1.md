@@ -5,8 +5,6 @@ persona:
 - Sethus
 keywords: 
 - modal analysis
-- theoretical framework
-- compositional framework
 WP:
 - WP2
 - WP4
