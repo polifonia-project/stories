@@ -49,3 +49,5 @@ CQ9: Which were the first means of execution or organic of musical composition X
 CQ10: Where was performed musical composition X for the first time? 
 
 CQ11: In which tonality was written the musical composition X for the first time?
+
+## Resources
