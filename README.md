@@ -27,7 +27,11 @@ There is one folder for each Persona, named with the name of the Persona and the
 - Keywords (representing their goals)
 - WP (WPs involved in the story)
 - Pilots (pilots involved in the story)
-- Priority (based on a “wow” scale, choosing from “must have”, "nice to have", “great to have”)
+- Priority based on a “wow” scale, reflecting the impact that would be achieved by addressing the story, choosing from:
+    - must have (i.e. it is something that is already supported in other systems, it is state of the art)
+    - life improver (i.e. I would be able to make the same discovery/work in significant less time)
+    - life changer (i.e. I would be able to make discoveries/works that now cannot be done or are extremely hard to do)
+    - breakthrough (i.e. this would be a breakthrough in my field)
 
 ## List of personas
 
