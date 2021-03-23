@@ -56,3 +56,4 @@ CQ4: Apart from Lasso’s possible exegetical intentions, what does this work te
    - Do other works come close, in terms of their inner properties, to what is observed here? 
    - Is the ambiguity observed here specific to particular groups of works? 
 
+## Resources
