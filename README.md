@@ -13,7 +13,7 @@ A story is composed of:
     - It is a story of how the persona’s task/need/problem is solved before, during and after interaction with the resource/software/service being developed.
 - **Competency questions (CQs)**
     - Question(s) the persona needs the resource/software/service to answer for satisfying their task/need/problem.
--  **List of resources (optional)**
+-  **Resources (optional)**
     - List of resources (with references/links) where it is expected or known that the persona can find what she's looking for.
 
 ## How to create a story
