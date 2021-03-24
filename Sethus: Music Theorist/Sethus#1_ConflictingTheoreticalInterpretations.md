@@ -1,6 +1,6 @@
 ---
 id: 
-- Sethus#1
+- Sethus#1_ConflictingTheoreticalInterpretations
 persona: 
 - Sethus
 keywords: 
