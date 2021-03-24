@@ -20,10 +20,10 @@ A story is composed of:
 There is one folder for each Persona, named with the name of the Persona and their primary occupation. 
 
 1. Check all existing Personas, in order to see if there is already the Persona you need for your story. You will find a readme file in each folder, describing the Persona.
-2. If you find a Persona that suits you, create a new file in the respective folder, named ``name-of-the-persona#progressive-number_keyword-representing-the-main-goal``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231.md).
-3. If not, create a new folder, named ``name-of-the-persona: primary-occupation``, and create a readme file describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231.md).
+2. If you find a Persona that suits you, create a new file in the respective folder, named ``name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231.md).
+3. If not, create a new folder, named ``name-of-the-persona: primary-occupation``, and create a readme file describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
 4. Besides providing information about the four components of the story, you should additionally fill in a table with this information: 
-- ID (``name-of-the-persona#progressive-number_keyword-representing-the-main-goal``)
+- ID (``name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``)
 - Persona (name of the persona)
 - Keywords (representing their goals)
 - WP (WPs involved in the story)
@@ -43,7 +43,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of stories
 
 - (add stories here)
-- [Sethus#1](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231.md)
+- [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
 - [Carolina#1](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231.md)
 
 
