@@ -9,8 +9,10 @@ Carolina
 
 
 ## Occupation
-- Music historian
-- Researcher
+- Primary role
+  - Music historian
+- Secondary roles
+  - Researcher
 
 ## Knowledge/Skills
 She is a researcher and collaborates with the International Museum and the Music Library of Bologna.
