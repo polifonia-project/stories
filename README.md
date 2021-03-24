@@ -5,7 +5,7 @@ This is a shared common space to share stories for the Polifonia project. A stor
 A story is composed of:
 - **Persona**
     - It is a research-based description of a typical user.
-    - It contains attributes such as name, age, occupation, and relevant characteristics of the person such as their knowledge and skills and their interests.
+    - It contains attributes such as name, age, occupation (if the persona has more than one role, indicate which one is their primary role and which one(s) the secondary role(s)), and relevant characteristics of the person such as their knowledge and skills and their interests.
 -  **Goal**
     - The goal(s) is(are) represented by a short (maximum 5) list of keywords.
 - **Scenario**
@@ -20,10 +20,10 @@ A story is composed of:
 There is one folder for each Persona, named with the name of the Persona and their primary occupation. 
 
 1. Check all existing Personas, in order to see if there is already the Persona you need for your story. You will find a readme file in each folder, describing the Persona.
-2. If you find a Persona that suits you, create a new file in the respective folder, named ``name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
-3. If not, create a new folder, named ``name-of-the-persona: primary-occupation``, and create a readme file describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
+2. If you find a Persona that suits you, create a new file in the respective folder, named ``Name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
+3. If not, create a new folder, named ``Name-of-the-persona: Primary Occupation``. If the persona has more than one role, use the primary role for naming the folder. Then, create a readme file describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
 4. Besides providing information about the four components of the story, you should additionally fill in a table with this information: 
-- ID (``name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``)
+- ID (``Name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``)
 - Persona (name of the persona)
 - Keywords (representing their goals)
 - WP (WPs involved in the story)
