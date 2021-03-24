@@ -20,7 +20,7 @@ Indicate here the pilots involved in the story.
 Indicate here the priority of the story (must have/life improver/life changer/breakthrough)
 
 ## Persona
-Indicate here the name of the Persona involved in this story. 
+Indicate here the [name](url) of the Persona involved in this story. 
 
 ## Goal
 - List maximum 5 keywords that represent the goal of the Persona in this story.
