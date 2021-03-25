@@ -3,8 +3,7 @@ id: Carolina#1
 persona: 
 - Carolina
 keywords: 
-- modal analysis
-- source analysis
+- sources cross-analysis
 WP:
 - WP2
 - WP3
@@ -21,8 +20,7 @@ Priority:
 Carolina is a music historian with a passion for the Baroque. She is a researcher and collaborates with the International Museum and the Music Library of Bologna. 
 
 ## Goal
-- modal analysis
-- source analysis
+- sources cross-analysis
 
 ## Scenario  
 Carolina has to prepare a conference for the anniversary of the birth of the composer Giacomo Antonio Perti  and she needs to collect some informations about his career. She knows that Giacomo Antonio Perti is the author of “Masses” and she wants to dedicate a particular section to these compositions. In order to accomplish her goal first Carolina must find the scores that constitute her primary sources. Thus, Carolina should find the places where these compositions were played for the first time how many musicians were involved, how many musical instruments, the names of the musicians. Carolina is also interested in the singers involved and the choir.  Carolina has to find written evidence that says how these Masses were received. Carolina is also interested in finding out in which tonality the compositions were written.
