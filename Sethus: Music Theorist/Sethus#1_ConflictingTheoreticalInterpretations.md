@@ -21,9 +21,12 @@ Priority:
 # Sethus#1_ConflictingTheoreticalInterpretations
 
 ## Persona
+
 Sethus is a music theorist, composer and teacher, specialized in late Renaissance music. In this field, his research focuses on the description and formalization of the compositional processes at work in modal polyphony. His reflection is based on a close reading of the scientific literature (historical and contemporary) on which he builds a synthesis oriented towards compositional practice.
 
 ## Goal 
+
+In collaboration with other colleagues, Sethus is preparing a book on modal theory and its application to late Renaissance compositions. He considers that the attribution of a polyphonic work to a mode implies a complex interpretative process. The criteria for this identification are not exclusively objective and fixed in the score, but always include an ‘ideological’ and symbolic dimension. Modal analysis thus depends on the theoretical frameworks that it invokes – the octoechos, the neo-classical theory of the 12 modes, etc. – and on the theoretical interpretation of the work, which transcends the work. This means that it is not the attribution of a work to a mode that is important from a musicological and compositional point of view. Instead, the question is to determine how, through the prism of different theoretical models and analytical points of view adopted, a mode manifests itself in the work, unfolds over time and governs its compositional framework (or whether, on the contrary, the work lies outside the theoretical frameworks of the modality). 
 - conflicting theoretical interpretations
 - analytical concepts
 - modal analysis
@@ -31,8 +34,6 @@ Sethus is a music theorist, composer and teacher, specialized in late Renaissanc
 - Orlando di Lasso
 
 ## Scenario  
-
-In collaboration with other colleagues, Sethus is preparing a book on modal theory and its application to late Renaissance compositions. He considers that the attribution of a polyphonic work to a mode implies a complex interpretative process. The criteria for this identification are not exclusively objective and fixed in the score, but always include an ‘ideological’ and symbolic dimension. Modal analysis thus depends on the theoretical frameworks that it invokes – the octoechos, the neo-classical theory of the 12 modes, etc. – and on the theoretical interpretation of the work, which transcends the work. This means that it is not the attribution of a work to a mode that is important from a musicological and compositional point of view. Instead, the question is to determine how, through the prism of different theoretical models and analytical points of view adopted, a mode manifests itself in the work, unfolds over time and governs its compositional framework (or whether, on the contrary, the work lies outside the theoretical frameworks of the modality). 
 
 In the book he aims to write with his colleagues, Sethus is charged with writing a chapter on the modal cycle "Lagrime di San Pietro" by Orlando di Lasso. To this end, Sethus and his colleagues (Leonhard, Bernhard, Harold, Siegfried, Frans Robert and Alexander) carried out individual analyses and entered them into the framework of the Tonalities pilot. 
 
