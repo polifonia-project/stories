@@ -7,9 +7,9 @@ A story is composed of:
     - It is a research-based description of a typical user.
     - It contains attributes such as name, age, occupation (if the persona has more than one role, indicate which one is their primary role and which one(s) the secondary role(s)), and relevant characteristics of the person such as their knowledge and skills and their interests.
 -  **Goal**
-    - It is a short textual description of the goal(s) that the persona needs to be addressed in this story.
-    - The goal(s) is(are) also represented by a short (maximum 5) list of keywords.
+    - It is a short textual description of the goal(s) that the persona needs to be addressed in the story.
     - maximum number of characters: 1200
+    - The goal(s) is(are) also represented by a short (maximum 5) list of keywords.
 - **Scenario**
     - It is a story describing how the persona's task/need/problem is solved before, during and after interaction with the resource/software/service being developed.
     - maximum number of characters: 1200
