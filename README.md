@@ -44,7 +44,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 
 - (add stories here)
 - [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
-- [Carolina#1](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231.md)
+- [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231.md)
 
 
 ## Useful links
