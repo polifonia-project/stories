@@ -38,7 +38,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 
 - (add personas here)
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
-- [Carolina: Music Historian](https://github.com/polifonia-project/stories/tree/main/Carolina:%20Music%20Historian)
+- [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
 
 ## List of stories
 
