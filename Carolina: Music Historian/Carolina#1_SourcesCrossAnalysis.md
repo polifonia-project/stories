@@ -53,5 +53,7 @@ CQ11: In which tonality was written the musical composition X for the first time
 ## Resources
 
 Medium Of Performance : https://www.loc.gov/marc/marbi/2011/2011-dp05.html
+
 Form of musical work : https://www.iflastandards.info/unimarc/terms/fom
+
 Terminorum Musicae Index Septem Linguis Redactus : https://archive.org/details/TerminorumMusicaeIndexSeptemLinguisRedactus/mode/2up (7 languages dictionary)
