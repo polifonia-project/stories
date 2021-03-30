@@ -44,10 +44,14 @@ CQ7: Which musicians have performed musical composition X for the first time?
 
 CQ8: Which instruments are involved in musical composition x?
 
-CQ9: Which were the first means of execution or organic of musical composition X? 
+CQ9: Which were the first medium of performance of musical composition X? 
 
 CQ10: Where was performed musical composition X for the first time? 
 
 CQ11: In which tonality was written the musical composition X for the first time?
 
 ## Resources
+
+Medium Of Performance : https://www.loc.gov/marc/marbi/2011/2011-dp05.html
+Form of musical work : https://www.iflastandards.info/unimarc/terms/fom
+Terminorum Musicae Index Septem Linguis Redactus : https://archive.org/details/TerminorumMusicaeIndexSeptemLinguisRedactus/mode/2up (7 languages dictionary)
