@@ -34,6 +34,9 @@ There is one folder for each Persona, named with the name of the Persona and the
     - life improver (i.e. I would be able to make the same discovery/work in significant less time)
     - life changer (i.e. I would be able to make discoveries/works that now cannot be done or are extremely hard to do)
     - breakthrough (i.e. this would be a breakthrough in my field)
+- After completing your story, you should update the "List of personas" and/or the "List of stories" in this ``README.md`` file. 
+    - If you created a new Persona: add to "List of personas" the name of the folder, and a link to the folder, following the examples. Then, add to "List of stories" the name of the story you created, and a link to the file.
+    - If you reused an existing Persona for your story: add to "List of stories" the name of the story you created, and a link to the file.
 
 ## List of personas
 
