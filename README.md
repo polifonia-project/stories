@@ -9,8 +9,10 @@ A story is composed of:
 -  **Goal**
     - It is a short textual description of the goal(s) that the persona needs to be addressed in this story.
     - The goal(s) is(are) also represented by a short (maximum 5) list of keywords.
+    - maximum number of characters: 1200
 - **Scenario**
     - It is a story describing how the persona's task/need/problem is solved before, during and after interaction with the resource/software/service being developed.
+    - maximum number of characters: 1200
 - **Competency questions (CQs)**
     - Question(s) the persona needs the resource/software/service to answer for satisfying their task/need/problem.
 -  **Resources (optional)**
