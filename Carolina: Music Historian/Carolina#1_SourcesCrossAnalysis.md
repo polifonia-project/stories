@@ -48,7 +48,7 @@ CQ8: Which instruments are involved in musical composition x?
 CQ9: Which were the first medium of performance of musical composition X? 
 
 CQ10: Where was performed musical composition X for the first time? 
-- This CQ10 concerns buildings (church, square) and is connected to the social function of Masses
+- This CQ10 concerns buildings (church, square, theaters) and is connected to the social function of Masses
 
 CQ11: In which tonality was written the musical composition X for the first time?
 
