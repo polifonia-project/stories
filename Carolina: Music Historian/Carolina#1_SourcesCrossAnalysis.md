@@ -31,7 +31,8 @@ In order to accomplish her goal first Carolina must find the scores that constit
 CQ1: In which architectural structures was the musical composition X performed? 
 
 CQ2: In which places was musical composition X performed for the first time? 
-- Places are intended as geographical locations and areas (i.e. Bologna, Milan, Ferrara, Emilia Romagna)
+
+- These are geographical locations and areas (i.e. Bologna, Milan, Ferrara, Emilia Romagna)
 
 CQ3: In which scores is there evidence of musical composition X? 
 
@@ -48,7 +49,8 @@ CQ8: Which instruments are involved in musical composition x?
 CQ9: Which were the first medium of performance of musical composition X? 
 
 CQ10: Where was performed musical composition X for the first time? 
-- This CQ10 concerns buildings (church, square, theaters) and is connected to the social function of Masses
+
+- This concerns architectural places such as buildings (church, square, theaters) and is connected to the social function of "Masses"
 
 CQ11: In which tonality was written the musical composition X for the first time?
 
