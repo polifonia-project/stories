@@ -1,0 +1,180 @@
+@base <http://data-iremus.huma-num.fr/id/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix lrm: <http://www.cidoc-crm.org/lrmoo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mt: <http://data-iremus.huma-num.fr/ns/modality-tonality#> .
+@prefix ip: <http://data-iremus.huma-num.fr/ns/intellectual-primitives#> .
+
+################################################################################
+# Corpus
+################################################################################
+
+# The cycle: "Lagrime di San Pietro"
+<29640bfa-9370-4810-bf0f-7b833a3aa191>
+    a crm:E31_Document ;
+    rdfs:label <https://imslp.eu/files/imglnks/euimg/b/b7/IMSLP609463-PMLP102708-lassoSWNR20.lagrimedisanpietroscore.pdf> ;
+    .
+
+# The Score: "Vide Homo" (Marco Gurrieri's encoding)
+<3b31044b-9b03-4c97-884d-ccb368fee0f7>
+    a crm:E31_Document ;
+    a crmdig:D1_Digital_Object ;
+    dcterms:format "application/vnd.mei+xml" ;
+    rdfs:label <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.mei> ;
+    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.pdf> ;
+    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.sib> ;
+    .
+
+################################################################################
+# Analytical concepts: The Modality-Tonality ontology
+################################################################################
+
+mt:tonal_type
+    a owl:Class ;
+    a crm:E55_Type ;
+    .
+
+mt:system
+    a owl:ObjectProperty ;
+    rdfs:domain <291802e1-af98-40d5-8611-8c34b10e87a6> ;
+    rdfs:range xsd:string ;
+    .
+
+mt:clef
+    a owl:ObjectProperty ;
+    rdfs:domain <291802e1-af98-40d5-8611-8c34b10e87a6> ;
+    rdfs:range xsd:string ;
+    .
+
+mt:final
+    a owl:ObjectProperty ;
+    rdfs:domain <291802e1-af98-40d5-8611-8c34b10e87a6> ;
+    rdfs:range xsd:string ;
+    .
+
+<8d39fbcf-d4ef-420e-bc14-d6786721a536>
+    a mt:tonal_type ;
+    a crm:E55_Type ;
+    mt:system "♮" ;
+    mt:clef "g2" ;
+    mt:final "A2" ;
+    .
+
+mt:tonus
+    a owl:Class ;
+    .
+
+mt:tonus_peregrinus
+    rdfs:subClassOf mt:tonus ;
+    .
+
+<398de1eb-7f0b-465a-91ad-2f73a4e9712e>
+    a mt:tonus_peregrinus ;
+    .
+
+mt:has_tonus
+    a owl:ObjectProperty ;
+    rdfs:domain mt:Work ;
+    rdfs:range mt:tonus ;
+    .
+
+################################################################################
+# Intellectual operations type
+################################################################################
+
+<bf319357-55a8-4d09-a58b-a3c2b547a7df>
+    a crm:E55_Type ;
+    crm:P1_is_identified_by "Claim/statement identification" ;
+    .
+
+################################################################################
+# People
+################################################################################
+
+<9b27278d-5971-43d5-9cea-cf4d1d1facd5>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Anne-Emmanuelle Ceulemans" ;
+    .
+<8b6d6e6a-47d0-4d4b-b95e-56fb9f99ca9f>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Powers" ;
+    .
+
+################################################################################
+# Scientific paper
+################################################################################
+
+#TODO Should be modeled with CITO ontology
+
+<a507ba27-c233-46de-b747-f84a4d6d916e>
+    a crm:E31_Document ;
+    dcterms:creator <8b6d6e6a-47d0-4d4b-b95e-56fb9f99ca9f> ;
+    rdfs:label "Powers, Harold S. “Is Mode Real? Pietro Aron, the Octenary System, and Polyphony”, in Basler Jahrbuch für historische Musikpraxis, vol. 16, 1992, pp. 9-52." ;
+    .
+
+<bfdf4431-c7cd-4926-9cb4-6d1f65d7d607>
+    a crm:E31_Document ;
+    dcterms:creator <9b27278d-5971-43d5-9cea-cf4d1d1facd5> ;
+    rdfs:label "A cool paper written by Anne-Emmanuelle Ceulemans" ; #TODO
+    .
+
+################################################################################
+# Scholarly ontology
+################################################################################
+
+ip:source
+    a owl:ObjectProperty ;
+    rdfs:domain crm:E13_Attribute_Assigment;
+    rdfs:range crm:E31_Document ;
+    .
+
+ip:relativization
+    a owl:ObjectProperty ;
+    rdfs:domain crm:E13_Attribute_Assigment;
+    rdfs:range xsd:string ;
+    .
+
+################################################################################
+# Annotations
+################################################################################
+
+#
+# 1
+#
+
+# Powers's statement as reported by Ceulemans
+<8e898213-b82d-423b-91e7-112d388a1b26>
+    a crm:E13_Attribute_Assigment ;
+    crm:P2_has_type <bf319357-55a8-4d09-a58b-a3c2b547a7df> ;
+    crm:P14_carried_out_by <bfdf4431-c7cd-4926-9cb4-6d1f65d7d607> ;
+    ip:source <a507ba27-c233-46de-b747-f84a4d6d916e> ;
+    crm:P140_assigned_attribute_to <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
+    crm:P177_assigned_property_type mt:tonal_type ;
+    crm:P141_assigned <8d39fbcf-d4ef-420e-bc14-d6786721a536> ;
+    .
+
+#
+# 2
+#
+
+# A claim
+<f7921b23-3102-4211-bd07-f698497b5d72>
+    a crm:E13_Attribute_Assigment ;
+    crm:P140_assigned_attribute_to <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
+    crm:P177_assigned_property_type mt:has_tonus ;
+    crm:P141_assigned mt:tonus_peregrinus ;
+    .
+
+# Ceulemans' relativization of this claim
+<8c6a936f-e550-4f35-81a8-0fee0e47bcdf>
+    a crm:E13_Attribute_Assigment ;
+    crm:P14_carried_out_by <bfdf4431-c7cd-4926-9cb4-6d1f65d7d607> ;
+    crm:P140_assigned_attribute_to <f7921b23-3102-4211-bd07-f698497b5d72> ;
+    crm:P177_assigned_property_type ip:relativization ;
+    crm:P141_assigned "Certains chercheurs ont proposé de rattacher cette œuvre au ton pérégrin . Cette attribution se base néanmoins sur un critère purement externe, la finale, et ne dit rien de l’organisation interne du motet." ;
+    .
+
