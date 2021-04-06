@@ -66,4 +66,36 @@ CQ4: Apart from Lasso’s possible exegetical intentions, what does this work te
    - Is the ambiguity observed here specific to particular groups of works? 
 
 ## Resources
-the literature dedicated to Vide homo
+Bibliographie 
+
+Barbier, Jacques. “Un Homme Armé à Bruxelles. Étude De La Messe De Mathurin Forestier Contenue Dans L’Occo Codex”, Revue Belge De Musicologie / Belgisch Tijdschrift Voor Muziekwetenschap, vol. 55, 2001, pp. 53-68. [Voir Pdf 5] 
+
+Ceulemans, Anne-Emmanuelle. “Cadential and Modal Treatment in Palestrina’s Delle Madrigali Spirituali a Cinque Voci Libro Secondo (1594) and Lasso’s Lagrime di San Pietro (1595)”, Musurgia, vol. XXVI, no. 2, 2019, pp. 71-9. 
+
+Ceulemans, Anne-Emmanuelle. Lasso, Meier, Powers. The Reality of the Modes under Scrutiny, 9th European Music Analysis Conference - EUROMAC 9. [Voir Pdf 9] 
+
+Crook, David. Orlando di Lasso’s Imitation Magnificats for Counter-Reformation Munich. Princeton, New Jersey: Princeton University Press, 1994. 
+
+Einstein, Alfred. The Italian Madrigal. Princeton, New Jersey: Princeton University Press, 1949. 
+
+Fisher, Alexander J. “‘Per Mia Particolare Devotione’: Orlando Di Lasso’s Lagrime Di San Pietro and Catholic Spirituality in Counter-Reformation Munich”, Journal of the Royal Musical Association, vol. 132, no. 2, 2007, pp. 167-220. [Voir Pdf 1] 
+
+Freedman, Richard. “Le Jeune’s ‘Dodecacorde’ as a Site for Spiritual Meanings”, Revue De Musicologie, vol. 89, no. 2, 2003, pp. 297-309. [Voir Pdf 4] 
+
+Freedman, Richard. “‘Marenzio’s Madrigali a Quattro, Cinque Et Sei Voci of 1588: A Newly-Revealed Madrigal Cycle and Its Intellectual Context’”, The Journal of Musicology, vol. 13, no. 3, 1995, pp. 318-54. [Voir Pdf 6] 
+
+Gissel, Siegfried. “Die Tonarten Der ‘Lagrime Di San Pietro’ Von Orlando Di Lasso”, Musica Disciplina, vol. 47, 1993, pp. 5-33 [Voir Pdf 3] 
+
+Lino, Daniela Francine and Fiorini, Carlos Fernando. “Lagrime di San Pietro by Orlando di Lasso in a New and Revised Critical Edition”, Opus, vol. 18, no. 2, 2012, pp. 111-40. [Voir Pdf 7] 
+
+Lino Popolin, Daniela Francine. Lagrime di San Pietro de Orlando di Lasso: um estudo de preparação e execução através de uma nova edição crítica e revisada, Universidade Estadual de Campinas, PhD., 2013. [Voir Pdf 8] 
+
+Luoma, Robet. Music, Mode, and Words in Orlando Di Lasso’s Last Works, Lewiston, N.Y., U.S.A.: E. Mellen Press, 1989 (Studies in the History & Interpretation of Music 11). 
+
+Meier, Bernhard. Die Tonarten der klassischen Vokalpolyphonie nach den Quellen dargestellt, Utrecht: Oosthoek, Scheltema & Holkema, 1974. 
+
+Powers, Harold S. “Is Mode Real? Pietro Aron, the Octenary System, and Polyphony”, in Basler Jahrbuch für historische Musikpraxis, vol. 16, 1992, pp. 9-52.  
+
+Procter, Michael. “The Cyclic Works of Orlando di Lasso”, Sacred Music, vol. 134, no. 1, 2007, pp. 12-4. [Voir Pdf 2] 
+
+ 
