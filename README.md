@@ -43,12 +43,14 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of personas
 
 - (add personas here)
+- [Keoma: Architect](https://github.com/polifonia-project/stories/tree/main/Keoma:%20Architect)
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
 
 ## List of stories
 
 - (add stories here)
+- [Keoma#1_SoundPractices](https://github.com/polifonia-project/stories/blob/main/Keoma:%20Architect/Keoma%231_SoundPractices.md)
 - [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
 - [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
 
