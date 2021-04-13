@@ -1,33 +1,24 @@
+# http://www.cidoc-crm.org/crminf/Issue/ID-334-scholarly-reading
+
 @base <http://data-iremus.huma-num.fr/id/> .
+
+@prefix cito: <http://purl.org/spar/cito/> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix crmdig: <http://www.ics.forth.gr/isl/CRMdig/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crminf: <http://www.cidoc-crm.org/cidoc-crm/CRMinf/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix lrm: <http://www.cidoc-crm.org/lrmoo/> .
+@prefix doremus: <http://data.doremus.org/ontology#> .
+@prefix doremusvoc: <http://data.doremus.org/vocabulary/function/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix hico: <http://purl.org/emmedi/hico/> .
+@prefix lrmoo: <http://www.cidoc-crm.org/lrmoo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix mt: <http://data-iremus.huma-num.fr/ns/modality-tonality#> .
+
 @prefix ip: <http://data-iremus.huma-num.fr/ns/intellectual-primitives#> .
-
-################################################################################
-# Corpus
-################################################################################
-
-# The cycle: "Lagrime di San Pietro"
-<29640bfa-9370-4810-bf0f-7b833a3aa191>
-    a crm:E31_Document ;
-    rdfs:label <https://imslp.eu/files/imglnks/euimg/b/b7/IMSLP609463-PMLP102708-lassoSWNR20.lagrimedisanpietroscore.pdf> ;
-    .
-
-# The Score: "Vide Homo" (Marco Gurrieri's encoding)
-<3b31044b-9b03-4c97-884d-ccb368fee0f7>
-    a crm:E31_Document ;
-    a crmdig:D1_Digital_Object ;
-    dcterms:format "application/vnd.mei+xml" ;
-    rdfs:label <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.mei> ;
-    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.pdf> ;
-    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.sib> ;
-    .
+@prefix mt: <http://data-iremus.huma-num.fr/ns/modality-tonality#> .
 
 ################################################################################
 # Analytical concepts: The Modality-Tonality ontology
@@ -58,7 +49,6 @@ mt:final
 
 <8d39fbcf-d4ef-420e-bc14-d6786721a536>
     a mt:tonal_type ;
-    a crm:E55_Type ;
     mt:system "♮" ;
     mt:clef "g2" ;
     mt:final "A2" ;
@@ -83,98 +73,211 @@ mt:has_tonus
     .
 
 ################################################################################
-# Intellectual operations type
-################################################################################
-
-<bf319357-55a8-4d09-a58b-a3c2b547a7df>
-    a crm:E55_Type ;
-    crm:P1_is_identified_by "Claim/statement identification" ;
-    .
-
-################################################################################
 # People
 ################################################################################
+
+<082fd8e1-ecef-44ff-aca4-e8907d726552>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Luigi Transillo" ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Luigi_Tansillo" ;
+    .
+
+<ee9f8b42-e174-4d20-85fe-33705f488716>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Orlando di Lasso" ;
+    rdfs:seeAlso "http://data.doremus.org/artist/668c2943-1b38-3f55-9fb7-e7a9964d25c6" ;
+    .
+
+<1327356e-4d5d-4f10-a264-b8e6de2d90ec>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Sethus" ;
+    rdfs:seeAlso "https://en.wikipedia.org/wiki/Sethus_Calvisius" ;
+    .
+
+<ca1b5db3-02a3-4050-9759-40dae97b36da>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Marco Gurrieri" ;
+    .
+
+<8b6d6e6a-47d0-4d4b-b95e-56fb9f99ca9f>
+    a crm:E21_Person ;
+    crm:P1_is_identified_by "Harold S. Powers" ;
+    .
 
 <9b27278d-5971-43d5-9cea-cf4d1d1facd5>
     a crm:E21_Person ;
     crm:P1_is_identified_by "Anne-Emmanuelle Ceulemans" ;
     .
-<8b6d6e6a-47d0-4d4b-b95e-56fb9f99ca9f>
-    a crm:E21_Person ;
-    crm:P1_is_identified_by "Powers" ;
+
+################################################################################
+# Sources (music)
+################################################################################
+
+# The cycle: "Lagrime di San Pietro"
+
+<29640bfa-9370-4810-bf0f-7b833a3aa191>
+    a lrmoo:F1_Work ;
+    crm:P102_has_title "Lagrime di San Pietro" ;
+    lrmoo:R3_is_realised_in <d5f9b21f-c66e-41a7-8a2f-dfa8e6028082> ;
+    lrmoo:R67_has_part <29e39457-3216-4296-8d33-103d0245e986> ;
+    rdfs:seeAlso <http://data.doremus.org/work/b7f5c708-2e7e-339d-be35-dd0dc1d37ce4> ;
+    rdfs:seeAlso <http://data.doremus.org/expression/a7dd43ff-a9d9-377a-ae73-0601606d6607> ;
+    rdfs:seeAlso <https://catalogue.bnf.fr/ark:/12148/cb13964154j> ;
+    rdfs:seeAlso <https://data.bnf.fr/fr/13964154/roland_de_lassus_lagrime_di_san_pietro/> ;
+    rdfs:seeAlso <https://en.wikipedia.org/wiki/Lagrime_di_San_Pietro> ;
+    .
+
+<d5f9b21f-c66e-41a7-8a2f-dfa8e6028082>
+    a crm:E31_Document ;
+    a crmdig:D1_Digital_Object ;
+    a lrmoo:F2_Expression ;
+    crm:P1_is_identified_by <https://imslp.eu/files/imglnks/euimg/b/b7/IMSLP609463-PMLP102708-lassoSWNR20.lagrimedisanpietroscore.pdf> ;
+    .
+
+<4e6bbc7f-155d-42a1-af27-6519ede839ae>
+    a lrmoo:F27_Work_Conception ;
+    crm:P14_carried_out_by <ee9f8b42-e174-4d20-85fe-33705f488716> ;
+    lrmoo:R16_initiated <29640bfa-9370-4810-bf0f-7b833a3aa191> ;
+    .
+
+# Vide Homo
+
+<29e39457-3216-4296-8d33-103d0245e986>
+    a lrmoo:F1_Work ;
+    crm:P102_has_title "Vide Homo" ;
+    lrmoo:R3_is_realised_in <e78b866d-ef24-4a5d-9d70-059f93341ef0> ;
+    lrmoo:R3_is_realised_in <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
+    .
+
+<e78b866d-ef24-4a5d-9d70-059f93341ef0>
+    a lrmoo:F2_Expression ;
+    .
+
+<c8b6885f-0f96-4929-829f-c8a05c80fd69>
+    a lrmoo:F28_Expression_Creation ;
+    crm:P9_consists_of <efe232bb-4c91-4382-b78a-5291a1b63a72> ;
+    crm:P9_consists_of <d83fa517-7fe0-4c95-a563-cf2a7013267d> ;
+    lrmoo:R17_created <e78b866d-ef24-4a5d-9d70-059f93341ef0> ;
+    lrmoo:R19_created_a_realisation_of <29e39457-3216-4296-8d33-103d0245e986> ;
+    .
+
+<efe232bb-4c91-4382-b78a-5291a1b63a72>
+    a crm:E7_Activity ;
+    crm:P14_carried_out_by <ee9f8b42-e174-4d20-85fe-33705f488716> ;
+    doremus:U31_had_function doremusvoc:composer ;
+    .
+
+<d83fa517-7fe0-4c95-a563-cf2a7013267d>
+    a crm:E7_Activity ;
+    crm:P14_carried_out_by <082fd8e1-ecef-44ff-aca4-e8907d726552> ;
+    doremus:U31_had_function doremusvoc:lyricist ;
+    .
+
+# The MEI Score of "Vide Homo"
+
+<3b31044b-9b03-4c97-884d-ccb368fee0f7>
+    a crm:E31_Document ;
+    a crmdig:D1_Digital_Object ;
+    a lrmoo:F2_Expression ;
+    dcterms:format "application/vnd.mei+xml" ;
+    rdfs:label <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.mei> ;
+    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.pdf> ;
+    rdfs:seeAlso <http://data-iremus.huma-num.fr/files/mei/9f43fc5d3d20725b260d6bc2a6ed5814136e086e.sib> ;
+    .
+
+<2d8fed1c-9ebf-4917-b13e-9c43ea786c26>
+    a lrmoo:F28_Expression_Creation ;
+    crm:P14_carried_out_by <ca1b5db3-02a3-4050-9759-40dae97b36da> ;
+    lrmoo:R17_created <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
+    lrmoo:R19_created_a_realisation_of <29e39457-3216-4296-8d33-103d0245e986> ;
     .
 
 ################################################################################
-# Scientific paper
+# Scholarly papers
 ################################################################################
 
-#TODO Should be modeled with CITO ontology
+# TODO http://www.sparontologies.net/ontologies/fabio
 
 <a507ba27-c233-46de-b747-f84a4d6d916e>
-    a crm:E31_Document ;
+    a fabio:ScholarlyWork ;
     dcterms:creator <8b6d6e6a-47d0-4d4b-b95e-56fb9f99ca9f> ;
+    fabio:realization <dae592e5-09e9-4ad0-8da4-60359ae3a331> ;
+    .
+<dae592e5-09e9-4ad0-8da4-60359ae3a331>
+    a fabio:Expression ;
     rdfs:label "Powers, Harold S. “Is Mode Real? Pietro Aron, the Octenary System, and Polyphony”, in Basler Jahrbuch für historische Musikpraxis, vol. 16, 1992, pp. 9-52." ;
     .
 
 <bfdf4431-c7cd-4926-9cb4-6d1f65d7d607>
-    a crm:E31_Document ;
+    a fabio:ScholarlyWork ;
     dcterms:creator <9b27278d-5971-43d5-9cea-cf4d1d1facd5> ;
-    rdfs:label "A cool paper written by Anne-Emmanuelle Ceulemans" ; #TODO
+    fabio:realization <87805aa2-a149-4a6f-b6ad-a4ad92a3ec81> ;
+    .
+<87805aa2-a149-4a6f-b6ad-a4ad92a3ec81>
+    a fabio:Expression ;
+    rdfs:label "…" ; #TODO
     .
 
 ################################################################################
-# Scholarly ontology
-################################################################################
-
-ip:source
-    a owl:ObjectProperty ;
-    rdfs:domain crm:E13_Attribute_Assigment;
-    rdfs:range crm:E31_Document ;
-    .
-
-ip:relativization
-    a owl:ObjectProperty ;
-    rdfs:domain crm:E13_Attribute_Assigment;
-    rdfs:range xsd:string ;
-    .
-
-################################################################################
-# Annotations
+# Piece of knowledge
 ################################################################################
 
 #
 # 1
 #
 
-# Powers's statement as reported by Ceulemans
-<8e898213-b82d-423b-91e7-112d388a1b26>
+# The claim that Vide Homo has tonal type "♮ g2 A2"
+<68f44c68-ca33-4422-8d88-ab94afdd76cf>
     a crm:E13_Attribute_Assigment ;
-    crm:P2_has_type <bf319357-55a8-4d09-a58b-a3c2b547a7df> ;
-    crm:P14_carried_out_by <bfdf4431-c7cd-4926-9cb4-6d1f65d7d607> ;
-    ip:source <a507ba27-c233-46de-b747-f84a4d6d916e> ;
-    crm:P140_assigned_attribute_to <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
+    a crminf:I4_Information_Set ;
+    crm:P140_assigned_attribute_to <e78b866d-ef24-4a5d-9d70-059f93341ef0> ;
     crm:P177_assigned_property_type mt:tonal_type ;
     crm:P141_assigned <8d39fbcf-d4ef-420e-bc14-d6786721a536> ;
+    .
+
+# Powers' statement as reported by Ceulemans
+<66b77d2c-dfdd-4bdc-9380-2898ad7584df>
+    a crminf:I9_Provenanced_Comprehension ;
+    crm:P67i_is_referred_to_by <87805aa2-a149-4a6f-b6ad-a4ad92a3ec81> ;
+    crminf:J8_understands <dae592e5-09e9-4ad0-8da4-60359ae3a331> ;
+    crminf:J10_reads_as <68f44c68-ca33-4422-8d88-ab94afdd76cf> ;
     .
 
 #
 # 2
 #
 
-# A claim
-<f7921b23-3102-4211-bd07-f698497b5d72>
-    a crm:E13_Attribute_Assigment ;
-    crm:P140_assigned_attribute_to <3b31044b-9b03-4c97-884d-ccb368fee0f7> ;
-    crm:P177_assigned_property_type mt:has_tonus ;
-    crm:P141_assigned mt:tonus_peregrinus ;
+<04807851-9597-4509-afc5-12b74245b5f3>
+    a crminf:I1_Argumentation ;
+    crm:P2_has_type ip:relativization ;
+    crm:P14_carried_out_by <9b27278d-5971-43d5-9cea-cf4d1d1facd5> ;
+    crm:P67i_is_referred_to_by <87805aa2-a149-4a6f-b6ad-a4ad92a3ec81> ;
+    crminf:J2_concluded_that [
+        # The claim that Vide Homo has tonus "tonus peregrinus"
+        # A relativization of this claim
+        a crminf:I2_Belief ;
+        crminf:J4_that [
+            a crm:E13_Attribute_Assigment ;
+            a crminf:I4_Information_Set ;
+            crm:P140_assigned_attribute_to <e78b866d-ef24-4a5d-9d70-059f93341ef0> ;
+            crm:P177_assigned_property_type mt:has_tonus ;
+            crm:P141_assigned mt:tonus_peregrinus ;
+        ] ;
+        crminf:J5_holds_to_be "not entirely true and should be relativized" ;
+        crm:P3_has_note "Certains chercheurs ont proposé de rattacher cette œuvre au ton pérégrin. Cette attribution se base néanmoins sur un critère purement externe, la finale, et ne dit rien de l'organisation interne du motet." ;
+    ] ;
     .
 
-# Ceulemans' relativization of this claim
-<8c6a936f-e550-4f35-81a8-0fee0e47bcdf>
-    a crm:E13_Attribute_Assigment ;
-    crm:P14_carried_out_by <bfdf4431-c7cd-4926-9cb4-6d1f65d7d607> ;
-    crm:P140_assigned_attribute_to <f7921b23-3102-4211-bd07-f698497b5d72> ;
-    crm:P177_assigned_property_type ip:relativization ;
-    crm:P141_assigned "Certains chercheurs ont proposé de rattacher cette œuvre au ton pérégrin . Cette attribution se base néanmoins sur un critère purement externe, la finale, et ne dit rien de l’organisation interne du motet." ;
-    .
+################################################################################
+# Intellectual Primitives
+################################################################################
 
+ip:bibliography a crm:E55_Type .
+ip:relativization a crm:E55_Type .
+ip:scholarly-reading a crm:E55_Type .
+
+################################################################################
+# TODO
+################################################################################
+
+# How to express the fact that an argumentation occurs in a research paper? crm:P67i_is_referred_to_by? hico:isExtractedFrom?
