@@ -44,10 +44,15 @@ Additional tools can be used to further reinforce the structure of the result se
 
 ## Competency questions 
 
-CQ1: To which modes Vide homo has been assigned to in Tonalities? Leonhard, Bernhard, Harold, Siegfried, Frans and Alexander relate the motet to the tonus peregrinus. Robert, however, considers the work to be written in the mixolydian mode. 
+CQ1: Search operations should be expressed on either raw-level features (eg melodic lines) or higher-level features (eg modes, cadences, triad patterns, etc.). The systm should retrieve efficiently all sources that match the search pattern, and identifiy pattern occurrences
 
-CQ2: Are the criteria on which these interpretations are based true in the score and, if so, to what extent? 
-   - What are the cadence points in the work? 
+CQ2: A subset can be hierarchically refined based on criteria independant from on another and independant from the initial search pattern. The user can navigate in this hierarchy and refine the search.
+
+CQ3: At each step, the result set takes the form of a subcorpus organized according to rich relationships, and enriched with user annotations
+
+CQ4: A result set can be stored (in intention, not in extension) as a Relevant Corpus, and its definition can be revised at any moment
+
+CQ5: navigating through a Relevant Corpus is based on anotation and search patterns
 
 
 ## Resources
