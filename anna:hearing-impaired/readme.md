@@ -1,6 +1,6 @@
 # Persona description
 
-This is a description of the persona Ana.
+This is a description of the persona Anna.
 
 ## Name
 Anna 
