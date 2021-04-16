@@ -46,6 +46,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Keoma: Architect](https://github.com/polifonia-project/stories/tree/main/Keoma:%20Architect)
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
+- [Anna: Hearing Impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
 
 ## List of stories
 
