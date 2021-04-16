@@ -55,6 +55,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
 - [Sethus#1_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
 - [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
+- [Anna#1 FeelingMusic](https://github.com/polifonia-project/stories/blob/main/anna:hearing-impaired/Anna%231_hearingMusic.md)
 
 
 ## Useful links
