@@ -11,7 +11,7 @@ Anna
 ## Occupation
 
 ## Knowledge/Skills
-SHe has a knowledge of popular music. She is learning sign language.
+She has a knowledge of popular music. She is learning sign language.
 
 ## Interests
 Anna is a fan of live music. She became hearing imparied in later life.
