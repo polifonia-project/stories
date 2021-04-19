@@ -18,7 +18,7 @@ Priority:
 # Anna#1
 
 ## Persona
-Anna, who became hearing impaired in later life.
+Anna
 
 ## Goal
 Anna wants to experience live music with the aid of haptic technology.
