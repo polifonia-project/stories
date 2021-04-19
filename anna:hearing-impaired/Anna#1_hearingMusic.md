@@ -30,7 +30,8 @@ When they hand the equipment back in at the end of the gig, the Stables staff po
 
 ## Competency questions 
 
-
+What is the rhythm of the bassline?
+What is the rhythm of the electronic drum kit?
 
 ## Resources
 
