@@ -1,6 +1,6 @@
 ---
 id: 
-- Keoma#1_SoundPractices
+- Keoma#1_RestorationAndSoundPractices
 persona: 
 - Keoma
 keywords: 
@@ -22,7 +22,7 @@ Keoma is an architect and a restorer
 
 Keoma needs to draw up a restoration plan for a belfry, without altering the immaterial context connected to traditional sound practices and the impact of the bell sound on traditional soundscape.
 - sound practices
-- spectrum analysis program
+- restoration
 
 ## Scenario  
 
