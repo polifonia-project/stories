@@ -5,7 +5,7 @@ persona:
 - Keoma
 keywords: 
 - sound practices
-- spectrum analysis program
+- restoration
 WP:
 - WP1
 Pilots:
