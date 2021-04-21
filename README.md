@@ -43,6 +43,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of personas
 
 - (add personas here)
+- [Patrizia:ethnoantropologist](https://github.com/polifonia-project/stories/tree/main/Patrizia:ethnoantrhropologist)
 - [Keoma: Architect](https://github.com/polifonia-project/stories/tree/main/Keoma:%20Architect)
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
@@ -51,6 +52,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of stories
 
 - (add stories here)
+- [Patrizia#1_IdentificationOfIntangibleElements](https://github.com/polifonia-project/stories/blob/main/Patrizia:ethnoantrhropologist/Patrizia%231_IdentificationOfIntangibleElements.md)
 - [Keoma#1_SoundPractices](https://github.com/polifonia-project/stories/blob/main/Keoma:%20Architect/Keoma%231_SoundPractices.md)
 - [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
 - [Sethus#1_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
