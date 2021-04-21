@@ -13,7 +13,7 @@ Pilots:
 Priority:
 - Life improver
 ---
-# Keoma#1_SoundPractices
+# Keoma#1_RestorationAndSoundPractices
 
 ## Persona
 
