@@ -11,7 +11,7 @@ WP:
 Pilots:
 - BELLS
 Priority:
-- Life changer
+- Life improver
 ---
 # Keoma#1_SoundPractices
 
