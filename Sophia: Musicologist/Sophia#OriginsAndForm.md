@@ -7,7 +7,7 @@ keywords:
 - 16th century
 - 17th century
 - italian music
-- music analysis
+- music structure
 - language
 WP:
 - WP5
@@ -20,7 +20,7 @@ Priority:
 
 ## Persona
 
-Sophia is a musicologist and a practising musician.
+Sophia is a musicologist and a practising musician
 
 ## Goal
 
