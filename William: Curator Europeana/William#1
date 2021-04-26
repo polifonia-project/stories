@@ -1,3 +1,21 @@
+---
+id:
+- William#EuropeanFolkMusic
+persona:
+- William
+keywords:
+- Folk music
+- European
+- Europeana
+- Queries
+- Visualisations
+WP:
+- WP2
+Pilots:
+- INTERLINK
+Priority:
+- life improver
+
 # Persona
 William is an art historian working as a curator for the Europeana platform. As such he’s aiming to reach a large audience with transnational heritage stories to educate and inspire European citizens. He lacks in-depth musicological knowledge.
 
@@ -18,20 +36,3 @@ CQ7: Providing a visualisation of relations between the relevant countries, comp
 CQ8: Provide overviews of the occurrences of search results across certain time periods or genres.
 CQ9: What is the relevant metadata for music collections and what do the different fields mean?
 CQ10: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
-
-
-# For the table:
-id: 
-
-# persona: 
-- William
-
-# keywords: 
-
-# WP:
-
-# Pilots:
-INTERLINK
-
-# Priority:
-
