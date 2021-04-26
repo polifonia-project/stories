@@ -38,12 +38,12 @@ CQ3: What is the dating that accompanies this repertoire?
 
 CQ4: Is it a repertoire performed in the contemporary world?
 
-CQ4: Is it a repertoire in that place currently performed by hand or by electric means?
+CQ5: Is it a repertoire in that place currently performed by hand or by electric means?
 
-CQ5: How many people are generally employed for the performance of these sound practices?
+CQ6: How many people are generally employed for the performance of these sound practices?
 
-CQ6: Are there significant variations in the frequencies between the manually produced sound and the electric sound, such as to have repercussions on the soundscape?
+CQ7: Are there significant variations in the frequencies between the manually produced sound and the electric sound, such as to have repercussions on the soundscape?
 
-CQ7: Are there historical evidences of the presence of that sound in the surrounding area?
+CQ8: Are there historical evidences of the presence of that sound in the surrounding area?
 
 ## Resources
