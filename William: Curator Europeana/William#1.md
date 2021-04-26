@@ -15,6 +15,7 @@ Pilots:
 - INTERLINK
 Priority:
 - life improver
+---
 
 # Persona
 William is an art historian working as a curator for the Europeana platform. As such he’s aiming to reach a large audience with transnational heritage stories to educate and inspire European citizens. He lacks in-depth musicological knowledge.
