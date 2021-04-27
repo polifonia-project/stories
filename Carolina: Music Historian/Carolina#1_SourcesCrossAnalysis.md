@@ -20,7 +20,7 @@ Priority:
 Carolina is a music historian with a passion for the Baroque. She is a researcher and collaborates with the International Museum and the Music Library of Bologna. 
 
 ## Goal
-Carolina has to prepare a conference for the anniversary of the birth of the composer Giacomo Antonio Perti  and she needs to collect some informations about his career. She knows that Giacomo Antonio Perti is the author of “Masses” and she wants to dedicate a particular section to these compositions.
+Carolina has to prepare a conference for the anniversary of the birth of the composer Giacomo Antonio Perti  and she needs to collect some informations about his career. She knows that Giacomo Antonio Perti is the author of "Masses" and she wants to dedicate a particular section to these compositions.
 - sources cross-analysis
 
 ## Scenario  
@@ -28,31 +28,46 @@ In order to accomplish her goal first Carolina must find the scores that constit
 
 ## Competency questions 
 
-CQ1: In which architectural structures was the musical composition X performed? 
+CQ1: Where was the musical composition X performed? *(musical performance)*
 
-CQ2: In which places was musical composition X performed for the first time? 
+CQ2: In which buildings was musical composition X performed? *(musical performance)*
 
-- These are geographical locations and areas (i.e. Bologna, Milan, Ferrara, Emilia Romagna)
+CQ3: Where was the musical composition X performed for the first time? *(musical performance)*
 
-CQ3: In which scores is there evidence of musical composition X? 
+CQ4: In which buildings was musical composition X performed for the first time? *(musical performance)*
 
-CQ4: In which historical documents is there evidence of musical composition X? 
+CQ5: Which performers (musicians, singers) have performed musical composition X? *(musical performance)*
 
-CQ5: In which bibliographic references is there evidence of musical composition X? 
+CQ6: Which performers (musicians, singers) have performed musical composition X for the first time? *(musical performance)*
 
-CQ6: In which bibliographic references is there evidence of reception of musical composition X?
+CQ7: In which scores is there evidence of musical composition X? *(evidence)*
 
-CQ7: Which musicians have performed musical composition X for the first time? 
+CQ8: In which historical documents is there evidence of musical composition X? *(evidence)*
 
-CQ8: Which instruments are involved in musical composition x?
+CQ9: In which bibliographic references is there evidence of musical composition X? *(evidence)*
 
-CQ9: Which were the first medium of performance of musical composition X? 
+CQ10: In which historical documents is there evidence of reception of musical composition X? *(evidence)*
 
-CQ10: Where was performed musical composition X for the first time? 
+CQ11: In which bibliographic references is there evidence of reception of musical composition X? *(evidence)*
 
-- This concerns architectural places such as buildings (church, square, theaters) and is connected to the social function of "Masses"
+CQ12: Which is the medium of performance of musical composition X? *(musical composition)*
 
-CQ11: In which tonality was written the musical composition X for the first time?
+CQ13: Which was the first medium of performance of musical composition X? *(musical composition)*
+
+CQ14: Which instruments are involved in musical composition X? *(musical composition)*
+
+CQ15: Which voices are involved in musical composition X? *(musical composition)*
+ 
+CQ16: In which tonality was written the musical composition X for the first time? *(musical composition)*
+
+CQ17: Which is/are the composer(s) of the musical composition X? *(musical composition)*
+
+CQ18: Who has spoken about the musical composition X? *(reception of musical composition)*
+
+CQ19: How was the musical composition X received? *(reception of musical composition)*
+
+CQ20: How was the performance of musical composition X received? *(reception of musical composition)*
+
 
 ## Resources
 
