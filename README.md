@@ -49,6 +49,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
 - [Anna: Hearing Impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
+- [David: Music Historian](https://github.com/polifonia-project/stories/tree/main/David:Music-Historian)
 
 ## List of stories
 
@@ -60,6 +61,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sethus#1_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
 - [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
 - [Anna#1_FeelingMusic](https://github.com/polifonia-project/stories/blob/main/anna:hearing-impaired/Anna%231_hearingMusic.md)
+- [David#1_NonEliteMusic](https://github.com/polifonia-project/stories/blob/main/David:Music-Historian/David#1_musichistorian.md)
 
 
 ## Useful links
