@@ -1,6 +1,6 @@
 # Persona description
 
-A music historian working in the music department of a university. vvvvvvvvvv
+A music historian working in the music department of a university. 
 
 ## Name
 David 
