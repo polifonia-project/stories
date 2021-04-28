@@ -1,7 +1,7 @@
 ---
 id: David#1
 persona: 
-- Davidbbbb
+- David
 keywords: 
 - music historian
 WP:
