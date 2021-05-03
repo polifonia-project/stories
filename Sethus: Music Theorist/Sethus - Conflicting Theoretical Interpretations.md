@@ -1,6 +1,6 @@
 ---
 id: 
-- Sethus#1_ConflictingTheoreticalInterpretations
+- Sethus - Conflicting Theoretical Interpretations
 persona: 
 - Sethus
 keywords: 
@@ -18,7 +18,7 @@ Pilots:
 Priority:
 - Life changer
 ---
-# Sethus#1_ConflictingTheoreticalInterpretations
+# Sethus - Conflicting Theoretical Interpretations
 
 ## Persona
 
