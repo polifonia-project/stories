@@ -1,5 +1,5 @@
 ---
-id: Carolina#1
+id: Carolina - Sources cross analysis
 persona: 
 - Carolina
 keywords: 
@@ -14,7 +14,7 @@ Pilots:
 Priority:
 - Must have
 ---
-# Carolina#1
+# Carolina - Sources cross analysis
 
 ## Persona
 Carolina is a music historian with a passion for the Baroque. She is a researcher and collaborates with the International Museum and the Music Library of Bologna. 
