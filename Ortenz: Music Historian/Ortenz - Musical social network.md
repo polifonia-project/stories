@@ -1,6 +1,6 @@
 ---
 id:
-- Ortenz#MusicSocialNetwork
+- Ortenz - Musical social network
 persona:
 - Ortenz
 keywords:
@@ -19,7 +19,7 @@ Pilots:
 Priority:
 - life improver
 ---
-# Ortenz#MusicalSocialNetwork
+# Ortenz - Musical social network
 
 ## Persona
 
@@ -71,4 +71,3 @@ CQ5. How can we characterize the relation among the participants?
 - Wikipedia
 - DBpedia
 - Wikidata
-- 
