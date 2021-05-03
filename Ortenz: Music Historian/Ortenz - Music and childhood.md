@@ -1,6 +1,6 @@
 ---
 id:
-- Ortenz#MusicAndChildhood
+- Ortenz - Music and childhood
 persona:
 - Ortenz
 keywords:
@@ -17,7 +17,7 @@ Pilots:
 Priority:
 - life improver
 ---
-# Ortenz#MusicAndChildhood
+# Ortenz - Music and childhood
 
 ## Persona
 
