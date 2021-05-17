@@ -8,6 +8,8 @@ keywords:
 - restoration
 WP:
 - WP1
+- WP2
+- WP4
 Pilots:
 - BELLS
 Priority:
