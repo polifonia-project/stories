@@ -55,7 +55,8 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of stories
 
 - (add stories here)
-- [Mark#1_folkMusic](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%23_1folkMusic.md)
+- [Mark#1_FolkMusic](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%23_1folkMusic.md)
+- [Mark#2_DutchOrgans](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%232_dutchOrgans.md)
 - [Ortenz#MusicAndChildhood](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%23MusicAndChildhood.md)
 - [Patrizia#1_IdentificationOfIntangibleElements](https://github.com/polifonia-project/stories/blob/main/Patrizia:ethnoantrhropologist/Patrizia%231_IdentificationOfIntangibleElements.md)
 - [Keoma#1_RestorationAndSoundPractices](https://github.com/polifonia-project/stories/blob/main/Keoma:%20Architect/Keoma%231_RestorationAndSoundPractices.md)
