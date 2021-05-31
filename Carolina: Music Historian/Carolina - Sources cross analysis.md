@@ -66,9 +66,9 @@ CQ18: Who has spoken about the musical composition X? *(reception of musical com
 
 CQ19: Who has spoken about the musical performance X? *(reception of musical performance)*
 
-CQ19: How was the musical composition X received? *(reception of musical composition)*
+CQ20: How was the musical composition X received? *(reception of musical composition)*
 
-CQ20: How was the performance of musical composition X received? *(reception of musical performance)*
+CQ21: How was the performance of musical composition X received? *(reception of musical performance)*
 
 
 ## Resources
