@@ -43,6 +43,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of personas
 
 - (add personas here)
+- [Keith: Music Producer](https://github.com/polifonia-project/stories/tree/main/Keith:%20Music%20Producer)
 - [Mark: Computational Musicologist](https://github.com/polifonia-project/stories/tree/main/Mark:%20Computational%20Musicologist)
 - [Ortenz: Music Historian](https://github.com/polifonia-project/stories/tree/main/Ortenz:%20Music%20Historian)
 - [Patrizia:ethnoantropologist](https://github.com/polifonia-project/stories/tree/main/Patrizia:ethnoantrhropologist)
@@ -55,6 +56,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of stories
 
 - (add stories here)
+- [Keith#1_musicConnections](https://github.com/polifonia-project/stories/blob/main/Keith:%20Music%20Producer/Keith%231musicConnections.md)
 - [Mark#1_FolkMusic](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%23_1folkMusic.md)
 - [Mark#2_DutchOrgans](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%232_dutchOrgans.md)
 - [Ortenz#MusicAndChildhood](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%23MusicAndChildhood.md)
