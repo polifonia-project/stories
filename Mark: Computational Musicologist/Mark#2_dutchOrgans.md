@@ -14,7 +14,8 @@ To be able to understand the relationships between historic Dutch organs, and to
 
 ## Scenario
 
-Mark works with a 15 volume collection of books describing Dutch organs.  Currently the text is digitised, so the books are individually searchable by text search.
+As part of his research Mark makes use of a search and exploration tool that provides access to a Knowledge Graph of a 15 volume collection of books describing Dutch organs.
+Mark wants to find the oldest Dutch organ with a particular keyboard. He uses metadata search for the subset of organs that contain this keyboard and sorts them by date of construction. He reads about the oldest organ with that type of keyboard. One of the metadata fields describes the materials used to build the organ. He wonders if those materials were commonly used in the construction of organs featuring that keyboard	He visualises the set of organs according to the materials used in their construction. He notices that there are a number of differences in the materials used. He wonders whether the differences in material are associated with particular time periods	He visualises the set of organs according to both materials used and time of construction. He notices trends possibly related to the availability of materials and the migrancy of organ builders with skills in the use of certain materials. These questions lead him to further searches of the knowlege graph.
 
 ## Competency questions
 
