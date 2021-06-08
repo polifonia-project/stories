@@ -27,8 +27,12 @@ Sophia is a musicologist and a practising musician
 Sophia is interested in understanding how the composer was influenced, e.g. by which other composers; how the music ‘works’; and why we react to the music in the way we do.  She is interested in parallels between music and language.  
 
 ## Scenario  
+Current scenario:
+Sophia is making a detailed analysis of the music itself, e.g. looking at notes in a motif and analysing how the motif changes in the course of the music. This work involves very painstaking manual analysis, in part because the material is not digitized. She is also interested in performance practice, i.e. how the music was played and what conventions were used. 
 
-Sophia is making a detailed analysis of the music itself, e.g. looking at notes in a motif and analysing how the motif changes in the course of the music. This work involves very painstaking manual analysis, in part because the material is not digitized. She is also interested in performance practice, i.e. how the music was played and what conventions were used.    
+Future scenario:
+Sophia is interested in understanding the musical compositions of Frescobaldi, how they varied, relations between the music and the vocabulary, and identify similarities and differences to his contemporaries. Sophia is analysing a Frescobaldi composition and notices a particular motif that accompanies a reference to birdsong. She decides to see where else this motif can be found in the compositions of Frescobaldi, the compositions of his contemporaries and also investigate the language accompanying the motif. Sophia specifies a motif as a sequence of notes with a particular pitch and rhythm. She can search for precise matches of this motif across the catalogue. She can manipulate the precision level of the motif and colour code compositions depending on extent to which they match (e.g. a shade of blue is used to flag compositions containing a motif matching 3 of the 4 notes). Sophia can also see summaries of the words associated with the motif.
+Sophia can use the visualisation to see relationships to other composers in terms of the use of this motif and its variations. She also notices that the motif is sometimes associated with certain words or themes. The system can automatically provide Sophia with statistical analyses as to how the motif and its variations differ across composers and across compositions containing certain vocabulary. Sophia can save and annotate the result to use in her research. 
 
 ## Competency questions
 
