@@ -19,7 +19,7 @@ Keith uses music catalogues (see below), his own experiences of listening to mus
 
 ## Competency questions
 
-Can we find connections between different artists and music?
+Can we find relations between different artists and music?
 
 Can we find music which is related (in non-obvious way) to some other music?
 
