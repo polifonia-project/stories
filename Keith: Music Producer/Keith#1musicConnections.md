@@ -21,7 +21,7 @@ Keith uses music catalogues (see below), his own experiences of listening to mus
 
 Can we find relations between different artists and music?
 
-Can we find music which is related (in non-obvious way) to some other music?
+Can we find music which has a non-obvious relation to some other music?
 
 Can we visualize the relations between different media, different music etc?
 
