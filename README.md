@@ -23,8 +23,8 @@ A story is composed of:
 There is one folder for each Persona, named with the name of the Persona and their primary occupation.
 
 1. Check all existing Personas (there is one subfolder for each Persona in the "stories" folder), in order to see if there is already the Persona you need for your story. You will find a readme file in each folder, describing the Persona.
-2. If you find a Persona that suits you, create a new file in the respective folder, named ``Name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``.``md``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
-3. If not, create a new folder, named ``Name-of-the-persona: Primary Occupation``. If the persona has more than one role, use the primary role for naming the folder. Then, create a readme file (``readme.md``) describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md).
+2. If you find a Persona that suits you, create a new file in the respective folder, named ``Name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``.``md``, and fill the file with your story, following this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%20-%20Conflicting%20theoretical%20interpretations.md).
+3. If not, create a new folder, named ``Name-of-the-persona: Primary Occupation``. If the persona has more than one role, use the primary role for naming the folder. Then, create a readme file (``readme.md``) describing the persona (see this [example]( https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/readme.md)), and then a file with your story as this [example](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%20-%20Conflicting%20theoretical%20interpretations.md).
 4. Besides providing information about the four components of the story, you should additionally fill in a table with this information:
 - ID (``Name-of-the-persona``#``progressive-number``_``KeywordRepresentingTheMainGoal``)
 - Persona (name of the persona)
@@ -52,6 +52,10 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
 - [Anna: Hearing Impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
 - [David: Music Historian](https://github.com/polifonia-project/stories/tree/main/David:Music-Historian)
+- [Sonia: Playlist User](https://github.com/polifonia-project/stories/tree/main/Sonia:%20Playlist%20User)
+- [Sophia: Musicologist](https://github.com/polifonia-project/stories/tree/main/Sophia:%20Musicologist)
+- [William: Curator Europeana](https://github.com/polifonia-project/stories/tree/main/William:%20Curator%20Europeana)
+- [Anna: Hearing-impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
 
 ## List of stories
 
@@ -59,14 +63,19 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Keith#1_musicConnections](https://github.com/polifonia-project/stories/blob/main/Keith:%20Music%20Producer/Keith%231musicConnections.md)
 - [Mark#1_FolkMusic](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%23_1folkMusic.md)
 - [Mark#2_DutchOrgans](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%232_dutchOrgans.md)
-- [Ortenz#MusicAndChildhood](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%23MusicAndChildhood.md)
+- [Ortenz#1 MusicAndChildhood](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%23MusicAndChildhood.md)
+- [Ortenz#2 Musical social network](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%20-%20Musical%20social%20network.md)
 - [Patrizia#1_IdentificationOfIntangibleElements](https://github.com/polifonia-project/stories/blob/main/Patrizia:ethnoantrhropologist/Patrizia%231_IdentificationOfIntangibleElements.md)
 - [Keoma#1_RestorationAndSoundPractices](https://github.com/polifonia-project/stories/blob/main/Keoma:%20Architect/Keoma%231_RestorationAndSoundPractices.md)
 - [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
-- [Sethus#1_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
+- [Sethus#2_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
 - [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
 - [Anna#1_FeelingMusic](https://github.com/polifonia-project/stories/blob/main/anna:hearing-impaired/Anna%231_hearingMusic.md)
 - [David#1_NonEliteMusic](https://github.com/polifonia-project/stories/blob/main/David:Music-Historian/David%231_musichistorian.md)
+- [William#1 EuropeanFolkMusic](https://github.com/polifonia-project/stories/blob/main/William:%20Curator%20Europeana/William%231%20EuropeanFolkMusic.md)
+- [Sonia#1_PlaylistUser](https://github.com/polifonia-project/stories/blob/main/Sonia:%20Playlist%20User/Sonia%231_PlaylistUser.md)
+- [Sophia#1 MusiciansAndTheirEnvironment](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23MusiciansAndTheirEnvironment.md)
+- [Sophia#2 OriginsAndForm](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23OriginsAndForm.md)
 
 
 ## Useful links
