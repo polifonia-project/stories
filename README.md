@@ -43,6 +43,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of personas
 
 - (add personas here)
+- [Ralph: Music Historian](https://github.com/polifonia-project/stories/tree/main/Ralph:%20Music%20Historian)
 - [Keith: Music Producer](https://github.com/polifonia-project/stories/tree/main/Keith:%20Music%20Producer)
 - [Mark: Computational Musicologist](https://github.com/polifonia-project/stories/tree/main/Mark:%20Computational%20Musicologist)
 - [Ortenz: Music Historian](https://github.com/polifonia-project/stories/tree/main/Ortenz:%20Music%20Historian)
