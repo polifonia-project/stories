@@ -61,6 +61,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 ## List of stories
 
 - (add stories here)
+- [Ralph#1_wordsAndMusic](https://github.com/polifonia-project/stories/edit/main/Ralph:%20Music%20Historian/Ralph%231_wordsAnd%20Music)
 - [Keith#1_musicConnections](https://github.com/polifonia-project/stories/blob/main/Keith:%20Music%20Producer/Keith%231musicConnections.md)
 - [Mark#1_FolkMusic](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%23_1folkMusic.md)
 - [Mark#2_DutchOrgans](https://github.com/polifonia-project/stories/blob/main/Mark:%20Computational%20Musicologist/Mark%232_dutchOrgans.md)
