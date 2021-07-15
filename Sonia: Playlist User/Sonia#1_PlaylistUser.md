@@ -29,6 +29,20 @@ While making dinner, she puts the playlist into shuffle mode and stands the tabl
 
 ## Competency questions 
 
+- CQ1: What is the musical piece that the persona selects?
+- CQ2: Which is the melodic pattern of the musical piece?
+- CQ3: In which other musical pieces does the melodic pattern appear?
+- CQ4: Who is/are the composer(s)/musician(s) of the musical piece?
+- CQ5: What information is available for the composer(s)/musician(s)?
+- CQ6: When/Where was the musical piece recorded?
+- CQ7: Are there excerpts of the lyrics for a musical piece? If yes, which are they?
+- CQ8: Is the excerpt of the lyric featured in other musical pieces?
+- CQ9: Which is the source of the excerpt of the lyrics?
+- CQ10: Is there a person mentioned in the excerpt of the lyrics? If yes, what background information is available for him/her?
+- CQ11: What is the connection between two musical pieces?
+- CQ12: Which feature is selected to create the shuffle?
+- CQ13: What are the types of features that are used to create shuffles?
+- CQ14: Which is the immediate next musical piece?
 
 ## Resources
 
