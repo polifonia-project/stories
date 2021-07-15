@@ -52,7 +52,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sethus: Music Theorist](https://github.com/polifonia-project/stories/tree/main/Sethus:%20Music%20Theorist)
 - [Carolina: Music Historian](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian)
 - [Anna: Hearing Impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
-- [David: Music Historian](https://github.com/polifonia-project/stories/tree/main/David:Music-Historian)
+- [David: Music Historian](https://github.com/polifonia-project/stories/tree/main/David:%20Music%20Historian)
 - [Sonia: Playlist User](https://github.com/polifonia-project/stories/tree/main/Sonia:%20Playlist%20User)
 - [Sophia: Musicologist](https://github.com/polifonia-project/stories/tree/main/Sophia:%20Musicologist)
 - [William: Curator Europeana](https://github.com/polifonia-project/stories/tree/main/William:%20Curator%20Europeana)
