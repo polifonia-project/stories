@@ -69,7 +69,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Ortenz#2 Musical social network](https://github.com/polifonia-project/stories/blob/main/Ortenz:%20Music%20Historian/Ortenz%20-%20Musical%20social%20network.md)
 - [Patrizia#1_IdentificationOfIntangibleElements](https://github.com/polifonia-project/stories/blob/main/Patrizia:ethnoantrhropologist/Patrizia%231_IdentificationOfIntangibleElements.md)
 - [Keoma#1_RestorationAndSoundPractices](https://github.com/polifonia-project/stories/blob/main/Keoma:%20Architect/Keoma%231_RestorationAndSoundPractices.md)
-- [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%231_ConflictingTheoreticalInterpretations.md)
+- [Sethus#1_ConflictingTheoreticalInterpretations](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Sethus%20-%20Conflicting%20theoretical%20interpretations.md)
 - [Sethus#2_CreateRelevantCorpus](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/CreateRelevantCorpus.md)
 - [Carolina#1_SourcesCrossAnalysis](https://github.com/polifonia-project/stories/blob/main/Carolina:%20Music%20Historian/Carolina%231_SourcesCrossAnalysis.md)
 - [Anna#1_FeelingMusic](https://github.com/polifonia-project/stories/blob/main/anna:hearing-impaired/Anna%231_hearingMusic.md)
