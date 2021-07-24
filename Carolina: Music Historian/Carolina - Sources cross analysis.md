@@ -70,6 +70,8 @@ CQ20: How was the musical composition X received? *(reception of musical composi
 
 CQ21: How was the performance of musical composition X received? *(reception of musical performance)*
 
+CQ22: When was a musical composition performed? *(musical performance)*
+
 
 ## Resources
 
