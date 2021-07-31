@@ -1,5 +1,5 @@
 ---
-id: Sonia#1
+id: Sonia#1 - Exploration mode
 persona: 
 - Sonia
 keywords: 
