@@ -1,5 +1,5 @@
 ---
-id: Sonia#2
+id: Sonia#2 - Shuffle mode
 persona: 
 - Sonia
 keywords: 
