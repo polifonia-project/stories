@@ -9,7 +9,7 @@ Sonia
 27
 
 ## Occupation
-Sonia has a variety of roles. She lectures in new media and also works as a music producer and festival director. Her work as a festival director requires her to find new artists and music that could poetnailly feature in future festivals. 
+Sonia has a variety of roles. She lectures in new media and also works as a music producer and festival director. Her work as a festival director requires her to find new artists and music that could feature in future festivals. 
 
 ## Knowledge/Skills
 Sonia studied computing and new media at university.
