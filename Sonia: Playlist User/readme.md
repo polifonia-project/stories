@@ -1,6 +1,6 @@
 # Persona description
 
-This is a description of the persona Sonia.
+A lecturer, music producer and festival director interested in finding new music.
 
 ## Name
 Sonia 
@@ -9,10 +9,10 @@ Sonia
 27
 
 ## Occupation
-Administrator
+Sonia has a variety of roles. She lectures in new media and also works as a music producer and festival director.
 
 ## Knowledge/Skills
-Sonia has a degree in media and now works as an administrator for a large company.  She has good IT skills and is learning the piano.
+Sonia studied computing and new media at university.
 
 ## Interests
 Sonia has a broad interest in all kinds of music. She likes using streaming services, social media and online information to explore her interests in music.
