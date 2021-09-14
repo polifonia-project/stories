@@ -1,5 +1,5 @@
 ---
-id: Sophia 3 - Reorchestration
+id: Sophia#3_Reorchestration
 persona: 
 - Sophia
 keywords: 
@@ -13,7 +13,7 @@ Priority:
 - Must have
 ---
 
-# Sophia 3 - Reorchestration
+# Sophia#3_Reorchestration
 
 ## Persona
 Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. 
