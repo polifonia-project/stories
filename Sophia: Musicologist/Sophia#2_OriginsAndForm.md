@@ -1,6 +1,6 @@
 ---
 id:
-- Sophia#OriginsAndForm
+- Sophia#2_OriginsAndForm
 persona:
 - Sophia
 keywords:
@@ -16,7 +16,7 @@ Pilots:
 Priority:
 - life improver
 ---
-# Sophia#OriginsAndForm
+# Sophia#2_OriginsAndForm
 
 ## Persona
 
