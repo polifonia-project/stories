@@ -1,12 +1,24 @@
-# Mark#2
+---
+id: Mark#2_DutchOrgans
+persona: 
+- Mark
+keywords: 
+- dutch organs
+- instruments
+- tradition
+WP:
+- WP2
+Pilots:
+- ORGANS
+Priority:
+- 
+---
+
+# Mark#2_DutchOrgans
 
 ## Persona
 
 Mark
-
-## Pilot
-
-ORGANS
 
 ## Goal
 
@@ -19,15 +31,15 @@ Mark wants to find the oldest Dutch organ with a particular keyboard. He uses me
 
 ## Competency questions
 
-Can we see interconnections between organs, e.g. same builder
+CQ1: Can we see interconnections between organs, e.g. same builder
 
-Can we identify organs through a characteristic, e.g. oldest organ in the Netherlands with a keyboard to G3?
+CQ2: Can we identify organs through a characteristic, e.g. oldest organ in the Netherlands with a keyboard to G3?
 
-Can we ask technical questions about the construction of the organ and which materials were made?
+CQ3: Can we ask technical questions about the construction of the organ and which materials were made?
 
-Can we observe and understand trends in organs over time, e.g. how one tradition (German) influences or replaces another (Dutch) and why?
+CQ4: Can we observe and understand trends in organs over time, e.g. how one tradition (German) influences or replaces another (Dutch) and why?
 
-Can we visualize change of a network over time, e.g. with a slider, and do this in a way such as to see the change without having to remember previous states?
+CQ5: Can we visualize change of a network over time, e.g. with a slider, and do this in a way such as to see the change without having to remember previous states?
 
 ## Resources
 
