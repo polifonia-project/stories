@@ -1,12 +1,12 @@
 ---
-id: Keith#1
+id: Keith#1_MusicConnections
 persona: 
 - Keith
 keywords: 
 - connections between music
 - serendipitous discovery
 ---
-# Keith#1
+# Keith#1_MusicConnections
 
 ## Persona
 Keith
@@ -19,11 +19,11 @@ Keith uses music catalogues (see below), his own experiences of listening to mus
 
 ## Competency questions
 
-Can we find relations between different artists and music?
+CQ1: Can we find relations between different artists and music?
 
-Can we find music which has a non-obvious relation to some other music?
+CQ2: Can we find music which has a non-obvious relation to some other music?
 
-Can we visualize the relations between different media, different music etc?
+CQ3: Can we visualize the relations between different media, different music etc?
 
 ## Resources
 
