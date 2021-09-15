@@ -1,6 +1,6 @@
 ---
 id:
-- William#EuropeanFolkMusic
+- William#1_EuropeanFolkMusic
 persona:
 - William
 keywords:
@@ -17,16 +17,18 @@ Priority:
 - life improver
 ---
 
-# Persona
+# William#1_EuropeanFolkMusic
+
+## Persona
 William is an art historian working as a curator for the Europeana platform. As such he’s aiming to reach a large audience with transnational heritage stories to educate and inspire European citizens. He lacks in-depth musicological knowledge.
 
-# Goal
+## Goal
 William wants to create an online exhibition that illustrates the interconnectedness of folk songs of the early 20th century across Europe.
 
-# Scenario
+## Scenario
 William is looking for connections between composers, compositions and performers across various collections of 20th century music in Europe, particularly folk music. He wants to be able to find interesting connections between the various archives. William wants to provide an overview of the cultural/musical interchange between various European Countries pre- and post-WWII.
 
-# Competency questions
+## Competency questions
 CQ1: In which collections/datasets does song X occur?
 
 CQ2: In which countries does song X occur?
