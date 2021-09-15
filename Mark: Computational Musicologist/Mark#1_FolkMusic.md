@@ -1,12 +1,23 @@
-# Mark#1
+---
+id: Mark#1_FolkMusic
+persona: 
+- Mark
+keywords: 
+- folk music
+WP:
+- WP2
+Pilots:
+- TUNES
+Priority:
+- 
+---
+
+
+# Mark#1_FolkMusic
 
 ## Persona
 
 Mark
-
-## Pilot
-
-TUNES
 
 ## Goal
 
@@ -18,16 +29,15 @@ Starting from a collection of Dutch folk tunes, Mark attempts to relate these tu
 
 ## Competency questions
 
-Can we identify a tune (e.g. from an oral tradition) in our collection with music in another documented collection, e.g. RISM, NEUMA, ABC
+CQ1: Can we identify a tune (e.g. from an oral tradition) in our collection with music in another documented collection, e.g. RISM, NEUMA, ABC
 
-Can we compare music from different collections, e.g. from different countries to show connections/influences between musical styles?
+CQ2: Can we compare music from different collections, e.g. from different countries to show connections/influences between musical styles?
 
+CQ3: Can we compare music longitudinally, e.g. to see evolution of tonality and transition from modal to tonal?  Working either at manuscript of collection level.
 
-Can we compare music longitudinally, e.g. to see evolution of tonality and transition from modal to tonal?  Working either at manuscript of collection level.
+CQ4: Can we visualize changes in musical form over time, e.g. transition from modal to tonal (evolution curves - see Weiss et al. 2018 ‘Investigating style evolution of Western classical music: A computational approach’) - with zooming
 
-Can we visualize changes in musical form over time, e.g. transition from modal to tonal (evolution curves - see Weiss et al. 2018 ‘Investigating style evolution of Western classical music: A computational approach’) - with zooming
-
-Can we visualize interconnections, e.g. of tunes which share melodic patterns or geographical origin?
+CQ5: Can we visualize interconnections, e.g. of tunes which share melodic patterns or geographical origin?
 
 
 ## Resources
