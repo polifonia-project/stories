@@ -1,6 +1,6 @@
 ---
 id: 
-- Sethus - Create relevant corpus
+- Sethus#2_CreateRelevantCorpus
 persona: 
 - Sethus
 keywords: 
@@ -17,7 +17,7 @@ Pilots:
 Priority:
 - Life changer
 ---
-# Sethus - Create relevant corpus
+# Sethus#2_CreateRelevantCorpus
 ## Persona
 
 Sethus is a music theorist, composer and teacher, specialized in late Renaissance music. In this field, his research focuses on the 
