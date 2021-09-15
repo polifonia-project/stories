@@ -1,9 +1,10 @@
 ---
-id: David#1
+id: David#1_MusicHistorian
 persona: 
 - David
 keywords: 
 - music historian
+- social history of music
 WP:
 - WP2
 - WP3
@@ -14,7 +15,7 @@ Pilots:
 Priority:
 - Illustrative
 ---
-# David#1
+# David#1_MusicHistorian
 
 ## Persona
 David
@@ -27,34 +28,34 @@ David will work for several years collecting information, e.g. about brass bands
 
 ## Competency questions 
 
-What music was being played?
+CQ1: What music was being played?
 
-Who was listening to the music?
+CQ2: Who was listening to the music?
 
-How did the instruments used change over time?
+CQ3: How did the instruments used change over time?
 
-What was source of money – e.g. for instruments?
+CQ4: What was source of money – e.g. for instruments?
 
-Where were the musicians coming from?
+CQ5: Where were the musicians coming from?
 
-Who were teaching the musicians?
+CQ6: Who were teaching the musicians?
 
-Where were the places (in which they played)?
+CQ7: Where were the places (in which they played)?
 
-How were instruments sold?
+CQ8: How were instruments sold?
 
-What was the sales pitch?
+CQ9: What was the sales pitch?
 
-How does the world of brass bands connect with that of elite music?
+CQ10: How does the world of brass bands connect with that of elite music?
 
-What did people ‘make of’, how  did they react to, e.g. music?
+CQ11: What did people ‘make of’, how  did they react to, e.g. music?
 
-Who was the author of a piece of music?
+CQ12: Who was the author of a piece of music?
 e.g. can we identify it by its incipit?
 
-What was the country of origin of a piece of music?
+CQ13: What was the country of origin of a piece of music?
 
-What is the cause of a change, e.g. increasing number of concerts over time?
+CQ14: What is the cause of a change, e.g. increasing number of concerts over time?
 
 
 ## Resources
