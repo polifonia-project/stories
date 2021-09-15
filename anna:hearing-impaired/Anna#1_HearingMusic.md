@@ -15,7 +15,7 @@ Pilots:
 Priority:
 - Illustrative
 ---
-# Anna#1
+# Anna#1_HearingMusic
 
 ## Persona
 Anna
@@ -30,9 +30,9 @@ When they hand the equipment back in at the end of the gig, the Stables staff po
 
 ## Competency questions 
 
-What is the rhythm of the bassline?
+CQ1: What is the rhythm of the bassline?
 
-What is the rhythm of the electronic drum kit?
+CQ2: What is the rhythm of the electronic drum kit?
 
 ## Resources
 
