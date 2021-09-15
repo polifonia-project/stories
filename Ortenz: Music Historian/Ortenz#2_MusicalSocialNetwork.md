@@ -1,6 +1,6 @@
 ---
 id:
-- Ortenz - Musical social network
+- Ortenz#2_MusicalSocialNetwork
 persona:
 - Ortenz
 keywords:
@@ -19,7 +19,7 @@ Pilots:
 Priority:
 - life improver
 ---
-# Ortenz - Musical social network
+# Ortenz#2_MusicalSocialNetwork
 
 ## Persona
 
@@ -42,26 +42,26 @@ and curate collections of facts/statements/events as material for scholarship.
 
 ## Competency questions
 
-CQ1. What places did muciain Z visited in her career?
+CQ1: What places did muciain Z visited in her career?
 
 * Where did she perform?
 * Where did she live?
 
-CQ2. Did musician X and performer Y ever met? Where, when, and why?
+CQ2: Did musician X and performer Y ever met? Where, when, and why?
 
-CQ3. In what context the meeting happend? 
+CQ3: In what context the meeting happend? 
 
 * What is the nature of the event? 
 * Was it a celebration, a festival, a private event?
 * Was it a religious or a secolar event?
 * Who paid to support the event?
 
-CQ4. What is the provenance of the event attendees? What and how they happened to be there?
+CQ4: What is the provenance of the event attendees? What and how they happened to be there?
 
 * Did they travel to reach the place?
 * Where they invited? Was the meeting accidental?
 
-CQ5. How can we characterize the relation among the participants?
+CQ5: How can we characterize the relation among the participants?
 
 * Was there a power relation? (e.g. Patreon / Musician)
 
