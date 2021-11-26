@@ -12,7 +12,7 @@ WP:
 - WP1
 - WP2
 - WP3
-Pilots:
+pilot:
 - FACETS
 Priority:
 - Life changer

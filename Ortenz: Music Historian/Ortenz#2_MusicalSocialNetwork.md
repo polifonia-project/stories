@@ -14,7 +14,7 @@ WP:
 - WP1
 - WP4
 - WP2
-Pilots:
+pilot:
 - MEETUPS
 Priority:
 - life improver

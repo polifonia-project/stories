@@ -8,7 +8,7 @@ keywords:
 - transmission of knowledge
 WP:
 - WP1
-Pilots:
+pilot:
 - BELLS
 Priority:
 - Life improver

@@ -13,7 +13,7 @@ WP:
 - WP2
 - WP4
 - WP5
-Pilots:
+pilot:
 - TONALITIES
 Priority:
 - Life changer

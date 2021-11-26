@@ -10,7 +10,7 @@ WP:
 - WP1
 - WP2
 - WP4
-Pilots:
+pilot:
 - BELLS
 Priority:
 - Life improver

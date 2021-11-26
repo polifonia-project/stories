@@ -11,7 +11,7 @@ keywords:
 - language
 WP:
 - WP5
-Pilots:
+pilot:
 - None
 Priority:
 - life improver

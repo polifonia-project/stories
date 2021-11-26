@@ -7,7 +7,7 @@ keywords:
 - words
 WP:
 - WP2
-Pilots:
+pilot:
 - 
 Priority:
 - 

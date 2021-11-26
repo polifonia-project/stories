@@ -6,7 +6,7 @@ keywords:
 - folk music
 WP:
 - WP2
-Pilots:
+pilot:
 - TUNES
 Priority:
 - 

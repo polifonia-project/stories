@@ -11,7 +11,7 @@ keywords:
 - art interpretation
 WP:
 - WP1
-Pilots:
+pilot:
 - CHILD
 - MEETS
 Priority:

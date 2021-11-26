@@ -8,7 +8,7 @@ keywords:
 - tradition
 WP:
 - WP2
-Pilots:
+pilot:
 - ORGANS
 Priority:
 - 

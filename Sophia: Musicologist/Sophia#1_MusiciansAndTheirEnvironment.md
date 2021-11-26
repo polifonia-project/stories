@@ -12,7 +12,7 @@ keywords:
 - text analysis
 WP:
 - WP5
-Pilots:
+pilot:
 - MEETUPS
 Priority:
 - life improver

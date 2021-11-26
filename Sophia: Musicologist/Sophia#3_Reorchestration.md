@@ -7,7 +7,7 @@ keywords:
 - instrumentation
 WP:
 - WP2
-Pilots:
+pilot:
 - To be completed
 Priority:
 - Must have

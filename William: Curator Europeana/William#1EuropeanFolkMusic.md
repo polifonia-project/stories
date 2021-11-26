@@ -11,7 +11,7 @@ keywords:
 - Visualisations
 WP:
 - WP2
-Pilots:
+pilot:
 - INTERLINK
 Priority:
 - life improver

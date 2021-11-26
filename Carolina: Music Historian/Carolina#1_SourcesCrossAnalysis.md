@@ -9,7 +9,7 @@ WP:
 - WP3
 - WP4
 - WP5
-Pilots:
+pilot:
 - MusicBo
 Priority:
 - Must have
