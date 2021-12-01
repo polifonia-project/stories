@@ -40,10 +40,17 @@ The app can also visualise her listening history by time and location. There is 
 
 ## Resources
 [1] https://polifonia-project.github.io/sonar2021_demo/
+
 [2] https://www.last.fm
+
 [3] https://obscurifymusic.com/login
+
 [4] https://www.statsforspotify.com
+
 [5] https://musicscapes.herokuapp.com
+
 [6] https://discoverquickly.com
+
 [7] https://www.spotify.com/uk/wrapped/
+
 [8] https://music.apple.com/replay
