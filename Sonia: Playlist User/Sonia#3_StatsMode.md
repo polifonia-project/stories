@@ -43,7 +43,7 @@ The app can also visualise her listening history by time and location. There is 
 
 [2] https://www.last.fm
 
-[3] https://obscurifymusic.com/login
+[3] https://obscurifymusic.com/
 
 [4] https://www.statsforspotify.com
 
