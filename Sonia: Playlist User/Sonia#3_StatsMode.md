@@ -20,7 +20,7 @@ Priority:
 Sonia
 
 ## Goal
-Sonia likes to explore her playlist history, find intersting statistics and patterns and see how it compares to other music listeners.
+Sonia likes to explore her playlist history, find interesting statistics and patterns and see how it compares to other music listeners.
 
 ## Scenario  
 Sonia has been using the Polifonia Music Player app [1] for some time. She likes using the intelligent agents to find out more about what she is listening to and extend her playlist with their recommendations. When listening to music she also likes to use companion apps that can give her statistics and visualisations of what she has been listening to such as last.fm [2], Obscurify [3], Stats for Spotify [4], MusicScape [5], Discover Quickly [6], Spotify Wrapped [7] and Apple Music Replay [8].
