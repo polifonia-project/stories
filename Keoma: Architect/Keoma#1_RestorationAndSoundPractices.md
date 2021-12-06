@@ -12,8 +12,10 @@ WP:
 - WP4
 pilot:
 - BELLS
-Priority:
+priority:
 - Life improver
+story type: 
+- expert driven
 ---
 # Keoma#1_RestorationAndSoundPractices
 
