@@ -12,8 +12,10 @@ WP:
 - WP5
 pilot:
 - MEETUPS
-Priority:
+priority:
 - Illustrative
+story type:
+- expert driven
 ---
 # David#1_MusicHistorian
 
