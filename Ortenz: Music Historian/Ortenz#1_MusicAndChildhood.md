@@ -14,8 +14,10 @@ WP:
 pilot:
 - CHILD
 - MEETS
-Priority:
+priority:
 - life improver
+story type:
+- expert driven
 ---
 # Ortenz#1_MusicAndChildhood
 
