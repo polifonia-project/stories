@@ -10,8 +10,10 @@ WP:
 - WP1
 pilot:
 - BELLS
-Priority:
+priority:
 - Life improver
+story type: 
+- expert driven
 ---
 # Patrizia#1_IdentificationOfIntangibleElements
 
