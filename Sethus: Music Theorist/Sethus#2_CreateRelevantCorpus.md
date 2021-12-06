@@ -14,8 +14,10 @@ WP:
 - WP3
 pilot:
 - FACETS
-Priority:
+priority:
 - Life changer
+story type:
+- expert driven
 ---
 # Sethus#2_CreateRelevantCorpus
 ## Persona
