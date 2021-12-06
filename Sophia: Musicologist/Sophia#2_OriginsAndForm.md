@@ -13,8 +13,10 @@ WP:
 - WP5
 pilot:
 - None
-Priority:
+priority:
 - life improver
+story type:
+- expert driven
 ---
 # Sophia#2_OriginsAndForm
 
