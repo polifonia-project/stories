@@ -15,8 +15,10 @@ WP:
 - WP5
 pilot:
 - TONALITIES
-Priority:
+priority:
 - Life changer
+story type:
+- expert domain
 ---
 # Sethus#1_ConflictingTheoreticalInterpretations
 
