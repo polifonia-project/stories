@@ -12,7 +12,6 @@ jobs:
       with:
         webhook_id: ${{ secrets.WEBHOOK_ID }}
         webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
-        
         color: "#cd42f4"
         username: "Polifonia GitHub"
-        message: "A new commit has been pushed in the Stories repository."
+        message: "A new commit has been pushed in the Stories repository. Please check it at your earliest convenience. Thank you!"
