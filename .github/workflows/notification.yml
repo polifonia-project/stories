@@ -1,4 +1,4 @@
-name: discord message
+name: Discord notifications
 on: [push]
 jobs:
 
