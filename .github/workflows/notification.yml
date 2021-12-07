@@ -14,4 +14,4 @@ jobs:
         webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
         color: "#cd42f4"
         username: "Polifonia GitHub"
-        args: The new commit has been pushed in the file ${{ github.event.commits[0].message }} from the Stories repository. Please check it at your earliest convenience. Thank you! "
+        args: The new commit has been pushed in the file ${{ github.event.commits[0].ref }} from the Stories repository. Please check it at your earliest convenience. Thank you! "
