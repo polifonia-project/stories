@@ -10,8 +10,8 @@ jobs:
     - name: send custom message with args
       uses: appleboy/discord-action@master
       with:
-        webhook_id: ${{ secrets.917716619734695936 }}
-        webhook_token: ${{ secrets.DEyE95QFUwmRk0Z09TJP51mm7xBjTYsCaidACEkzTQL5fYxnUeSou8KIFQmqhXU8kiQy }}
+        webhook_id: ${{ secrets.WEBHOOK_ID }}
+        webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
         args: The ${{ github.event_name }} event triggered first step.
         color: "#cd42f4"
         username: "Polifonia GitHub Bot"
