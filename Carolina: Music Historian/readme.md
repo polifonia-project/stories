@@ -20,4 +20,3 @@ She is a researcher and collaborates with the International Museum and the Music
 ## Interests
 Carolina has a passion for the Baroque.
 
-## Sources
