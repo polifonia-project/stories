@@ -9,7 +9,7 @@ keywords:
 - modal analysis
 - history of music theory
 - Orlando di Lasso
-WP:
+work-package:
 - WP2
 - WP4
 - WP5

@@ -6,7 +6,7 @@ persona:
 keywords: 
 - bell sound practices
 - transmission of knowledge
-WP:
+work-package:
 - WP1
 pilot:
 - BELLS

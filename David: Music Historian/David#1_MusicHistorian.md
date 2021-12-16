@@ -5,7 +5,7 @@ persona:
 keywords: 
 - music historian
 - social history of music
-WP:
+work-package:
 - WP2
 - WP3
 - WP4

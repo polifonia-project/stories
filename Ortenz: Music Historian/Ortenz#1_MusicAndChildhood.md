@@ -9,7 +9,7 @@ keywords:
 - childhood
 - text analysis
 - art interpretation
-WP:
+work-package:
 - WP1
 pilot:
 - CHILD

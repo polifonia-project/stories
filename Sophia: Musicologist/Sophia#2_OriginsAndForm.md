@@ -9,7 +9,7 @@ keywords:
 - italian music
 - music structure
 - language
-WP:
+work-package:
 - WP5
 pilot:
 - None

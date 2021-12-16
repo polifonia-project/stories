@@ -5,7 +5,7 @@ persona:
 keywords: 
 - music
 - words
-WP:
+work-package:
 - WP2
 pilot:
 - 

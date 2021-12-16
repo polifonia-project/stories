@@ -4,7 +4,7 @@ persona:
 - Sonia
 keywords: 
 - Playlist
-WP:
+work-package:
 - WP2
 - WP3
 - WP4

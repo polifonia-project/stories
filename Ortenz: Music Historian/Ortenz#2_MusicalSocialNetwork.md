@@ -10,7 +10,7 @@ keywords:
 - text analysis
 - annotation
 - collaboration
-WP:
+work-package:
 - WP1
 - WP4
 - WP2

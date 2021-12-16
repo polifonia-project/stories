@@ -10,7 +10,7 @@ keywords:
 - composers
 - people network
 - text analysis
-WP:
+work-package:
 - WP5
 pilot:
 - MEETUPS

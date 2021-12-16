@@ -9,7 +9,7 @@ keywords:
 - Europeana
 - Queries
 - Visualisations
-WP:
+work-package:
 - WP2
 pilot:
 - INTERLINK

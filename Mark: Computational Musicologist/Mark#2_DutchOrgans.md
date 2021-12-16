@@ -6,7 +6,7 @@ keywords:
 - dutch organs
 - instruments
 - tradition
-WP:
+work-package:
 - WP2
 pilot:
 - ORGANS

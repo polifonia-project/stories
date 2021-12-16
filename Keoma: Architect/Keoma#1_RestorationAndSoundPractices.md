@@ -6,7 +6,7 @@ persona:
 keywords: 
 - sound practices
 - restoration
-WP:
+work-package:
 - WP1
 - WP2
 - WP4

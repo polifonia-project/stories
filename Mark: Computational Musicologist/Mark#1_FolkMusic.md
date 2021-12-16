@@ -4,7 +4,7 @@ persona:
 - Mark
 keywords: 
 - folk music
-WP:
+work-package:
 - WP2
 pilot:
 - TUNES

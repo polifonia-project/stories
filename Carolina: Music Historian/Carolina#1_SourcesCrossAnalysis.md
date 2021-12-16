@@ -4,7 +4,7 @@ persona:
 - Carolina
 keywords: 
 - sources cross-analysis
-WP:
+work-package:
 - WP2
 - WP3
 - WP4

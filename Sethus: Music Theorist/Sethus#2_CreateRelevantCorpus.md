@@ -8,7 +8,7 @@ keywords:
 - corpus navigation based on facets
 - virtual corpus, defined by intention 
 - history of music theory
-WP:
+work-package:
 - WP1
 - WP2
 - WP3

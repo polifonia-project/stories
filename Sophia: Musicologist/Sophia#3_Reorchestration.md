@@ -5,7 +5,7 @@ persona:
 keywords: 
 - orchestration
 - instrumentation
-WP:
+work-package:
 - WP2
 pilot:
 - To be completed
