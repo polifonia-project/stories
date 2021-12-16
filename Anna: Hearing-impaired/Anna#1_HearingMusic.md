@@ -12,8 +12,10 @@ work-package:
 - WP5
 pilot:
 - ACCESS
-Priority:
+priority:
 - Illustrative
+story type:
+- Expert driven
 ---
 # Anna#1_HearingMusic
 

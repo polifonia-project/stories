@@ -16,8 +16,10 @@ work-package:
 - WP2
 pilot:
 - MEETUPS
-Priority:
+priority:
 - life improver
+story type:
+- expert driven
 ---
 # Ortenz#2_MusicalSocialNetwork
 

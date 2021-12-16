@@ -6,6 +6,8 @@ This is a description of the persona Ralph.
 
 Ralph
 
+## Age
+
 ## Occupation
 
 Ralph is a researcher and professor.

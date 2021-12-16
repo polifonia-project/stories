@@ -5,6 +5,12 @@ persona:
 keywords: 
 - connections between music
 - serendipitous discovery
+WP:
+- 
+priority:
+-
+story type:
+- expert driven
 ---
 # Keith#1_MusicConnections
 

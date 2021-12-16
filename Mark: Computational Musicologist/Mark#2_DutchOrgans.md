@@ -10,8 +10,10 @@ work-package:
 - WP2
 pilot:
 - ORGANS
-Priority:
+priority:
 - 
+story type:
+- expert driven
 ---
 
 # Mark#2_DutchOrgans

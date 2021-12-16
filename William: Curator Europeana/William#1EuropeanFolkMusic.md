@@ -13,8 +13,10 @@ work-package:
 - WP2
 pilot:
 - INTERLINK
-Priority:
+priority:
 - life improver
+story type:
+- expert driven
 ---
 
 # William#1_EuropeanFolkMusic

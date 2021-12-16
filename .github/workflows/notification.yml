@@ -1,0 +1,18 @@
+name: Discord notifications
+on: [push]
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: send custom message with args
+      uses: appleboy/discord-action@master
+      with:
+        webhook_id: ${{ secrets.WEBHOOK_ID }}
+        webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+        color: "#cd42f4"
+        username: "Polifonia GitHub"
+        args: The new commit has been pushed in the Stories repository with the message "${{github.event.commits[0].message}}". You can access it in the following link ${{ github.event.commits[0].url }}. Please check it at your earliest convenience. Thank you! "
+        

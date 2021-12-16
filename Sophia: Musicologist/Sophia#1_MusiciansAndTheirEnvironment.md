@@ -14,8 +14,10 @@ work-package:
 - WP5
 pilot:
 - MEETUPS
-Priority:
+priority:
 - life improver
+story type:
+- expert driven
 ---
 # Sophia#1_MusiciansAndTheirEnvironment
 

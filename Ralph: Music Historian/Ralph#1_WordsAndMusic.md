@@ -9,8 +9,10 @@ work-package:
 - WP2
 pilot:
 - 
-Priority:
+priority:
 - 
+story type:
+- expert driven
 ---
 
 

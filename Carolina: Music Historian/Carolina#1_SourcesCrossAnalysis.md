@@ -11,8 +11,10 @@ work-package:
 - WP5
 pilot:
 - MusicBo
-Priority:
+priority:
 - Must have
+story type:
+- expert driven
 ---
 # Carolina#1_SourcesCrossAnalysis
 

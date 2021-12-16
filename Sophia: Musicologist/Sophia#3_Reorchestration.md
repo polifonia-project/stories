@@ -9,8 +9,10 @@ work-package:
 - WP2
 pilot:
 - To be completed
-Priority:
+priority:
 - Must have
+story type:
+- expert driven
 ---
 
 # Sophia#3_Reorchestration
