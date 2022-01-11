@@ -2,7 +2,7 @@ name: Discord notifications
 on: 
   push:
     paths: 
-      - 'stories'
+      - 'stories/**'
 jobs:
 
   build:
