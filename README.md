@@ -79,7 +79,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sonia#1_PlaylistUser](https://github.com/polifonia-project/stories/blob/main/Sonia:%20Playlist%20User/Sonia%231_PlaylistUser.md)
 - [Sophia#1 MusiciansAndTheirEnvironment](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23MusiciansAndTheirEnvironment.md)
 - [Sophia#2 OriginsAndForm](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23OriginsAndForm.md)
-- [Laurent#1 MusicArchives](https://github.com/polifonia-project/stories/blob/main/Laurent:%20Music%20Journalist/Laurent%231_MusicArchives.md)
+- [Laurent#1_MusicArchives](https://github.com/polifonia-project/stories/blob/main/Laurent:%20Music%20Journalist/Laurent%231_MusicArchives.md)
 
 
 ## Useful links
