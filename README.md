@@ -57,6 +57,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sophia: Musicologist](https://github.com/polifonia-project/stories/tree/main/Sophia:%20Musicologist)
 - [William: Curator Europeana](https://github.com/polifonia-project/stories/tree/main/William:%20Curator%20Europeana)
 - [Anna: Hearing-impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
+- [Laurent: Music Journalist](https://github.com/polifonia-project/stories/tree/main/Laurent:%20Music%20Journalist)
 
 ## List of stories
 
@@ -78,6 +79,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sonia#1_PlaylistUser](https://github.com/polifonia-project/stories/blob/main/Sonia:%20Playlist%20User/Sonia%231_PlaylistUser.md)
 - [Sophia#1 MusiciansAndTheirEnvironment](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23MusiciansAndTheirEnvironment.md)
 - [Sophia#2 OriginsAndForm](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23OriginsAndForm.md)
+- [Laurent#1 MusicArchives](https://github.com/polifonia-project/stories/blob/main/Laurent:%20Music%20Journalist/Laurent%231_MusicArchives.md)
 
 
 ## Useful links
