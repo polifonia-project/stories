@@ -1,4 +1,6 @@
 ---
+persona:
+- Keith
 ---
 
 # Persona description

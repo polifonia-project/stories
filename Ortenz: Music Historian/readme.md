@@ -1,4 +1,6 @@
 ---
+persona:
+- Ortenz
 ---
 
 # Persona description

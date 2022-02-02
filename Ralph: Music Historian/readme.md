@@ -1,4 +1,6 @@
 ---
+persona:
+- Ralph
 ---
 
 # Persona description

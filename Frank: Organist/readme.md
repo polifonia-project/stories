@@ -1,4 +1,6 @@
 ---
+persona:
+- Frank
 ---
 
 # Persona description

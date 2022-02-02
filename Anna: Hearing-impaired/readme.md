@@ -1,4 +1,6 @@
 ---
+persona: 
+- Anna
 ---
 
 # Persona description

@@ -1,4 +1,6 @@
 ---
+persona:
+- Sophia
 ---
 
 # Persona description

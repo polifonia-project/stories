@@ -1,4 +1,6 @@
 ---
+persona:
+- William
 ---
 
 # Persona description

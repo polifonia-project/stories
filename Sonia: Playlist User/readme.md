@@ -1,4 +1,6 @@
 ---
+persona:
+- Sonia
 ---
 
 # Persona description

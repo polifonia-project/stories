@@ -1,4 +1,6 @@
 ---
+persona:
+- Paul
 ---
 
 # Persona description

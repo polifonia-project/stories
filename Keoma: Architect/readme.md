@@ -1,4 +1,6 @@
 ---
+persona:
+- Keoma
 ---
 
 # Persona description

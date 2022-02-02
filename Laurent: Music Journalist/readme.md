@@ -1,4 +1,6 @@
 ---
+persona:
+- Laurent
 ---
 
 # Persona description

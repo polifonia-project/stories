@@ -1,4 +1,6 @@
 ---
+persona:
+- Andrea
 ---
 
 # Persona description

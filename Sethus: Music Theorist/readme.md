@@ -1,4 +1,6 @@
 ---
+persona: 
+- Sethus
 ---
 
 # Persona description
