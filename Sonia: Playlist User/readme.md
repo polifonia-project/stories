@@ -1,3 +1,6 @@
+---
+---
+
 # Persona description
 
 A lecturer, music producer and festival director interested in finding new music.
