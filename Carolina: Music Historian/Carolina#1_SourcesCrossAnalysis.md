@@ -10,7 +10,7 @@ work-package:
 - WP4
 - WP5
 pilot:
-- MusicBo
+- MUSICBO
 priority:
 - Must have
 story type:

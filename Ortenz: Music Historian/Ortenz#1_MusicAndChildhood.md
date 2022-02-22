@@ -13,7 +13,7 @@ work-package:
 - WP1
 pilot:
 - CHILD
-- MEETS
+- MEETUPS
 priority:
 - life improver
 story type:
