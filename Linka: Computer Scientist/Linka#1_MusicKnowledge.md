@@ -72,7 +72,7 @@ Establishing connections among pieces and recordings based on objective and/or s
 - "Penny Lane" was covered by "Kai Warner" in 1976.
 - "Penny Lane" was sampled by "The Rutles" in "Doubleback Alley". The sample appears at 1:16, 1:35, 1:43, and 2:35, corresponding to  1:12, 1:27, 1:33, and 2:41 in the original performance.
 
-## Resources
+## Data resources
 
 An example of music-related data for the same song (Penny Lane) is given below.
 
@@ -92,4 +92,5 @@ An example of music-related data for the same song (Penny Lane) is given below.
 
 
 [^1] This use case is the specific scope of another story: Linka#2 (coming soon).
+
 [-2] AcousticBrainz will be shut down (news from Mid-Feb 2022).
