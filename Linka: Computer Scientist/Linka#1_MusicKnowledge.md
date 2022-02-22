@@ -31,8 +31,13 @@ Linka is interested in finding and describing music-related data of heterogeneou
 
 Linka is carrying out a lot of manual work to find music data on the Web from different datasets, catalogues, platforms and services. In addition, all this data needs to be carefully inspected so that information retrieved from a certain source is matched to that of another source, in a consistent manner. Although this can be done for a few musical objects of interest (e.g. information related to an album), the analytical and manual process becomes unmanageable and tremendously time-consuming when the scope of the analysis increases (e.g. hundreds of songs). In turn, this jeopardises the possibility of conducting large scale computational studies, which are fundamental for knowledge discovery -- establishing links among musical objects and entities to unveil novel relationships[^1].
 
-Thanks to Polifonia, Linka will be able to perform all the aforementioned operations in an automatic manner and with little supervision. Starting from some desiderata -- names of artists, composers, musical pieces, albums -- the system will attempt to find pertinent music-related data from a specific set of resources (see below). Besides the computational requirements of the system for finding relevant content, this requires to semantically describe the retrieved data. For simplicity, music-related data can be categorised as: cataloguing information, musical features, musical facts, and musical relationships.
+Thanks to Polifonia, Linka will be able to perform all the aforementioned operations in an automatic manner and with little supervision. Starting from some desiderata -- names of artists, composers, musical pieces, albums -- the system will attempt to find pertinent music-related data from a specific set of resources (see below). Besides the computational requirements of the system for finding relevant content, this requires to semantically describe the retrieved data. 
 
+
+
+## Example Data
+
+For simplicity, music-related data can be categorised as: cataloguing information, musical features, musical facts, and musical relationships.
 
 **Cataloguing information**
 
