@@ -42,6 +42,10 @@ CQ6: When (and why) was the organ moved? Where was the organ placed originally?
 
 CQ7: Where can more information be found about a specific organ/organ builder/time period/location/etc.? / Which literature or resources contain information about a specific organ/organ builder/time period/location/etc.?
 
+CQ8: What are longitudinal changes of certain characteristics of organs or organ builders?
+
+CQ9: What are geographically distinct features? (e.g., in what differ 17th century Southern German organs from 17th century Spanish organs?).
+
 ## Resources
 
 - Amy already has access to the physical as well as online library of the university where she works.
