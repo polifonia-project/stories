@@ -29,7 +29,7 @@ As it turns out, the comparison of the disposition indicates that the organ up f
 
 ## Competency questions 
 
-CQ1: Search organs with the possibility to combine searches, based on
+CQ1: Search organs with the possibility to combine search criteria, based on
 - Location
     - City
     - Building/church name
