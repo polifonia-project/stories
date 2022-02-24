@@ -1,5 +1,6 @@
 ---
 id: Sophia#3_Reorchestration
+name:  Reorchestration 
 persona: 
 - Sophia
 keywords: 
@@ -11,6 +12,8 @@ pilot:
 - To be completed
 priority:
 - Must have
+type:
+ - Story
 story type:
 - expert driven
 ---

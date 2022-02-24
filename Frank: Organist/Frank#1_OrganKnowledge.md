@@ -1,6 +1,7 @@
 ---
 id: 
 - Frank#1_OrganKnowledge
+name:  OrganKnowledge 
 persona: 
 - Frank
 keywords: 
@@ -13,6 +14,8 @@ pilot:
 - ORGANS
 priority:
 -
+type:
+ - Story
 story type: 
 - expert driven
 ---

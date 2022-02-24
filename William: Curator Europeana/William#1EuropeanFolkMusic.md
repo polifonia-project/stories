@@ -1,6 +1,7 @@
 ---
 id:
 - William#1_EuropeanFolkMusic
+name:  EuropeanFolkMusic 
 persona:
 - William
 keywords:
@@ -15,6 +16,8 @@ pilot:
 - INTERLINK
 priority:
 - life improver
+type:
+ - Story
 story type:
 - expert driven
 ---

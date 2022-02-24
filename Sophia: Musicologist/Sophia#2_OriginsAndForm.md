@@ -1,6 +1,7 @@
 ---
 id:
 - Sophia#2_OriginsAndForm
+name:  OriginsAndForm 
 persona:
 - Sophia
 keywords:
@@ -15,6 +16,8 @@ pilot:
 - None
 priority:
 - life improver
+type:
+ - Story
 story type:
 - expert driven
 ---

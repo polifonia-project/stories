@@ -1,6 +1,7 @@
 ---
 id: 
 - Patrizia#1_IdentificationOfIntangibleElements
+name:  IdentificationOfIntangibleElements 
 persona: 
 - Patrizia
 keywords: 
@@ -12,6 +13,8 @@ pilot:
 - BELLS
 priority:
 - Life improver
+type:
+ - Story
 story type: 
 - expert driven
 ---

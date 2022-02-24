@@ -14,6 +14,8 @@ pilot:
 - ACCESS
 priority:
 - Illustrative
+type:
+ - Story
 story type:
 - Expert driven
 ---

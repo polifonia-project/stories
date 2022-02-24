@@ -1,5 +1,6 @@
 ---
 id: Mark#2_DutchOrgans
+name:  DutchOrgans 
 persona: 
 - Mark
 keywords: 
@@ -12,6 +13,8 @@ pilot:
 - ORGANS
 priority:
 - 
+type:
+ - Story
 story type:
 - expert driven
 ---

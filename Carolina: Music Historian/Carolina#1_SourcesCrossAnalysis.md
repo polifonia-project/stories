@@ -1,5 +1,6 @@
 ---
 id: Carolina#1_SourcesCrossAnalysis
+name:  SourcesCrossAnalysis 
 persona: 
 - Carolina
 keywords: 
@@ -13,6 +14,8 @@ pilot:
 - MUSICBO
 priority:
 - Must have
+type:
+ - Story
 story type:
 - expert driven
 ---

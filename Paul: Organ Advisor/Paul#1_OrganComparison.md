@@ -1,6 +1,7 @@
 ---
 id: 
 - Paul#1_OrganComparison
+name:  OrganComparison 
 persona: 
 - Paul
 keywords: 
@@ -13,6 +14,8 @@ pilot:
 - ORGANS
 priority:
 -
+type:
+ - Story
 story type: 
 - expert driven
 ---

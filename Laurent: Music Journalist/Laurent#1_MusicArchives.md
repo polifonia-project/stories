@@ -1,5 +1,6 @@
 ---
 id: Laurent#1_MusicArchives
+name:  MusicArchives 
 persona: 
 - Laurent
 keywords: 
@@ -10,6 +11,8 @@ pilot:
 - musoW
 priority:
 - Must have
+type:
+ - Story
 story type:
 - expert driven
 ---

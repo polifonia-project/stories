@@ -1,6 +1,7 @@
 ---
 id: 
 - Sethus#2_CreateRelevantCorpus
+name:  CreateRelevantCorpus 
 persona: 
 - Sethus
 keywords: 
@@ -16,6 +17,8 @@ pilot:
 - FACETS
 priority:
 - Life changer
+type:
+ - Story
 story type:
 - expert driven
 ---

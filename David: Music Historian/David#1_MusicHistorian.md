@@ -1,5 +1,6 @@
 ---
 id: David#1_MusicHistorian
+name: 
 persona: 
 - David
 keywords: 
@@ -14,6 +15,8 @@ pilot:
 - MEETUPS
 priority:
 - Illustrative
+type:
+ - Story
 story type:
 - expert driven
 ---

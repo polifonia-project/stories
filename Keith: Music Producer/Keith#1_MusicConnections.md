@@ -1,5 +1,6 @@
 ---
 id: Keith#1_MusicConnections
+name:  MusicConnections 
 persona: 
 - Keith
 keywords: 
@@ -9,6 +10,8 @@ WP:
 - 
 priority:
 -
+type:
+ - Story
 story type:
 - expert driven
 ---

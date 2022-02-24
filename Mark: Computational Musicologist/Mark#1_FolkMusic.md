@@ -1,5 +1,6 @@
 ---
 id: Mark#1_FolkMusic
+name:  FolkMusic 
 persona: 
 - Mark
 keywords: 
@@ -10,6 +11,8 @@ pilot:
 - TUNES
 priority:
 - 
+type:
+ - Story
 story type:
 - expert driven
 ---

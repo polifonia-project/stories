@@ -1,5 +1,6 @@
 ---
 id: Andrea#1_Serendipity
+name: 
 persona: 
 - Andrea
 keywords: 
@@ -14,6 +15,8 @@ pilot:
 - Organs
 priority:
 - Must have
+type:
+ - Story
 story type:
 - expert driven
 ---

@@ -1,6 +1,7 @@
 ---
 id: 
 - Sethus#1_ConflictingTheoreticalInterpretations
+name:  ConflictingTheoreticalInterpretations 
 persona: 
 - Sethus
 keywords: 
@@ -17,6 +18,8 @@ pilot:
 - TONALITIES
 priority:
 - Life changer
+type:
+ - Story
 story type:
 - expert domain
 ---

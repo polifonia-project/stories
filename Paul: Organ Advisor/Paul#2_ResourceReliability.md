@@ -1,6 +1,7 @@
 ---
 id: 
 - Paul#2_ResourceReliability
+name:  ResourceReliability 
 persona: 
 - Paul
 keywords: 
@@ -13,6 +14,8 @@ pilot:
 - ORGANS
 priority:
 -
+type:
+ - Story
 story type: 
 - expert driven
 ---

@@ -1,6 +1,7 @@
 ---
 id:
 - Ortenz#2_MusicalSocialNetwork
+name:  MusicalSocialNetwork 
 persona:
 - Ortenz
 keywords:
@@ -18,6 +19,8 @@ pilot:
 - MEETUPS
 priority:
 - life improver
+type:
+ - Story
 story type:
 - expert driven
 ---

@@ -1,6 +1,7 @@
 ---
 id:
 - Ortenz#1_MusicAndChildhood
+name:  MusicAndChildhood 
 persona:
 - Ortenz
 keywords:
@@ -16,6 +17,8 @@ pilot:
 - MEETUPS
 priority:
 - life improver
+type:
+ - Story
 story type:
 - expert driven
 ---

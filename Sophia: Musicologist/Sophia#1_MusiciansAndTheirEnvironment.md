@@ -1,6 +1,7 @@
 ---
 id:
 - Sophia#1_MusiciansAndTheirEnvironment
+name:  MusiciansAndTheirEnvironment 
 persona:
 - Sophia
 keywords:
@@ -16,6 +17,8 @@ pilot:
 - MEETUPS
 priority:
 - life improver
+type:
+ - Story
 story type:
 - expert driven
 ---

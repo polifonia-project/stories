@@ -13,6 +13,8 @@ pilot:
 - INTERLINK
 priority:
 - 
+type:
+ - Story
 story type:
 - expert driven
 ---

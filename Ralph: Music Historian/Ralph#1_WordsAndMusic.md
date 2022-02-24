@@ -1,5 +1,6 @@
 ---
 id: Ralph#1_WordsAndMusic
+name:  WordsAndMusic 
 persona: 
 - Ralph
 keywords: 
@@ -11,6 +12,8 @@ pilot:
 - 
 priority:
 - 
+type:
+ - Story
 story type:
 - expert driven
 ---

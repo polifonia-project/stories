@@ -1,6 +1,7 @@
 ---
 id:
 - Linka#1_MusicKnowledge
+name:  MusicKnowledge 
 persona:
 - Linka
 keywords:
@@ -12,6 +13,8 @@ pilot:
 - INTERLINK
 priority:
 - life improver
+type:
+ - Story
 story type:
 - pilot driven
 ---

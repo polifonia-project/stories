@@ -1,6 +1,7 @@
 ---
 id: 
 - Amy#2_OrganBuilders
+name:  OrganBuilders 
 persona: 
 - Amy
 keywords: 
@@ -13,6 +14,8 @@ pilot:
 - ORGANS
 priority:
 -
+type:
+ - Story
 story type: 
 - expert driven
 ---
