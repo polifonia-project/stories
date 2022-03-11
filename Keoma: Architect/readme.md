@@ -3,7 +3,8 @@ id: persona-Keoma
 name: "Keoma"
 long-title: "Keoma"
 type: Persona
-
+related-components:
+- Keoma#1_RestorationAndSoundPractices
 ---
 
 # Persona description

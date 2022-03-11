@@ -1,6 +1,10 @@
 ---
-persona: 
-- Anna
+id: persona-Anna
+name: "Anna"
+long-title: "Anna"
+type: Persona
+related-components:
+- Anna#1_HearingMusic
 ---
 
 # Persona description

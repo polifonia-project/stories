@@ -10,6 +10,7 @@ keywords:
 - tradition
 work-package:
 - WP2
+- WP5
 pilot:
 - ORGANS
 priority:

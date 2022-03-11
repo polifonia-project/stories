@@ -3,7 +3,9 @@ id: persona-Paul
 name: "Paul"
 long-title: "Paul"
 type: Persona
-
+related-components:
+- Paul#1_OrganComparison
+- Paul#2_ResourceReliability
 ---
 
 # Persona description

@@ -3,7 +3,8 @@ id: persona-Carolina
 name: "Carolina"
 long-title: "Carolina"
 type: Persona
-
+related-components:
+- Carolina#1_SourcesCrossAnalysis
 ---
 
 # Persona description

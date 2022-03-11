@@ -3,7 +3,8 @@ id: persona-David
 name: "David"
 long-title: "David"
 type: Persona
-
+related-components:
+- David#1_MusicHistorian
 ---
 
 # Persona description

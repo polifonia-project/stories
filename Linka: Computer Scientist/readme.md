@@ -1,6 +1,10 @@
 ---
-persona: 
-- Linka
+id: persona-Linka
+name: "Linka"
+long-title: "Linka"
+type: Persona
+related-components:
+- Linka#1_MusicKnowledge
 ---
 
 # Persona description

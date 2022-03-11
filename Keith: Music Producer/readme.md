@@ -3,7 +3,8 @@ id: persona-Keith
 name: "Keith"
 long-title: "Keith"
 type: Persona
-
+related-components:
+- Keith#1_MusicConnections
 ---
 
 # Persona description

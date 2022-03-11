@@ -3,7 +3,8 @@ id: persona-Ralph
 name: "Ralph"
 long-title: "Ralph"
 type: Persona
-
+related-components:
+- Ralph#1_WordsAndMusic
 ---
 
 # Persona description

@@ -1,6 +1,11 @@
 ---
-persona: 
-- Sethus
+id: persona-Sethus
+name: "Sethus"
+long-title: "Sethus"
+type: Persona
+related-components:
+- Sethus#1_ConflictingTheoreticalInterpretations
+- Sethus#2_CreateRelevantCorpus
 ---
 
 # Persona description

@@ -3,7 +3,8 @@ id: persona-Laurent
 name: "Laurent"
 long-title: "Laurent"
 type: Persona
-
+related-components:
+- Laurent#1_MusicArchives
 ---
 
 # Persona description

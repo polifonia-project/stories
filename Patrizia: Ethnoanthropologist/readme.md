@@ -3,7 +3,8 @@ id: persona-Patrizia
 name: "Patrizia"
 long-title: "Patrizia"
 type: Persona
-
+related-components:
+- Patrizia#1_IdentificationOfIntangibleElements
 ---
 
 # Persona description

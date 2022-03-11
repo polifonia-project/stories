@@ -3,7 +3,9 @@ id: persona-Ortenz
 name: "Ortenz"
 long-title: "Ortenz"
 type: Persona
-
+related-components:
+- Ortenz#1_MusicAndChildhood
+- Ortenz#2_MusicalSocialNetwork
 ---
 
 # Persona description

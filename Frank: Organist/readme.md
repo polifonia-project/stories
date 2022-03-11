@@ -3,7 +3,8 @@ id: persona-Frank
 name: "Frank"
 long-title: "Frank"
 type: Persona
-
+related-components:
+- Frank#1_OrganKnowledge
 ---
 
 # Persona description

@@ -3,7 +3,9 @@ id: persona-Mark
 name: "Mark"
 long-title: "Mark"
 type: Persona
-
+related-components:
+- Mark#1_FolkMusic
+- Mark#2_DutchOrgans
 ---
 
 # Persona description
