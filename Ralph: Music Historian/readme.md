@@ -1,6 +1,9 @@
 ---
-persona:
-- Ralph
+id: persona-Ralph
+name: "Ralph"
+long-title: "Ralph"
+type: Persona
+
 ---
 
 # Persona description

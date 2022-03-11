@@ -1,6 +1,11 @@
 ---
-persona: 
-- Amy
+id: persona-Amy
+name: "Amy"
+long-title: "Amy"
+type: Persona
+related-components:
+- Amy#1_OrganTrends
+- Amy#2_OrganBuilders
 ---
 
 # Persona description

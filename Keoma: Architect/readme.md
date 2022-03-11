@@ -1,6 +1,9 @@
 ---
-persona:
-- Keoma
+id: persona-Keoma
+name: "Keoma"
+long-title: "Keoma"
+type: Persona
+
 ---
 
 # Persona description

@@ -1,6 +1,10 @@
 ---
-persona:
-- Andrea
+id: persona-Andrea
+name: "Andrea"
+long-title: "Andrea"
+type: Persona
+related-components:
+- Andrea#1_Serendipity
 ---
 
 # Persona description

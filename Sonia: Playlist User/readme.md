@@ -1,6 +1,9 @@
 ---
-persona:
-- Sonia
+id: persona-Sonia
+name: "Sonia"
+long-title: "Sonia"
+type: Persona
+
 ---
 
 # Persona description

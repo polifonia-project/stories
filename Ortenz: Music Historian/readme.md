@@ -1,6 +1,9 @@
 ---
-persona:
-- Ortenz
+id: persona-Ortenz
+name: "Ortenz"
+long-title: "Ortenz"
+type: Persona
+
 ---
 
 # Persona description
