@@ -1,6 +1,6 @@
 ---
 id: David#1_MusicHistorian
-name: 
+name:  MusicHistorian 
 persona: 
 - David
 keywords: 
