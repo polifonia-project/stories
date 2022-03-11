@@ -1,5 +1,5 @@
 ---
-id: persona-Linka
+component-id: Linka
 name: "Linka"
 long-title: "Linka"
 type: Persona

@@ -1,5 +1,5 @@
 ---
-id: Mark#1_FolkMusic
+component-id: Mark#1_FolkMusic
 name:  FolkMusic 
 persona: 
 - Mark

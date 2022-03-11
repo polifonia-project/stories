@@ -1,5 +1,5 @@
 ---
-id: David#1_MusicHistorian
+component-id: David#1_MusicHistorian
 name:  MusicHistorian 
 persona: 
 - David

@@ -1,5 +1,5 @@
 ---
-id:
+component-id:
 - William#1_EuropeanFolkMusic
 name:  EuropeanFolkMusic 
 persona:

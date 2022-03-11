@@ -1,5 +1,5 @@
 ---
-id: persona-Ortenz
+component-id: Ortenz
 name: "Ortenz"
 long-title: "Ortenz"
 type: Persona

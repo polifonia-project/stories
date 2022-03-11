@@ -1,5 +1,5 @@
 ---
-id:
+component-id:
 - Sophia#2_OriginsAndForm
 name:  OriginsAndForm 
 persona:

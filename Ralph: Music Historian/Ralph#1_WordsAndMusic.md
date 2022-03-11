@@ -1,5 +1,5 @@
 ---
-id: Ralph#1_WordsAndMusic
+component-id: Ralph#1_WordsAndMusic
 name:  WordsAndMusic 
 persona: 
 - Ralph

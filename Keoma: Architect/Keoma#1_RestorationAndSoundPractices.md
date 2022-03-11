@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Keoma#1_RestorationAndSoundPractices
 name:  RestorationAndSoundPractices 
 persona: 

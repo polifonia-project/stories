@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Sethus#2_CreateRelevantCorpus
 name:  CreateRelevantCorpus 
 persona: 

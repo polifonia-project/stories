@@ -1,5 +1,5 @@
 ---
-id: persona-Keith
+component-id: Keith
 name: "Keith"
 long-title: "Keith"
 type: Persona

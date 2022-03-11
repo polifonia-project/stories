@@ -1,5 +1,5 @@
 ---
-id:
+component-id:
 - Ortenz#1_MusicAndChildhood
 name:  MusicAndChildhood 
 persona:

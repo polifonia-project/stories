@@ -1,5 +1,5 @@
 ---
-id: persona-Carolina
+component-id: Carolina
 name: "Carolina"
 long-title: "Carolina"
 type: Persona

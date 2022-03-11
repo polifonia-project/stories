@@ -1,5 +1,5 @@
 ---
-id: Andrea#1_Serendipity
+component-id: Andrea#1_Serendipity
 name:  Serendipity 
 persona: 
 - Andrea

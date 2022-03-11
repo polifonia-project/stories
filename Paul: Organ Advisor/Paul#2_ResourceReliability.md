@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Paul#2_ResourceReliability
 name:  ResourceReliability 
 persona: 

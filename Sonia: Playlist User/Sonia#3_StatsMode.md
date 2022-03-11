@@ -1,5 +1,5 @@
 ---
-id: Sonia#3 - Stats mode
+component-id: Sonia#3 - Stats mode
 persona: 
 - Sonia
 keywords: 

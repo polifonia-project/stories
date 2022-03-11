@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Amy#1_OrganTrends
 name:  OrganTrends 
 persona: 

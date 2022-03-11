@@ -1,5 +1,5 @@
 ---
-id: Carolina#1_SourcesCrossAnalysis
+component-id: Carolina#1_SourcesCrossAnalysis
 name:  SourcesCrossAnalysis 
 persona: 
 - Carolina

@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Paul#1_OrganComparison
 name:  OrganComparison 
 persona: 

@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Patrizia#1_IdentificationOfIntangibleElements
 name:  IdentificationOfIntangibleElements 
 persona: 

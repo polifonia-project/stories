@@ -1,5 +1,5 @@
 ---
-id: Anna#1
+component-id: Anna#1
 persona: 
 - Anna
 keywords: 

@@ -1,5 +1,5 @@
 ---
-id: persona-Sethus
+component-id: Sethus
 name: "Sethus"
 long-title: "Sethus"
 type: Persona

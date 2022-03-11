@@ -1,5 +1,5 @@
 ---
-id:
+component-id:
 - Ortenz#2_MusicalSocialNetwork
 name:  MusicalSocialNetwork 
 persona:

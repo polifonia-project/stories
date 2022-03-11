@@ -1,5 +1,5 @@
 ---
-id: Laurent#1_MusicArchives
+component-id: Laurent#1_MusicArchives
 name:  MusicArchives 
 persona: 
 - Laurent

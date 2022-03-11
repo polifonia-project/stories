@@ -1,5 +1,5 @@
 ---
-id:
+component-id:
 - Sophia#1_MusiciansAndTheirEnvironment
 name:  MusiciansAndTheirEnvironment 
 persona:

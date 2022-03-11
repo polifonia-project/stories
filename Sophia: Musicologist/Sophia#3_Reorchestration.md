@@ -1,5 +1,5 @@
 ---
-id: Sophia#3_Reorchestration
+component-id: Sophia#3_Reorchestration
 name:  Reorchestration 
 persona: 
 - Sophia

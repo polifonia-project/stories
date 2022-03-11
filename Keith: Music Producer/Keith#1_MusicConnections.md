@@ -1,5 +1,5 @@
 ---
-id: Keith#1_MusicConnections
+component-id: Keith#1_MusicConnections
 name:  MusicConnections 
 persona: 
 - Keith

@@ -1,5 +1,5 @@
 ---
-id: persona-Keoma
+component-id: Keoma
 name: "Keoma"
 long-title: "Keoma"
 type: Persona

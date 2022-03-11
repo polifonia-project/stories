@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Sethus#1_ConflictingTheoreticalInterpretations
 name:  ConflictingTheoreticalInterpretations 
 persona: 

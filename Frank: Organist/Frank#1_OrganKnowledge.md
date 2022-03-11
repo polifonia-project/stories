@@ -1,5 +1,5 @@
 ---
-id: 
+component-id: 
 - Frank#1_OrganKnowledge
 name:  OrganKnowledge 
 persona: 

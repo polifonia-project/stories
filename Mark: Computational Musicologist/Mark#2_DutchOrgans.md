@@ -1,5 +1,5 @@
 ---
-id: Mark#2_DutchOrgans
+component-id: Mark#2_DutchOrgans
 name:  DutchOrgans 
 persona: 
 - Mark
