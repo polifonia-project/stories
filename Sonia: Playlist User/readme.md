@@ -3,7 +3,10 @@ component-id: Sonia
 name: "Sonia"
 long-title: "Sonia"
 type: Persona
-
+related-component:
+- Sonia#1_ExplorationMode
+- Sonia#2_ShuffleMode
+- Sonia#3_StatsMode
 ---
 
 # Persona description

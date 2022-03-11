@@ -3,7 +3,10 @@ component-id: Sophia
 name: "Sophia"
 long-title: "Sophia"
 type: Persona
-
+related-component:
+- Sophia#1_MusiciansAndTheirEnvironment
+- Sophia#2_OriginsAndForm
+- Sophia#3_Reorchestration
 ---
 
 # Persona description
