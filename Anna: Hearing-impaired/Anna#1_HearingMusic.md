@@ -1,5 +1,6 @@
 ---
 component-id: Anna#1
+name: HearingMusic
 persona: 
 - Anna
 keywords: 
