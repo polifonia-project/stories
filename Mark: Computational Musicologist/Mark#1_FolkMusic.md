@@ -70,6 +70,8 @@ ABC notation database http://abcnotation.com/
 
 Database of Dutch tunes http://www.liederenban.nl and http://www.liederebank.nl/mtc
 
+Early American Secular Music and its European sources http://www.cdss.org/elibrary/Easmes/Index.htm
+
 Mark’s work could be helped by:
 
 Connection to other databases, so that he could automatically query a range of databases
