@@ -54,6 +54,10 @@ CQ8: How does translation (of lyrics) affect variation in the melody?
 
 CQ9: Which aspects of melody vary and which remain stable in the process of transmission and adaptation?
 
+CQ10: How did certain repertoires (e.g., Italian opera) circulate?
+
+CQ11: What are the connections between printed sources and manuscripts? (manuscripts could be copies of printed sources)
+
 ## Resources
 
 Mark works with:
