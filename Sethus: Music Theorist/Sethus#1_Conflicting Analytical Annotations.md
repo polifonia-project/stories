@@ -67,6 +67,11 @@ CQ10: Are the theoretical models on which these criteria are based – for examp
 
 CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work? 
 
+## Example Data
+Analysis#1
+
+Analysis#2
+
 ## Resources
 Bibliographie 
 
