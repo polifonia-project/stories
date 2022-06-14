@@ -41,21 +41,30 @@ In collaboration with other colleagues, Sethus is preparing a book on modal theo
 
 In the book he aims to write with his colleagues, Sethus is charged with writing a chapter on the modal cycle "Lagrime di San Pietro" by Orlando di Lasso. To this end, Sethus and his colleagues (Leonhard, Bernhard, Harold, Siegfried, Frans Robert and Alexander) carried out individual analyses and entered them into the framework of the Tonalities pilot. 
 
-In contrast to the other pieces which do not pose major problems, the last work in the cycle, Vide homo, is highly ambiguous from a modal perspective and thus of particular interest for this book. Several modal hypotheses have been formulated by Sethus and his colleagues based on various immanent and transcendent criteria. Sethus must now examine these individual points of view in the light of the score and of the theoretical models implied. Then, he will have to confront all these points of view to propose a well-argued interpretation.
+In contrast to the other pieces which do not pose major problems, the last work in the cycle, Vide homo, is highly ambiguous from a modal perspective and thus of particular interest for this book. Several modal hypotheses have been formulated by Sethus and his colleagues based on various immanent and transcendent criteria. Sethus must now examine these individual points of view in the light of the score and of the theoretical models implied. Then, he will have to confront all these points of view (Analysis#1 and Analysis#2) to propose a well-argued interpretation.
 
 ## Competency questions 
 
 CQ1: To which modes Vide homo has been assigned to in Tonalities? Leonhard, Bernhard, Harold, Siegfried, Frans and Alexander relate the motet to the tonus peregrinus. Robert, however, considers the work to be written in the mixolydian mode. 
 
-CQ2: Are the criteria on which these interpretations are based true in the score and, if so, to what extent? 
+CQ2: Are the criteria on which these interpretations are based true in the score and, if so, to what extent?
+
 CQ3: What are the cadence points in the work? 
+
 CQ4: What are the part’s ranges?  Do they correspond to modal octaves? 
+
 CQ5: What is the final of the bassus? 
-CQ6: What is the last chord? 
+
+CQ6: What is the last chord?
+
 CQ7: Are there any melodic patterns related to modality? 
+
 CQ8: To what diatonic environment does the work belong to? 
+
 CQ9: What are the part’s clefs and keys? 
+
 CQ10: Are the theoretical models on which these criteria are based – for example the Zarlinian cadential scheme ^1-^3-^5 – in line with this work? 
+
 CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work? 
 
 ## Resources
