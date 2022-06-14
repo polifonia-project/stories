@@ -48,26 +48,15 @@ In contrast to the other pieces which do not pose major problems, the last work 
 CQ1: To which modes Vide homo has been assigned to in Tonalities? Leonhard, Bernhard, Harold, Siegfried, Frans and Alexander relate the motet to the tonus peregrinus. Robert, however, considers the work to be written in the mixolydian mode. 
 
 CQ2: Are the criteria on which these interpretations are based true in the score and, if so, to what extent? 
-   - What are the cadence points in the work? 
-   - What are the part’s ranges?  Do they correspond to modal octaves? 
-   - What is the final of the bassus? 
-   - What is the last chord? 
-   - Are there any melodic patterns related to modality? 
-   - To what diatonic environment does the work belong to? 
-   - What are the part’s clefs and keys? 
-   - Are the theoretical models on which these criteria are based – for example the Zarlinian cadential scheme ^1-^3-^5 – in line with this work? 
-   - What is the tension between the expected theoretical criteria and their actual realisation in the work? 
-
-CQ3: Can one assume that the modal ambiguity evidenced by the analytical interpretations is intended? Harold sees, for example, the use of modes in Lagrime as a religious symbol. Alexander suggests that Tansillo's texts set to music by Lassus can be read as an examination of conscience, advocated by post-Tridentine spirituality. Can these hypotheses be substantiated on the basis of Polifonia's analytical and heritage knowledge? 
-   - Where does the work appear within the cycle? 
-   - What do we know about this cycle and its place in Lassus' output? 
-   - Which poetic text is set to music? 
-   - Has this poetic text been set to music before? 
-
-CQ4: Apart from Lasso’s possible exegetical intentions, what does this work tell us about the status of the modes at this moment in the history of composition? 
-   - Is the modal ambiguity observed here frequent in Lasso’s output? 
-   - Do other works come close, in terms of their inner properties, to what is observed here? 
-   - Is the ambiguity observed here specific to particular groups of works? 
+CQ3: What are the cadence points in the work? 
+CQ4: What are the part’s ranges?  Do they correspond to modal octaves? 
+CQ5: What is the final of the bassus? 
+CQ6: What is the last chord? 
+CQ7: Are there any melodic patterns related to modality? 
+CQ8: To what diatonic environment does the work belong to? 
+CQ9: What are the part’s clefs and keys? 
+CQ10: Are the theoretical models on which these criteria are based – for example the Zarlinian cadential scheme ^1-^3-^5 – in line with this work? 
+CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work? 
 
 ## Resources
 Bibliographie 
