@@ -1,3 +1,4 @@
+---
 component-id: 
 - Sethus#1_ConflictingTheoreticalInterpretations
 name:  ConflictingTheoreticalInterpretations 
@@ -22,7 +23,7 @@ type:
 story type:
 - expert domain
 ---
-# Sethus#1_ConflictingTheoreticalInterpretations
+# Sethus#3_ConflictingAnalyticalAnnotations
 
 ## Persona
 
