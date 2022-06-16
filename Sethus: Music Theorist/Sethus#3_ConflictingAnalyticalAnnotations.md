@@ -1,16 +1,17 @@
 ---
 component-id: 
-- Sethus#1_ConflictingTheoreticalInterpretations
-name:  ConflictingTheoreticalInterpretations 
+- Sethus#1_ConflictingAnalyticalAnnotations
+name:  ConflictingAnalyticalAnnotations 
 persona: 
 - Sethus
 keywords: 
-- conflicting theoretical interpretations
+- conflicting analytical interpretations
 - analytical concepts
 - modal analysis
 - history of music theory
 - Orlando di Lasso
 work-package:
+- WP1
 - WP2
 - WP4
 - WP5
