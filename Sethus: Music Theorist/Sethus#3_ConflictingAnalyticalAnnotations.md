@@ -70,7 +70,8 @@ CQ10: Are the theoretical models on which these criteria are based – for examp
 CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work? 
 
 ## Example Data
-[Analysis#1 (Marco Gurrieri)](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Analysis%231.pdf)
+[Analysis#1 (Marco Gurrieri)]
+[https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Analysis%231.pdf](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Analysis%231.pdf)
 
 [Analysis#2 (Christophe Guillotel-Nothmann)](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Analysis%232.pdf)
 
