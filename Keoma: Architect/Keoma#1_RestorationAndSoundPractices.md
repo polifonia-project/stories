@@ -139,7 +139,9 @@ For example:
 - CQ12: Which is the weight of the bell?
 - CQ13: Which are the measures of the bell?
     - mouth diameter; sound bow...
-- CQ14: What kind of execution techniques  is  possible to perform according to a specific mounting system?
+- CQ14: What kind of execution techniques are possible to perform according to a specific mounting system?
+- CQ15: Can a set of bells be played electrically, manually, or both?
+- CQ16: How/Using which tools/Using which execution technique(s) is the set of bells played, when played manually?
 
 CQ2: What kind of repertoire is traditionally performed in that specific location?
 
