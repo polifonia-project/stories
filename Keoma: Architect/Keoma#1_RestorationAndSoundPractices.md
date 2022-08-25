@@ -141,6 +141,7 @@ For example:
 - CQ13: What kind of execution techniques are possible to perform according to a specific mounting system?
 - CQ14: Can a set of bells be played electrically, manually, or both?
 - CQ15: How/Using which tools/Using which execution technique(s) is the set of bells played, when played manually?
+- TO BE COMPLETED
 
 **old**
 
