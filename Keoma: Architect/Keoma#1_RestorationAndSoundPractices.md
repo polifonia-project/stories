@@ -131,17 +131,18 @@ For example:
 - CQ4: Are there bells in the church? How many bells are in the church?
 - CQ5: Which is the mounting system of the bell?
 - CQ6: Which is the material of the bell?
-- CQ7: Which is the material of the bell?
-- CQ8: By whom (by which foundry) were they melted?
-- CQ9: In which year were they melted?
-- CQ10: Which is the nominal/fundamental note of the bell?
-- CQ11: Which is the extension of the whole set of bells in a bell tower?
-- CQ12: Which is the weight of the bell?
-- CQ13: Which are the measures of the bell?
+- CQ7: By whom (by which foundry) were they melted?
+- CQ8: In which year were they melted?
+- CQ9: Which is the nominal/fundamental note of the bell?
+- CQ10: Which is the extension of the whole set of bells in a bell tower?
+- CQ11: Which is the weight of the bell?
+- CQ12: Which are the measures of the bell?
     - mouth diameter; sound bow...
-- CQ14: What kind of execution techniques are possible to perform according to a specific mounting system?
-- CQ15: Can a set of bells be played electrically, manually, or both?
-- CQ16: How/Using which tools/Using which execution technique(s) is the set of bells played, when played manually?
+- CQ13: What kind of execution techniques are possible to perform according to a specific mounting system?
+- CQ14: Can a set of bells be played electrically, manually, or both?
+- CQ15: How/Using which tools/Using which execution technique(s) is the set of bells played, when played manually?
+
+**old**
 
 CQ2: What kind of repertoire is traditionally performed in that specific location?
 
