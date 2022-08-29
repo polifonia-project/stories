@@ -41,9 +41,9 @@ CQ3) What are the meanings of the word 'vocality' in German (z)?
 
 CQ4) What are the meanings of the word 'vocality' in Spanish (h)?
 
-CQ5)How do the words x and y vary over time? 
+CQ5)How do the words x and y change over time? 
 
 CQ6)What contexts are the word x, y, z, h related to? 
 
-CQ7) How do these contexts vary over time?
+CQ7) How do these contexts change over time?
 
