@@ -39,4 +39,6 @@ CQ4: Who were the musicians who participated in event X (or Y)?
 
 CQ5: Who talked about event X (or Y)?
 
-CQ6: What were the critical reactions to event X (or Y)?
+CQ6: In which works is event X recounted/traced?
+
+CQ7: What were the critical reactions to event X (or Y)? Are them positives?
