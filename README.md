@@ -59,6 +59,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Anna: Hearing-impaired](https://github.com/polifonia-project/stories/tree/main/anna:hearing-impaired)
 - [Laurent: Music Journalist](https://github.com/polifonia-project/stories/tree/main/Laurent:%20Music%20Journalist)
 - [Andrea: Theology Scholar](https://github.com/polifonia-project/stories/tree/main/Andrea:%20%20Theology%20Scholar)
+- [Valeriana: Linguist](https://github.com/polifonia-project/stories/tree//main/Valeriana%20:%20Linguist)
 
 ## List of stories
 
@@ -82,6 +83,8 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Sophia#2 OriginsAndForm](https://github.com/polifonia-project/stories/blob/main/Sophia:%20Musicologist/Sophia%23OriginsAndForm.md)
 - [Laurent#1_MusicArchives](https://github.com/polifonia-project/stories/blob/main/Laurent:%20Music%20Journalist/Laurent%231_MusicArchives.md)
 - [Andrea#1_Serendipity](https://github.com/polifonia-project/stories/blob/main/Andrea:%20%20Theology%20Scholar/Andrea%231_Serendipity.md)
+- [Valeriana#1_DiscourseAnalysis](https://github.com/polifonia-project/stories/blob/main/Valeriana%20:%20Linguist/Valeriana%231_DiscourseAnalysis.md)
+- [Valeriana#2_Terminology](https://github.com/polifonia-project/stories/blob/main/Valeriana%20:%20Linguist/Valeriana%232_Terminology.md)
 
 
 ## Useful links
