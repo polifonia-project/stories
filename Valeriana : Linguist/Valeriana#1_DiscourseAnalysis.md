@@ -1,6 +1,6 @@
 ---
-component-id: Carolina#1_SourcesCrossAnalysis
-name:  SourcesCrossAnalysis 
+component-id: Valeriana#1_DiscourseAnalysis
+name:  DiscourseAnalysis 
 persona: 
 - Valeriana
 keywords: 
