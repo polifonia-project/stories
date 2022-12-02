@@ -1,11 +1,11 @@
 ---
-component-id: Jorge#1_OrganizeMyLibrary
+component-id: Jorge#2_FindSimilarScores
 name:  Librarian 
 persona: 
 - Jorge
 keywords: 
 - Improve findability
-- Provide summary of content
+- Help library visitors to get what they search for by relaxing their initial searches
 work-package:
 - WP1
 - WP2
@@ -19,7 +19,7 @@ type:
 story type:
 - expert driven
 ---
-# Jorge#1_OrganizeMyLibrary
+# Jorge#2_FindSimilarScores
 
 ## Persona
 Jorge
