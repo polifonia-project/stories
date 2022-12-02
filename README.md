@@ -86,6 +86,8 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Andrea#1_Serendipity](https://github.com/polifonia-project/stories/blob/main/Andrea:%20%20Theology%20Scholar/Andrea%231_Serendipity.md)
 - [Valeriana#1_DiscourseAnalysis](https://github.com/polifonia-project/stories/blob/main/Valeriana%20:%20Linguist/Valeriana%231_DiscourseAnalysis.md)
 - [Valeriana#2_Terminology](https://github.com/polifonia-project/stories/blob/main/Valeriana%20:%20Linguist/Valeriana%232_Terminology.md)
+- [Jorge#1_OrganizeMyLibrary](https://github.com/polifonia-project/stories/blob/main/Jorge:%20Librarian/Jorge%231_OrganizeMyLibrary.md)
+
 
 
 ## Useful links
