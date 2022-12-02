@@ -1,31 +1,31 @@
 ---
-component-id: Keoma
-name: "Keoma"
-long-title: "Keoma"
+component-id: Jorge
+name: "Jorge"
+long-title: "Jorge"
 type: Persona
 related-components:
-- Keoma#1_RestorationAndSoundPractices
+- Jorge#1_FindSimilarScores
 ---
 
 # Persona description
 
-This is a description of the persona Keoma
+Jorge is managing a library of music scores, and is responsible for the sub-part of the library catalog which is already digitized. A digitidez score is available in one of the following format: PDF/JPEG (resulting from a scan of the sheet score), or MusicXML/MEI (resulting from an OMR, transcription or direct manual input).
 
 ## Name
-Keoma
+Jorge
 
 ## Age
 
 
 ## Occupation
 - primary role
-    - Architect
+    - Librarian
 - secondary roles
-    - Restorer
+    - 
 
 ## Knowledge/Skills
-He is an architect and a restorer.
+He is a librarian, with skills in digital libraries.
 
 ## Interests
-He is involved in the cultural heritage protection.
+He is involved in advanced technoilogires to promote the content of his library.
 
