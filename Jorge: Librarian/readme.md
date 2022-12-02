@@ -4,7 +4,8 @@ name: "Jorge"
 long-title: "Jorge"
 type: Persona
 related-components:
-- Jorge#1_FindSimilarScores
+- Jorge#1_OrganizeMyLibrary
+- Jorge#2_FindSimilarScores
 ---
 
 # Persona description
