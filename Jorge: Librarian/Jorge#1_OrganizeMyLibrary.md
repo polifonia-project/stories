@@ -1,18 +1,17 @@
 ---
-component-id: David#1_MusicHistorian
-name:  MusicHistorian 
+component-id: Jorge#1_OrganizeMyLibrary
+name:  Librarian 
 persona: 
-- David
+- Jorge
 keywords: 
-- music historian
-- social history of music
+- Improve findability
+- Provide summary of content
 work-package:
+- WP1
 - WP2
 - WP3
-- WP4
-- WP5
 pilot:
-- MEETUPS
+- FACETS
 priority:
 - Illustrative
 type:
@@ -20,55 +19,27 @@ type:
 story type:
 - expert driven
 ---
-# David#1_MusicHistorian
+# Jorge#1_OrganizeMyLibrary
 
 ## Persona
-David
+Jorge
 
 ## Goal
-David is interested in understanding the social history of music, e.g. who were the musicians, who was the audience, how did a particular musical environment relate to the wider musical environment.  He has a particular interest in understanding the environment around music which would not be classified as ‘elite’ music.  He is also interested in people’s experience of listening to music.
+Jorge wants a dashboard that gives him at a glance on overview of a score library content. The overview shows statistics on the library organized after the many dimensions that can be used to classify score: composer, period, countries/region/city, style, length, tonality, prominent patterns, orchestration, etc. 
+
 
 ## Scenario  
-David will work for several years collecting information, e.g. about brass bands, and populating a database with this information, as a preparation for writing a book.
+
+The dashboard presents an overview of the classifying dimensions. Some of them might be hierarchical in nature (for instance the region/country/city classification). Whenever a dimension is chosen, the dashboard adapts to this new context by refining the classification of scores based on sub-dimensions.
 
 ## Competency questions 
 
-CQ1: What music was being played?
+CQ1: What are the relevant dimensions to classify a digital library?
 
-CQ2: Who was listening to the music?
+CQ2: Which dimensions can be extracted from the score itself as *patterns* qualifying the score?
 
-CQ3: How did the instruments used change over time?
-
-CQ4: What was source of money – e.g. for instruments?
-
-CQ5: Where were the musicians coming from?
-
-CQ6: Who were teaching the musicians?
-
-CQ7: Where were the places (in which they played)?
-
-CQ8: How were instruments sold?
-
-CQ9: What was the sales pitch?
-
-CQ10: How does the world of brass bands connect with that of elite music?
-
-CQ11: What did people ‘make of’, how  did they react to, e.g. music?
-
-CQ12: Who was the author of a piece of music?
-e.g. can we identify it by its incipit?
-
-CQ13: What was the country of origin of a piece of music?
-
-CQ14: What is the cause of a change, e.g. increasing number of concerts over time?
-
+CQ3: What are the most/less selective dimensions, and how do they vary in a specific context
 
 ## Resources
-David's work could be helped by:
-
-sonic visualization, e.g. to recognise ‘thumbprints’ to identify the composer of a piece of music;
-
-search of document database using RDF annotations and query-time reasoning;
-
-NLP, e.g. to suggest relevant keywords for annotation; including using some semantics, e.g. proposing an annotation which does not occur in the text.
+Jorge's work could be helped by tools that dynamically adapt the organization of a library based on needs expressed by the librarian.
 
