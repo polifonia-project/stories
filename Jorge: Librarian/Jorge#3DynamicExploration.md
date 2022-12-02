@@ -25,21 +25,19 @@ story type:
 Jorge
 
 ## Goal
-People interested in finding scores ask for some very specific criterias, such as for instance "I would like the list of Toccatas in D composed at Rome during tyhe 17 century". The resulting list is empty, or contains very few scores. The visitors are disapointed, and do not know how to find sth that suits their need.
+Jorge accesses to a part of the collection and is overwhelmed by the number of scores and their heterogeneity. Thus he expects the system to propose a set of means to refine the search, based on "facets" that partition the current result in a meaningful way.
 
 ## Scenario  
 
-Jorge then uses a tool to propose similar work, close to the initial search. It might be the list of toccatas in Italy, or italian organ works in general, or toccatas written for the harpsichord, in a diffrent key signature, etc. Jorge can propose these similar scores to his visitors.  
+Instead of showing a list containing thousands of scores, the result is organized in groups, and each group is characterized by a distinctive property value. These group can be determined on the fly: if one accesses to the collection of a composer for instance, then relevant groups are the period of composition, the style, the genre, etc. If, instead, the initial access is on a genre, then grouping include composers. 
 
-The dashboard presents an overview of the classifying dimensions. Some of them might be hierarchical in nature (for instance the region/country/city classification). Whenever a dimension is chosen, the dashboard adapts to this new context by refining the classification of scores based on sub-dimensions.
+A nice feature would be to determine on the fly a partitioning of scores based on their salient patterns, if relevant.
 
 ## Competency questions 
 
-CQ1: What criterias can be selectively relaxed from an initial search?
+CQ1: What are the most relevant dimensions to classify on the fly a result set ?
 
-CQ2: What definitions of similarity are relevant for the various dimensions of a search?
-
+CQ2: What features can be extracted on the fly from a score content to partition in a meaning ful way a score collection?
 
 ## Resources
-Jorge's work could be helped by tools that expand a search, relaxing criterias in a controlled way.  
  
