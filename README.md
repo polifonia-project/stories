@@ -60,7 +60,7 @@ There is one folder for each Persona, named with the name of the Persona and the
 - [Laurent: Music Journalist](https://github.com/polifonia-project/stories/tree/main/Laurent:%20Music%20Journalist)
 - [Andrea: Theology Scholar](https://github.com/polifonia-project/stories/tree/main/Andrea:%20%20Theology%20Scholar)
 - [Valeriana: Linguist](https://github.com/polifonia-project/stories/tree//main/Valeriana%20:%20Linguist)
-- [Jotrge: Librarian](https://github.com/polifonia-project/stories/tree//main/Jorge%20:%20Librarian)
+- [Jorge: Librarian](https://github.com/polifonia-project/stories/tree//main/Jorge%20:%20Librarian)
 
 ## List of stories
 
