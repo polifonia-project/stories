@@ -6,6 +6,7 @@ type: Persona
 related-components:
 - Sethus#1_ConflictingTheoreticalInterpretations
 - Sethus#2_CreateRelevantCorpus
+- Sethus#3_ConflictingAnalyticalAnnotations
 ---
 
 # Persona description
