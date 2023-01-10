@@ -1,7 +1,7 @@
 ---
 component-id: 
 - Brendan#1_FindTraditionalMusic
-name:  
+name: FindTraditionalMusic
 persona: 
 - Brendan
 keywords: 
