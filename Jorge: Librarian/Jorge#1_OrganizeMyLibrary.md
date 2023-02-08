@@ -44,7 +44,7 @@ The dashboard presents an overview of the classifying dimensions. Some of them m
 
 CQ1: provide a digital space to represent and describe the concept of "Opus", and store digital scores related to an opus.
 
-CQ2: organize collections and subcollections, based on clear concepts (e.g., genre, composer, period...) to gatherr Opuses
+CQ2: organize collections and subcollections, based on clear concepts (e.g., genre, composer, period...) to gather Opuses
 
 CQ3: provide nagivation, search and visualization tools in collections / opus
 
