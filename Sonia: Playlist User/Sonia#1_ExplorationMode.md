@@ -18,7 +18,7 @@ type:
 story type:
 - expert driven
 ---
-# Sonia#1
+# Sonia#1_ExplorationMode
 
 ## Persona
 Sonia
