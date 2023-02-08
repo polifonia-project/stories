@@ -25,7 +25,15 @@ story type:
 Jorge
 
 ## Goal
-Jorge wants a dashboard that gives him at a glance on overview of a score library content. The overview shows statistics on the library organized after the many dimensions that can be used to classify score: composer, period, countries/region/city, style, length, tonality, prominent patterns, orchestration, etc. 
+
+Jorge manages a digital library of scores. He aims at describing each score with a rich set of contextual information, although a comprehensive descritpion is often ot possible. Among these information, one finds
+  - The musical work (or 'Opus') this score belongs to. A score can cover a whole Opus (e.g., a symphony) or only a part of it (e.g., the third movement). Additionally, it can contain only some parts, all the parts, a trasnscription for non-original instruments, etc. Jorge wants to preserve each score at the appropriate level, with an adequate referencing (e.g., the official Opus number in a standard catalogue exists, K234.a, of BWV192, etc.)
+  - Licence and copyright information 
+  - An organisation in collections, clear and flexible
+  - Tools to manage this organisation and search for relevant scores.
+  
+
+In terms of digital tools, Jorge wants a dashboard that gives him at a glance on overview of a score library content. The overview shows statistics on the library organized after the many dimensions that can be used to classify score: composer, period, countries/region/city, style, length, tonality, prominent patterns, orchestration, etc. 
 
 
 ## Scenario  
