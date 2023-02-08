@@ -48,7 +48,7 @@ CQ2: organize collections and subcollections, based on clear concepts (e.g., gen
 
 CQ3: provide nagivation, search and visualization tools in collections / opus
 
-CQ4: in addition to standard metadata (e.g., composer), extract *features* from the digital score itself (e.g., tonality, when relevant, number of parts, etc.)
+CQ4: in addition to standard metadata (e.g., composer), expose *features* extracted from  digital scores  (e.g., tonality, when relevant, number of parts, etc.)
 
 CQ5: Identify the dimensions and/or features that are relevant to support an on-the-fly reorganization of the digital library, whenever the standard organization does not meet the user's expectations
 
