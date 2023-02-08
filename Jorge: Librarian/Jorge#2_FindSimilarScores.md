@@ -44,9 +44,10 @@ Jorge then uses a tool to propose similar work, close to the initial search. It 
 
 ## Competency questions 
 
-CQ1: What criterias can be selectively relaxed from an initial search?
+CQ1: define similarity criterias based on metadata and features of musical works (e.g.,  period,  style, compatible instruments, difficuly...)
 
-CQ2: What definitions of similarity are relevant for the various dimensions of a search?
+CQ2: determine the most relevant criterias, or combination of criterias,  to expand an initial search
+
 
 
 ## Resources
