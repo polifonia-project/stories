@@ -67,7 +67,50 @@ CQ9: What are the part’s clefs and keys?
 
 CQ10: Are the theoretical models on which these criteria are based – for example the Zarlinian cadential scheme ^1-^3-^5 – in line with this work? 
 
-CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work? 
+CQ11: What is the tension between the expected theoretical criteria and their actual realisation in the work?
+
+[Metadata updated section]
+
+CQ12: To what corpus does this work belong?  
+
+CQ13: What is the name of the corpus? 
+
+CQ14: What is the pseudonyme of the composer for X? 
+
+CQ15: What is the birthdate of the composer?
+
+CQ16: What is the deathdate of the composer? 
+
+CQ17: To what genre does the composition belong? 
+
+CQ18: To what collection does of the composition belong? 
+
+CQ19: Is the composition part of another composition? 
+
+CQ20: Is the composition quoted in other compositions? 
+
+CQ21: Does the composition contain any quotation from other composition(s)? 
+
+CQ22: What is the origin of the composition? 
+
+CQ23: If available online, what is the URL of the composition? 
+
+CQ24: In the case of a manuscript/printed sources, where is it housed? 
+
+CQ25: Who is the scientific editor of the composition? 
+
+CQ26: If any, what is the license of the transcription? 
+
+CQ27: What is the year of publication of the music printed source? 
+
+CQ28: Where was the music printed source published? 
+
+CQ29: What is the editor of the music printed source? 
+
+CQ30: In what electronic format is the composition available? 
+
+CQ31: What is the licence of the final reused/modified electronic format of the score? 
+
 
 ## Example Data
 [Analysis#1 (Marco Gurrieri)](https://github.com/polifonia-project/stories/blob/main/Sethus:%20Music%20Theorist/Analysis%231.pdf)
