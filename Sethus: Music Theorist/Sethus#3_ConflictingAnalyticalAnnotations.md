@@ -79,7 +79,7 @@ CQ14: What is the pseudonyme of the composer for X?
 
 CQ15: What is the birthdate of the composer?
 
-CQ16: What is the deathdate of the composer? 
+CQ16: What is the date of death of the composer? 
 
 CQ17: To what genre does the composition belong? 
 
