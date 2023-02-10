@@ -95,7 +95,7 @@ CQ22: What is the origin of the composition?
 
 CQ23: If available online, what is the URL of the composition? 
 
-CQ24: In the case of a manuscript/printed sources, where is it housed? 
+CQ24: In the case of a manuscript/printed source, where is it housed? 
 
 CQ25: Who is the scientific editor of the composition? 
 
