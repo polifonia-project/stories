@@ -85,9 +85,9 @@ CQ17: To what genre does the composition belong?
 
 CQ18: To what collection does of the composition belong? 
 
-CQ19: Is the composition part of another composition? 
+CQ19: If this is the case, to what larger work does the composition belong? 
 
-CQ20: Is the composition quoted in other compositions? 
+CQ20: If this is the case, in what other work(s) is the compositions quoted? 
 
 CQ21: Does the composition contain any quotation from other composition(s)? 
 
@@ -109,7 +109,7 @@ CQ29: What is the editor of the music printed source?
 
 CQ30: In what electronic format is the composition available? 
 
-CQ31: What is the licence of the final reused/modified electronic format of the score? 
+CQ31: What is the license of the final reused/modified electronic format of the score? 
 
 
 ## Example Data
