@@ -72,4 +72,4 @@ CQ10: How many search results are there per genre?
 
 CQ11: What is the relevant metadata for music collections and what do the different fields mean?
 
-CQ11: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
+CQ12: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
