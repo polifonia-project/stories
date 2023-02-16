@@ -62,10 +62,14 @@ CQ5: In which historical documents is composer X mentioned?
 
 CQ6: Under which titles is this song known? (multi-language)
 
-CQ7: Providing a visualisation of relations between the relevant countries, compositions, composers and performers in the various collections and their changes over time
+CQ7: What are the relations between the relevant countries, compositions, composers and performers in the various collections?
 
-CQ8: Provide overviews of the occurrences of search results across certain time periods or genres.
+CQ8: How have the relations between the relevant countries, compositions, composers and performers in the various collections changed over time?
 
-CQ9: What is the relevant metadata for music collections and what do the different fields mean?
+CQ9: How many search results are there per time period?
 
-CQ10: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
+CQ10: How many search results are there per genre?
+
+CQ11: What is the relevant metadata for music collections and what do the different fields mean?
+
+CQ11: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
