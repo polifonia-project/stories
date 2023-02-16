@@ -124,24 +124,25 @@ For example:
 ## Competency questions 
 
 - CQ1: Where is the building?
-    - Where is the church/bell tower?
-
 - CQ2: When (what year) was the building built?
 - CQ3: In which context is the building located (urban, periurban...)? 
-- CQ4: Are there bells in the church? How many bells are in the church?
+- CQ4: Are there bells in a church?
 - CQ5: Which is the mounting system of the bell?
 - CQ6: Which is the material of the bell?
-- CQ7: By whom (by which foundry) were they melted?
-- CQ8: In which year were they melted?
+- CQ7: By whom (by which foundry) were they cast?
+- CQ8: In which year were they cast?
 - CQ9: Which is the nominal/fundamental note of the bell?
 - CQ10: Which is the extension of the whole set of bells in a bell tower?
 - CQ11: Which is the weight of the bell?
 - CQ12: Which are the measures of the bell?
-    - mouth diameter; sound bow...
 - CQ13: What kind of execution techniques are possible to perform according to a specific mounting system?
 - CQ14: Can a set of bells be played electrically, manually, or both?
-- CQ15: How/Using which tools/Using which execution technique(s) is the set of bells played, when played manually?
-- TO BE COMPLETED
+- CQ15: How/Using which tools is the set of bells played, when played manually?
+- CQ16: Where is the church/bell tower?
+- CQ17: How many bells are in the church?
+- CQ18: Which is the mouth diameter of the bell?
+- CQ19: Which is the sound bow of the bell?
+- CQ20: Using which execution technique(s) is the set of bells played, when played manually?
 
 **old**
 
