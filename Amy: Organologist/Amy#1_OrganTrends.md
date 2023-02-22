@@ -31,23 +31,9 @@ During the project, Amy researches both artistic and technical trends surroundin
 
 ## Competency questions 
 
-CQ1: Search organs with the possibility to combine searches, based on various features.
+See the set of CQs for Paul#1_OrganComparison. In addition:
 
-CQ2: Is XX fact reliable? What are the sources of XX fact?
-
-CQ3: What is left from the original organs built by XX organ builder? Where are these original components now?
-
-CQ4: Which changes have been made to the original organs? When were these changes made? Who made the changes? To what degree are the organs (or components of organs) in their original state?
-
-CQ5: What are the arthistorical features of the front of the organ? In which style is the organ built?
-
-CQ6: When (and why) was the organ moved? Where was the organ placed originally?
-
-CQ7: Where can more information be found about a specific organ/organ builder/time period/location/etc.? / Which literature or resources contain information about a specific organ/organ builder/time period/location/etc.?
-
-CQ8: What are longitudinal changes of certain characteristics of organs or organ builders?
-
-CQ9: What are geographically distinct features? (e.g., in what differ 17th century Southern German organs from 17th century Spanish organs?).
+CQ1: What are geographically distinct features of organs from region X? (e.g., in what differ 17th century Southern German organs from 17th century Spanish organs?).
 
 ## Resources
 

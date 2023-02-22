@@ -31,11 +31,7 @@ This research includes looking into which organs an organ builder worked on and 
 
 ## Competency questions 
 
-CQ1: Search organs with the possibility to combine searches, based on various features.
-
-CQ7: Where can more information be found about a specific organ/organ builder/time period/location/etc.? / Which literature or resources contain information about a specific organ/organ builder/time period/location/etc.?
-
-CQ8: Which organ builders worked on whose (original organ builder’s) organs?
+Relevant CQs are all in Paul#1_OrganComparison.
 
 ## Resources
 
