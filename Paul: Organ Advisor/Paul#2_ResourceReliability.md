@@ -32,7 +32,7 @@ In this scenario Paul has to plan a similar restoration. However, from his alrea
 
 ## Competency questions 
 
-CQ6: Is XX fact reliable? What are the sources of XX fact?
+CQ42: What are the sources for fact X?
 
 ## Resources
 
