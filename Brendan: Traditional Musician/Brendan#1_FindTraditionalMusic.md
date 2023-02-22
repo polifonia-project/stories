@@ -33,22 +33,22 @@ Brendan has received funding from the Arts Council of Ireland to create a new al
 
 ## Competency questions 
 
-CQ1: If using a known tune as a query, search for similar tunes from other corpora based on
--	Geographic location of collection.
--	Melodic similarity between query and results.
--	Rhythmic similarity between query and results.
+CQ1: What tunes have similar geographic origin as tune X?
 
-CQ2: Can the notation of query and results be viewed simultaneously for comparison?
+CQ2: What tunes are similar to tune X, given similarity measure Y?
 
-CQ3: What collection/archive are results taken from?
--	Can a user filter between collections?
+CQ3: Given a set of tunes, from which collections are these tunes?
 
-CQ4: What is the provenance of any given result from this search? 
--	Can information on the collection/archive which the result belongs to be accessed from this search?
--	Can links be established and recorded between similar tunes?
+CQ4: Given a set of tunes, what tunes are from collection X?
 
-
+CQ5: What are the metadata for collection X?
 
 ## Resources
 
+## Remarks
 
+UI Requirements:
+- Can the notation of query and results be viewed simultaneously for comparison?
+
+Requirements:
+- The tool should provide the provenance of any given result.
