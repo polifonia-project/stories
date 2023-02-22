@@ -31,23 +31,19 @@ Frank regularly comes together with his friends from church. They want to plan a
 
 ## Competency questions 
 
-CQ1: Search organs with the possibility to combine searches, based on various features. (In this scenario: city, building, organ builder, disposition)
+See story Paul#1_OrganComparison for retrieval CQs. In addition:
 
-CQ2: Which organ builders worked on whose (original organ builder’s) organs?
+CQ1: What does the organ look like?
 
-CQ3: Who built and/or renovated XX organ?
+CQ2: Which organs are built in a similar style?
 
-CQ4:What was the disposition of the organ at a specific point in time?
+CQ3: What is the concert agenda for organ X?
 
-CQ5: Which organs have a similar disposition?
+CQ4: Where to find audio/video resources featuring organ X?
 
-CQ6: What does the organ look like?
+CQ5: Where to find audio/video resources featuring organist X?
 
-CQ7: What are the arthistorical features of the front of the organ? In which style is the organ built?
-
-CQ8: What are the decorative elements?
-
-CQ9: Which organs are built in a similar style?
+CQ6: What is the address of the owner/maintainer of organ X?
 
 ## Resources
 
