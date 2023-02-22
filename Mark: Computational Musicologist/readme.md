@@ -5,7 +5,6 @@ long-title: "Mark"
 type: Persona
 related-components:
 - Mark#1_FolkMusic
-- Mark#2_DutchOrgans
 ---
 
 # Persona description
@@ -26,4 +25,4 @@ Mark’s original degree was in electrical engineering, and he has an MA and Ph.
 
 ## Interests
 
-Mark is interested in using computational methods to understand music.  He is also interested in the history of the organ.
+Mark is interested in using computational methods to understand oral music traditions.
