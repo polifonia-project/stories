@@ -44,9 +44,9 @@ Jorge then uses a tool to propose similar work, close to the initial search. It 
 
 ## Competency questions 
 
-CQ1: define similarity criterias based on metadata and features of musical works (e.g.,  period,  style, compatible instruments, difficuly...)
+CQ1: Can I susesimilarity criterias based on metadata and features of musical works ?
 
-CQ2: determine the most relevant criterias, or combination of criterias,  to expand an initial search
+CQ2: Am I proposed  the most relevant criterias, or combination of criterias,  to expand an initial search ?
 
 
 
