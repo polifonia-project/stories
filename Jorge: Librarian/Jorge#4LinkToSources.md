@@ -40,11 +40,11 @@ e.g.,  listening to the performance while highlighting at the same time the meas
 
 ## Competency questions 
 
-CQ1: describe sources related to a music Opus, and link such sources with an Opus in the digital library
+CQ1: Can I link digital sources to an Opus ?
 
-CQ2: propose means to refer to *fragments* of a Opus, eg., the first 10 measures, or part B of a movement
+CQ2: Can I refer to *fragments* of a scoree, eg., the first 10 measures, or part B of a movement ?
 
-CQ3: define links at a level of granularity finer than the document itself. For instance associate a fragment in an Opus with the corresponding region in a scan of an external score/source (e.g., a PDF in Gallica).
+CQ3: Can I link fragments of sources and fragments of scores, such as for instance a measure in an Opus with a part of a reecording ?
 
 ## Resources
 
