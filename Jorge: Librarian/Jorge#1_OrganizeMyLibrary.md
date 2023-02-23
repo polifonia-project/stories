@@ -42,17 +42,17 @@ The dashboard presents an overview of the classifying dimensions. Some of them m
 
 ## Competency questions 
 
-CQ1: provide a digital space to represent and describe the concept of "Opus", and store digital scores related to an opus.
+CQ1: Is there a digital space to represent and describe the concept of "Opus", and store digital scores related to an opus ?
 
-CQ2: organize collections and subcollections, based on clear concepts (e.g., genre, composer, period...) to gather Opuses
+CQ2: Is my collections and subcollections organisation based on clear concepts (e.g., genre, composer, period...) to gather Opuses ?
 
-CQ3: provide nagivation, search and visualization tools in collections / opus
+CQ3: Am I able to nagivate, search and visualize  my collections and opus ?
 
-CQ4: in addition to standard metadata (e.g., composer), expose *features* extracted from  digital scores  (e.g., tonality, when relevant, number of parts, etc.)
+CQ4: Can I examine *features* extracted from  digital scores  (e.g., tonality, when relevant, number of parts, etc.) ?
 
 CQ5: Identify the dimensions and/or features that are relevant to support an on-the-fly reorganization of the digital library, whenever the standard organization does not meet the user's expectations
 
-CQ6: propose efficient and expressive search tools, that support a progressive exploration of relevant content from an initial need
+CQ6: Can I progressively explore the content of my library, adding criteria to refine large results ? 
 
 ## Resources
 
