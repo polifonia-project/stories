@@ -78,29 +78,33 @@ CQ21: What printed source shares content with manuscript X?
 
 CQ22: What is the language of the lyrics of tune X?
 
-CQ23: Has composition X been identified as variant in a tune family? 
+CQ23: Has composition X been identified as variant in a tune family?
 
-CQ24: With what level of confidence is composition X a variant in tune family Y? 
+CQ24: Which tune family does composition X belong to?
 
-CQ25: What are all compositions in tune family X? 
+CQ25: Who assigned composition X to tune family Y?
 
-CQ26: What are the similarities / differences of all compositions in tune family X according to measure Y?
+CQ26: With what level of confidence is composition X a variant in tune family Y? 
 
-CQ27: To what tune families is tune family X related, given similarity measure Y? 
+CQ27: What are all compositions in tune family X? 
 
-CQ28: What are alternative titles for composition X? 
+CQ28: What are the similarities / differences of all compositions in tune family X according to measure Y?
 
-CQ29: What are the differences / similarities between two corpora of compositions concerning features Y1..Yn? 
+CQ29: To what tune families is tune family X related, given similarity measure Y? 
 
-CQ30: What are longitudinal differences / similarities within a corpus concerning features Y1..Yn?
+CQ30: What are alternative titles for composition X? 
 
-CQ31: What are the differences / similarities between two corpora of compositions concerning occurrences of patterns? 
+CQ31: What are the differences / similarities between two corpora of compositions concerning features Y1..Yn? 
 
-CQ32: What are longitudinal differences / similarities within a corpus concerning occurrences of patterns?
+CQ32: What are longitudinal differences / similarities within a corpus concerning features Y1..Yn?
 
-CQ33: What patterns do the compositions in corpus X share?
+CQ33: What are the differences / similarities between two corpora of compositions concerning occurrences of patterns? 
 
-CQ34: What patterns are overrepresented in corpus X compared to corpus Y?
+CQ34: What are longitudinal differences / similarities within a corpus concerning occurrences of patterns?
+
+CQ35: What patterns do the compositions in corpus X share?
+
+CQ36: What patterns are overrepresented in corpus X compared to corpus Y?
 
 ## Resources
 
