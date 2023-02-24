@@ -24,7 +24,7 @@ story type:
 
 ## Goal 
 
-Successfully plan the restoration of an organ.
+Successfully plan the restoration of an organ?
 
 ## Scenario  
 
@@ -33,59 +33,59 @@ As it turns out, the comparison of the disposition indicates that the organ up f
 
 ## Competency questions 
 
-CQ1: Retrieve all organs at location X.
+CQ1: Which are all organs at location X?
 
-CQ2: Retrieve all organs in city X.
+CQ2: Which are all organs in city X?
 
-CQ3: Retrieve all organs near to geographic coordinates x, y.
+CQ3: Which are all organs near to geographic coordinates x, y?
 
-CQ4: Retrieve all organs that have stop X.
+CQ4: Which are all organs that have stop X?
 
-CQ5: Retrieve all organs with playing aid X.
+CQ5: Which are all organs with playing aid X?
 
-CQ6: Retrieve all organs with more than X stops.
+CQ6: Which are all organs with more than X stops?
 
-CQ7: Retrieve all organs with more than X keyboards.
+CQ7: Which are all organs with more than X keyboards?
 
-CQ8: Retrieve all organs with manual range starting lower than X.
+CQ8: Which are all organs with manual range starting lower than X?
 
-CQ9: Retrieve all organs with manual range ending higher than X.
+CQ9: Which are all organs with manual range ending higher than X?
 
-CQ10: Retrieve all organs with pedal range starting lower than X.
+CQ10: Which are all organs with pedal range starting lower than X?
 
-CQ11: Retrieve all organs with pedal range ending higher than X.
+CQ11: Which are all organs with pedal range ending higher than X?
 
-CQ12: Retrieve all organs with wind system type X.
+CQ12: Which are all organs with wind system type X?
 
-CQ13: Retrieve all organs with temperament X.
+CQ13: Which are all organs with temperament X?
 
-CQ14: Retrieve all organs with year of construction after X.
+CQ14: Which are all organs with year of construction after X?
 
-CQ15: Retrieve all organs with year of construction before X.
+CQ15: Which are all organs with year of construction before X?
 
-CQ16: Retrieve all organs built by organ builder X.
+CQ16: Which are all organs built by organ builder X?
 
-CQ17: Retrieve all organs which has been maintained or restored by builder X.
+CQ17: Which are all organs which has been maintained or restored by builder X?
 
-CQ18: Retrieve all organs that are linked to person X.
+CQ18: Which are all organs that are linked to person X?
 
-CQ19: Retrieve all organs with more than X bellows.
+CQ19: Which are all organs with more than X bellows?
 
-CQ20: Retrieve all organs with pitch heigher than X Hz.
+CQ20: Which are all organs with pitch heigher than X Hz?
 
-CQ21: Retrieve all organs with wind pressure higher than X mm.
+CQ21: Which are all organs with wind pressure higher than X mm?
 
-CQ22: Retrieve all organs with wind pressure lower than X mm.
+CQ22: Which are all organs with wind pressure lower than X mm?
 
-CQ23: Retrieve all organs with key action type X.
+CQ23: Which are all organs with key action type X?
 
-CQ24: Retrieve all organs with stop action type X.
+CQ24: Which are all organs with stop action type X?
 
-CQ25: Retrieve all organs with pitch lower than X Hz.
+CQ25: Which are all organs with pitch lower than X Hz?
 
-CQ26: Retrieve all organs with console location X.
+CQ26: Which are all organs with console location X?
 
-CQ27: Retrieve all organs based on search term X.
+CQ27: Which are all organs based on search term X?
 
 CQ28: Who was the builder of organ X?
 
@@ -155,7 +155,7 @@ CQ60: Which components of organ X have been reused from other (earlier) organs?
 
 CQ61: What is the origin of component X of organ Y?
 
-CQ62: Retrieve all organs that have components made by organ builder X.
+CQ62: Which are all organs that have components made by organ builder X?
 
 ## Resources
 

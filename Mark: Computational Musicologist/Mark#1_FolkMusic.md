@@ -44,7 +44,7 @@ CQ4: Which tunes are similar to tune X given similarity measure Y?
 
 CQ5: Who (which source) attributed composition X to composer Y?
 
-CQ6: Retrieve all known concordances (same composition/tune in another source).
+CQ6: Which are all known concordances (same composition/tune in another source)?
 
 CQ7: Which concordances of composition X have a composer name associated?
 
@@ -60,7 +60,7 @@ CQ12: Who was the publisher of (printed) source X?
 
 CQ13: What is publication year of printed source X? 
 
-CQ14: Retrieve all compositions that are in source X. 
+CQ14: Which are all compositions that are in source X?
 
 CQ15: What is current location of source X? 
 
