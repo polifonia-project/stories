@@ -42,31 +42,31 @@ She needs to collect and analyze large corpora of texts and images recording or 
 
 CQ1. What is the difference between the ‘official’ perception of the role of music and how music is experienced?
 
- * What are the aspects that characterize an official source? E.g. context of production, creator’s role, relation between the source and political or national events
- * What are the official sources? What are the sources produced by ordinary people?
- * What are the aspects that characterize the source at hand as trustworthy? E.g. context of production, creator’s occupation
- * What are the goals of the source?
- * What is the emotional response of music listeners/authors in both types of sources?
+ * CQ1.1 What are the aspects that characterize an official source? E.g. context of production, creator’s role, relation between the source and political or national events
+ * CQ1.2 What are the official sources? What are the sources produced by ordinary people?
+ * CQ1.3 What are the aspects that characterize the source at hand as trustworthy? E.g. context of production, creator’s occupation
+ * CQ1.4 What are the goals of the source?
+ * CQ1.5 What is the emotional response of music listeners/authors in both types of sources?
 
 CQ2. How is music used to teach children about identity and heritage?
 
- * In which source there is evidence of children as target audience and music as subject?  
- * What are the subjects of the source?  
- * What are the subjects that are related to national identity?
- * What are the subjects that are related to national heritage?
- * When was the source produced?
- * Where was the source produced?
- * Who produced the source?
- * What type of source is it? E.g. Literary text, painting
- * What is the context of production of the source? E.g. academic, official source, personal or primary source, commission to an artist
- * Are there related events connected to the production of the source? E.g. national fests, war period, political or historical events
- * What is context of usage of the source? E.g. propaganda, personal account, review of an event, teaching
- * How subjects/goals/contexts of usage change over time?   
+ * CQ2.1 In which source there is evidence of children as target audience and music as subject?  
+ * CQ2.2 What are the subjects of the source?  
+ * CQ2.3 What are the subjects that are related to national identity?
+ * CQ2.4 What are the subjects that are related to national heritage?
+ * CQ2.5 When was the source produced?
+ * CQ2.6 Where was the source produced?
+ * CQ2.7 Who produced the source?
+ * CQ2.8 What type of source is it? E.g. Literary text, painting
+ * CQ2.9 What is the context of production of the source? E.g. academic, official source, personal or primary source, commission to an artist
+ * CQ2.10 Are there related events connected to the production of the source? E.g. national fests, war period, political or historical events
+ * CQ2.11 What is context of usage of the source? E.g. propaganda, personal account, review of an event, teaching
+ * CQ2.12 How subjects/goals/contexts of usage change over time?   
 
 CQ3. What is the adult perception of the role of music in children’s education?
 
- * What is the goal of the official sources?
- * To what extent are music subjects relevant (among the others) in official sources targeted to children?
+ * CQ3.1 What is the goal of the official sources?
+ * CQ3.2 To what extent are music subjects relevant (among the others) in official sources targeted to children?
 
 
 ## Resources
