@@ -14,7 +14,6 @@ work-package:
 - WP1
 pilot:
 - CHILD
-- MEETUPS
 priority:
 - life improver
 type:
