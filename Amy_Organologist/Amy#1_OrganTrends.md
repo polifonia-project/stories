@@ -1,7 +1,6 @@
 ---
-component-id: 
-- Amy#1_OrganTrends
-name:  OrganTrends 
+component-id: Amy#1_OrganTrends
+name: "Organ Trends" 
 persona: 
 - Amy
 keywords: 
@@ -12,14 +11,11 @@ work-package:
 - WP2
 pilot:
 - ORGANS
-priority:
--
-type:
- - Story
+type: Story
 story type: 
 - expert driven
 ---
-# Amy#1_OrganTrends
+# Organ Trends
 
 ## Goal 
 

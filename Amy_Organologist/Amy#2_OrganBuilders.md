@@ -1,7 +1,6 @@
 ---
-component-id: 
-- Amy#2_OrganBuilders
-name:  OrganBuilders 
+component-id: Amy#2_OrganBuilders
+name: "Organ Builders"
 persona: 
 - Amy
 keywords: 
@@ -12,14 +11,11 @@ work-package:
 - WP2
 pilot:
 - ORGANS
-priority:
--
-type:
- - Story
+type: Story
 story type: 
 - expert driven
 ---
-# Amy#2_OrganBuilders
+# Organ Builders
 
 ## Goal 
 

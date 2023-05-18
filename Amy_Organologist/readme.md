@@ -1,14 +1,19 @@
 ---
 component-id: Amy
 name: "Amy"
-long-title: "Amy"
+description: "Organologist, Musicologist, and Music historian."
 type: Persona
+long-title: "Amy"
 related-components:
-- Amy#1_OrganTrends
-- Amy#2_OrganBuilders
+- story:
+  - Amy#1_OrganTrends
+  - Amy#2_OrganBuilders
+project: polifonia-project
+pilot:
+- ORGANS
 ---
 
-# Persona description
+# Amy
 
 This is a description of the persona Amy.
 
@@ -26,3 +31,4 @@ Amy has a bachelor's degree in Musicology, a master's in History, and her Ph.D. 
 
 ## Interests
 Amy's interests are primarily in church music, but she is also fascinated with relations between the music and society.
+
