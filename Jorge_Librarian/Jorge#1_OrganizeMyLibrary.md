@@ -2,24 +2,21 @@
 component-id: Jorge#1_OrganizeMyLibrary
 name:  Librarian 
 persona: 
-- Jorge
+  - Jorge
 keywords: 
-- Improve findability
-- Provide summary of content
+  - Improve findability
+  - Provide summary of content
 work-package:
-- WP1
-- WP2
-- WP3
+  - WP1
+  - WP2
+  - WP3
 pilot:
-- FACETS
-priority:
-- Illustrative
-type:
- - Story
+  - FACETS
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Jorge#1_OrganizeMyLibrary
+# Organize My Library
 
 ## Persona
 Jorge

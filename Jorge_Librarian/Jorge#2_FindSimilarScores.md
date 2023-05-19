@@ -2,24 +2,21 @@
 component-id: Jorge#2_FindSimilarScores
 name:  Librarian 
 persona: 
-- Jorge
+  - Jorge
 keywords: 
-- Improve findability
-- Help library visitors to get what they search for by relaxing their initial searches
+  - improve findability
+  - help library visitors to get what they search for by relaxing their initial searches
 work-package:
-- WP1
-- WP2
-- WP3
+  - WP1
+  - WP2
+  - WP3
 pilot:
-- FACETS
-priority:
-- Illustrative
-type:
- - Story
+  - FACETS
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Jorge#2_FindSimilarScores
+# Find Similar Scores
 
 ## Persona
 Jorge

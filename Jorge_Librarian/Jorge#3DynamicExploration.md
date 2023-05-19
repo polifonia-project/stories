@@ -2,24 +2,21 @@
 component-id: Jorge#3_DynamicExploration
 name:  Librarian 
 persona: 
-- Jorge
+  - Jorge
 keywords: 
-- Help Jorge and visitors explore the library content
-- Refine/expand the current result of a search
+  - help Jorge and visitors explore the library content
+  - refine/expand the current result of a search
 work-package:
-- WP1
-- WP2
-- WP3
+  - WP1
+  - WP2
+  - WP3
 pilot:
-- FACETS
-priority:
-- Illustrative
-type:
- - Story
+  - FACETS
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Jorge#3_DynamicExploration
+# Dynamic Exploration
 
 ## Persona
 Jorge

@@ -1,25 +1,22 @@
 ---
 component-id: Jorge#4_LinkToSources
-name:  Librarian 
+name: Librarian 
 persona: 
-- Jorge
+  - Jorge
 keywords: 
-- Help Jorge to link his library's scores to sources related to the musical opus
-- Compare / align external sources with a score
+  - help Jorge to link his library's scores to sources related to the musical opus
+  - compare / align external sources with a score
 work-package:
-- WP1
-- WP2
-- WP3
+  - WP1
+  - WP2
+  - WP3
 pilot:
-- FACETS
-priority:
-- Illustrative
-type:
- - Story
+  - FACETS
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Jorge#4_LinkToSources
+# Link To Sources
 
 ## Persona
 Jorge

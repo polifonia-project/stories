@@ -1,16 +1,22 @@
 ---
 component-id: Jorge
 name: "Jorge"
-long-title: "Jorge"
+description: Librarian
 type: Persona
+long-title: "Jorge"
 related-components:
-- Jorge#1_OrganizeMyLibrary
-- Jorge#2_FindSimilarScores
+  - story:
+    - Jorge#1_OrganizeMyLibrary
+    - Jorge#2_FindSimilarScores
+project: polifonia-project
+pilot:
+  - FACETS
 ---
 
-# Persona description
+# Jorge
 
-Jorge is managing a library of music scores, and is responsible for the sub-part of the library catalog which is already digitized. A digitized score is available in one of the following format: PDF/JPEG (resulting from a scan of the sheet score), or MusicXML/MEI (resulting from an OMR, transcription or direct manual input).
+Jorge is managing a library of music scores, and is responsible for the sub-part of the library catalog which is already digitized. 
+A digitized score is available in one of the following format: PDF/JPEG (resulting from a scan of the sheet score), or MusicXML/MEI (resulting from an OMR, transcription or direct manual input).
 
 ## Name
 Jorge
