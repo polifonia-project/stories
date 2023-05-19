@@ -1,6 +1,7 @@
 ---
 component-id: Carolina#1_SourcesCrossAnalysis
-name:  Sources Cross-Analysis 
+name:  Sources Cross-Analysis
+description: "Carolina has to prepare a conference for the anniversary of the birth of the composer Giacomo Antonio Perti  and she needs to collect some informations about his career."
 persona: 
   - Carolina
 keywords: 
@@ -15,6 +16,9 @@ pilot:
 type: Story
 story type:
 - expert driven
+related-components:
+- persona:
+  - Carolina
 ---
 # Sources Cross-Analysis
 
