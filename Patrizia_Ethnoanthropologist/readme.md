@@ -1,13 +1,17 @@
 ---
 component-id: Patrizia
 name: "Patrizia"
-long-title: "Patrizia"
+description: Ethnoanthropologist and Officer at the Italian Ministry of Culture
 type: Persona
+long-title: "Patrizia"
 related-components:
-- Patrizia#1_IdentificationOfIntangibleElements
+  - Patrizia#1_IdentificationOfIntangibleElements
+project: polifonia-project
+pilot:
+  - BELLS
 ---
 
-# Persona description
+# Patrizia
 
 This is a description of the persona Patrizia
 

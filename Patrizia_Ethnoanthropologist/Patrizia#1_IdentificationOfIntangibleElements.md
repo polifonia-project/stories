@@ -1,28 +1,27 @@
 ---
-component-id: 
-- Patrizia#1_IdentificationOfIntangibleElements
-name:  IdentificationOfIntangibleElements 
-persona: 
-- Patrizia
+component-id: Patrizia#1_IdentificationOfIntangibleElements
+name:  Identification Of Intangible Elements 
+type: Story
+description: Patrizia must propose safeguarding actions on some intangible practices related with bells sound. 
+related-components:
+  - persona: 
+    - Patrizia
 keywords: 
-- bell sound practices
-- transmission of knowledge
+ - bell sound practices
+ - transmission of knowledge
 work-package:
-- WP1
+ - WP1
 pilot:
-- BELLS
-priority:
-- Life improver
-type:
- - Story
+ - BELLS
 story type: 
-- expert driven
+ - expert driven
 ---
-# Patrizia#1_IdentificationOfIntangibleElements
+# Identification Of Intangible Elements
 
 ## Persona
 
 Patrizia is a Demo-Ethno-anthropologist Officer of the Ministry of Culture and she is responsible for the safeguarding of the Intangible Heritage pursuant to the 2003 Unesco Convention
+
 ## Goal 
 
 Patrizia must propose safeguarding actions on some intangible practices related with bells sound. 
