@@ -1,24 +1,20 @@
 ---
-component-id:
-- Linka#1_MusicKnowledge
-name:  MusicKnowledge 
+component-id: Linka#1_MusicKnowledge
+name:  Music Knowledge 
 persona:
-- Linka
+  - Linka
 keywords:
-- Multi-modality
-- Music Data
+  - multi-modality
+  - music Data
 work-package:
-- WP2
+  - WP2
 pilot:
-- INTERLINK
-priority:
-- life improver
-type:
- - Story
+  - INTERLINK
+type: Story
 story type:
-- pilot driven
+  - pilot driven
 ---
-# Linka#1_MusicKnowledge
+# Music Knowledge
 
 ## Persona
 

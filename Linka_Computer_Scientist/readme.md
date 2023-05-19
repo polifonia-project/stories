@@ -1,10 +1,15 @@
 ---
 component-id: Linka
 name: "Linka"
-long-title: "Linka"
+description: Lecturer and Researcher in Computer Science.
 type: Persona
+long-title: "Linka"
 related-components:
-- Linka#1_MusicKnowledge
+  - story:
+    - Linka#1_MusicKnowledge
+project: polifonia-project
+pilot:
+  - INTERLINK
 ---
 
 # Persona description
