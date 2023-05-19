@@ -1,8 +1,9 @@
 ---
 component-id: Amy#2_OrganBuilders
 name: "Organ Builders"
-persona: 
-- Amy
+related-components:
+- persona: 
+  - Amy
 keywords: 
 - dutch organs
 - instruments

@@ -9,8 +9,8 @@ related-components:
   - Andrea#1_Serendipity
 project: polifonia-project
 pilot:
-  - musoW
-  - ORGANS
+- ORGANS
+
 ---
 
 # Andrea

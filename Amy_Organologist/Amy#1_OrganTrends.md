@@ -1,8 +1,9 @@
 ---
 component-id: Amy#1_OrganTrends
 name: "Organ Trends" 
-persona: 
-- Amy
+related-components:
+- persona: 
+  - Amy
 keywords: 
 - dutch organs
 - instruments
