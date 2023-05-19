@@ -1,13 +1,18 @@
 ---
 component-id: Anna
 name: "Anna"
-long-title: "Anna"
+description:
 type: Persona
+long-title: "Anna"
 related-components:
-- Anna#1_HearingMusic
+  - story:
+    - Anna#1_HearingMusic
+project: polifonia-project
+pilot:
+ - ACCESS
 ---
 
-# Persona description
+# Anna
 
 This is a description of the persona Anna.
 

@@ -1,26 +1,23 @@
 ---
-component-id: Anna#1
-name: HearingMusic
+component-id: Anna#1_HearingMusic
+name: Hearing Music
 persona: 
-- Anna
+  - Anna
 keywords: 
-- hatpics
-- live music
+  - hatpics
+  - live music
 work-package:
-- WP2
-- WP3
-- WP4
-- WP5
+  - WP2
+  - WP3
+  - WP4
+  - WP5
 pilot:
-- ACCESS
-priority:
-- Illustrative
-type:
- - Story
+  - ACCESS
+type: Story
 story type:
-- Expert driven
+  - Expert driven
 ---
-# Anna#1_HearingMusic
+# Hearing Music
 
 ## Persona
 Anna
@@ -40,4 +37,3 @@ CQ1: What is the rhythm of the bassline?
 CQ2: What is the rhythm of the electronic drum kit?
 
 ## Resources
-
