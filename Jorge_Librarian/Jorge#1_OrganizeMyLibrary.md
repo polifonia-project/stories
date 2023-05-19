@@ -1,6 +1,7 @@
 ---
 component-id: Jorge#1_OrganizeMyLibrary
-name:  Librarian 
+name:  "Organize my digital library"
+description: "Jorge manages a digital library of scores. He aims at describing each score with a rich set of contextual information, although a comprehensive description is often not possible." 
 persona: 
   - Jorge
 keywords: 
@@ -15,15 +16,22 @@ pilot:
 type: Story
 story type:
   - expert driven
+related-components:
+- persona:
+  - Jorge
+- story:
+  - Jorge#2_FindSimilarScores
+  - Jorge#3_DynamicExploration
+  - Jorge#4_LinkToSources
 ---
-# Organize My Library
+# Organize my digital library
 
 ## Persona
 Jorge
 
 ## Goal
 
-Jorge manages a digital library of scores. He aims at describing each score with a rich set of contextual information, although a comprehensive descritpion is often ot possible. Among these information, one finds
+Jorge manages a digital library of scores. He aims at describing each score with a rich set of contextual information, although a comprehensive descritpion is often not possible. Among these information, one finds
   - The musical work (or 'Opus') this score belongs to. A score can cover a whole Opus (e.g., a symphony) or only a part of it (e.g., the third movement). Additionally, it can contain only some parts, all the parts, a trasnscription for non-original instruments, etc. Jorge wants to preserve each score at the appropriate level, with an adequate referencing (e.g., the official Opus number in a standard catalogue exists, K234.a, of BWV192, etc.)
   - Licence and copyright information 
   - Relations to standard external resources to refer to, e.g., composers or other kind of authorships

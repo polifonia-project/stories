@@ -1,6 +1,7 @@
 ---
 component-id: Jorge#2_FindSimilarScores
-name:  Librarian 
+name: "Find similar scores"
+description: "People interested in finding scores ask for some very specific criterias. Often, the resulting list is empty, or contains very few scores."
 persona: 
   - Jorge
 keywords: 
@@ -15,8 +16,15 @@ pilot:
 type: Story
 story type:
   - expert driven
+related-components:
+- persona:
+  - Jorge
+- story:
+  - Jorge#1_OrganizeMyLibrary
+  - Jorge#3_DynamicExploration
+  - Jorge#4_LinkToSources
 ---
-# Find Similar Scores
+# Find similar scores
 
 ## Persona
 Jorge
@@ -41,7 +49,7 @@ Jorge then uses a tool to propose similar work, close to the initial search. It 
 
 ## Competency questions 
 
-CQ1: Can I susesimilarity criterias based on metadata and features of musical works ?
+CQ1: Can I use similarity criterias based on metadata and features of musical works ?
 
 CQ2: Am I proposed  the most relevant criterias, or combination of criterias,  to expand an initial search ?
 

@@ -1,6 +1,7 @@
 ---
 component-id: Jorge#3_DynamicExploration
-name:  Librarian 
+name: "Dynamic exploration"
+description: "Jorge accesses to a part of the collection and is overwhelmed by the number of scores and their heterogeneity."
 persona: 
   - Jorge
 keywords: 
@@ -15,8 +16,15 @@ pilot:
 type: Story
 story type:
   - expert driven
+related-components:
+- persona:
+  - Jorge
+- story:
+  - Jorge#1_OrganizeMyLibrary
+  - Jorge#2_FindSimilarScores
+  - Jorge#4_LinkToSources
 ---
-# Dynamic Exploration
+# Dynamic exploration
 
 ## Persona
 Jorge

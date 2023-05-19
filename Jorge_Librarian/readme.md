@@ -1,13 +1,15 @@
 ---
 component-id: Jorge
 name: "Jorge"
-description: Librarian
+description: "Jorge is managing a library of music scores, and is responsible for the sub-part of the library catalog which is already digitized."
 type: Persona
 long-title: "Jorge"
 related-components:
-  - story:
-    - Jorge#1_OrganizeMyLibrary
-    - Jorge#2_FindSimilarScores
+- story:
+  - Jorge#1_OrganizeMyLibrary
+  - Jorge#2_FindSimilarScores
+  - Jorge#3_DynamicExploration
+  - Jorge#4_LinkToSources
 project: polifonia-project
 pilot:
   - FACETS
