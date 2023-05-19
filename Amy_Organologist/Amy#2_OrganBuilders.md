@@ -1,20 +1,21 @@
 ---
 component-id: Amy#2_OrganBuilders
 name: "Organ Builders"
-related-components:
-- persona: 
-  - Amy
-keywords: 
-- dutch organs
-- instruments
-- tradition
-work-package:
-- WP2
-pilot:
-- ORGANS
 type: Story
+description: Amy wants to assess the developments of organ builders.
+related-components:
+  - persona: 
+    - Amy
+keywords: 
+  - dutch organs
+  - instruments
+  - tradition
+work-package:
+  - WP2
+pilot:
+  - ORGANS
 story type: 
-- expert driven
+  - expert driven
 ---
 # Organ Builders
 

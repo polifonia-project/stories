@@ -1,20 +1,21 @@
 ---
 component-id: Amy#1_OrganTrends
 name: "Organ Trends" 
-related-components:
-- persona: 
-  - Amy
-keywords: 
-- dutch organs
-- instruments
-- tradition
-work-package:
-- WP2
-pilot:
-- ORGANS
 type: Story
+description: For her next research project, Amy wants to discover artistic and technical trends of organs and how these developed. 
+related-components:
+  - persona: 
+    - Amy
+keywords: 
+  - dutch organs
+  - instruments
+  - tradition
+work-package:
+  - WP2
+pilot:
+  - ORGANS
 story type: 
-- expert driven
+  - expert driven
 ---
 # Organ Trends
 
