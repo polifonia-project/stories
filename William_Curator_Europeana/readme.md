@@ -1,12 +1,19 @@
 ---
 component-id: William
 name: "William"
+description: "A curator of the Europeana platform, William has a background in art history."
 long-title: "William"
 type: Persona
-
+work-package:
+- WP2
+pilot:
+- INTERLINK
+related-components:
+- story:
+  - William#1_EuropeanFolkMusic
 ---
 
-# Persona description
+# William
 This is a description of the persona William. This persona is relevant to the pilot #INTERLINK
 
 ## Name

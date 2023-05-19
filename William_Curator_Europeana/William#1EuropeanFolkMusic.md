@@ -1,7 +1,7 @@
 ---
-component-id:
-- William#1_EuropeanFolkMusic
-name:  EuropeanFolkMusic 
+component-id: William#1_EuropeanFolkMusic
+name:  "European Folk Music" 
+description: "William is looking for songs matching his search criteria from the 20th and 21st centuries, across various music collections in Europe (particularly folk music)."
 persona:
 - William
 keywords:
@@ -16,13 +16,12 @@ pilot:
 - INTERLINK
 priority:
 - life improver
-type:
- - Story
+type: Story
 story type:
 - expert driven
 ---
 
-# William#1_EuropeanFolkMusic
+# European Folk Music
 
 ## Persona
 William is an art historian working as a curator for the Europeana platform. As such he’s aiming to reach a large audience with transnational heritage stories to educate and inspire European citizens. He lacks in-depth musicological knowledge.
