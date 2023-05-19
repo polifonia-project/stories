@@ -1,8 +1,6 @@
 ---
 component-id: Valeriana#1_DiscourseAnalysis
 name:  DiscourseAnalysis 
-persona: 
-- Valeriana
 keywords: 
 - Discourse Analysis
 work-package:
@@ -12,8 +10,10 @@ pilot:
 - MUSICBO
 priority:
 - Must have
-type:
- - Story
+type: Story
+related-components:
+- persona: 
+  - Valeriana
 
 ---
 # Valeriana#1_DiscourseAnalysis

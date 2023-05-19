@@ -1,8 +1,6 @@
 ---
 component-id: Valeriana#2_Terminology
 name:  Terminology 
-persona: 
-- Valeriana
 keywords: 
 - Terminology
 work-package:
@@ -12,10 +10,13 @@ pilot:
 - MUSICBO
 priority:
 - life improver
-type:
- - Story
+type: Story
 story type:
 - expert driven
+related-components:
+- persona: 
+  - Valeriana
+
 ---
 # Valeriana#2_Terminology
 

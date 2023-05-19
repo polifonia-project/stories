@@ -1,10 +1,13 @@
 ---
 component-id: Valeriana
 name: "Valeriana"
+description: "Valeriana is a linguist expert in discourse analysis and terminology."
 long-title: "Valeriana"
 type: Persona
+work-package:
+- WP4
 related-components:
-- Valeriana_DiscourseAnalysis
+- story: Valeriana#1_DiscourseAnalysis
 ---
 
 # Persona description
