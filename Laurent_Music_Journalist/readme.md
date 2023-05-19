@@ -1,14 +1,18 @@
 ---
 component-id: Laurent
 name: "Laurent"
-long-title: "Laurent"
+description: "Music Journalist and Editor."
 type: Persona
+long-title: "Laurent"
 related-components:
-- Laurent#1_MusicArchives
+  - story:
+    - Laurent#1_MusicArchives
+project: polifonia-project
+pilot:
+  - ""
 ---
 
-# Persona description
-
+# Laurent
 This is a description of the persona Laurent.
 
 ## Name

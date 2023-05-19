@@ -1,22 +1,20 @@
 ---
 component-id: Laurent#1_MusicArchives
-name:  MusicArchives 
+name:  Music Archives 
 persona: 
-- Laurent
+  - Laurent
 keywords: 
-- music archives, historical resources
+  - music archives
+  - historical resources
 work-package:
-- --
+  - --
 pilot:
-- musoW
-priority:
-- Must have
-type:
- - Story
+  - musoW
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Laurent#1_MusicArchives
+# Music Archives
 
 ## Persona
 Laurent is a music journalist. He produces a newsletter called Music Journalism Insider.
