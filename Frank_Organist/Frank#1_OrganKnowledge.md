@@ -1,25 +1,21 @@
 ---
-component-id: 
-- Frank#1_OrganKnowledge
-name:  OrganKnowledge 
+component-id: Frank#1_OrganKnowledge
+name: Organ Knowledge 
 persona: 
-- Frank
+  - Frank
 keywords: 
-- dutch organs
-- instruments
-- tradition
+  - dutch organs
+  - instruments
+  - tradition
 work-package:
-- WP2
+  - WP2
 pilot:
-- ORGANS
-priority:
--
-type:
- - Story
+  - ORGANS
+type: Story
 story type: 
-- expert driven
+  - expert driven
 ---
-# Frank#1_OrganKnowledge
+# Organ Knowledge
 
 ## Goal 
 

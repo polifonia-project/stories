@@ -1,13 +1,18 @@
 ---
 component-id: Frank
 name: "Frank"
-long-title: "Frank"
+description: History Teacher at the Secondary Level, Amateur Organist.
 type: Persona
+long-title: "Frank"
 related-components:
-- Frank#1_OrganKnowledge
+  - story:
+    - Frank#1_OrganKnowledge
+project: polifonia-project
+pilot:
+  - ORGANS
 ---
 
-# Persona description
+# Frank
 
 This is a description of the persona Frank.
 
