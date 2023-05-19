@@ -1,25 +1,23 @@
 ---
 component-id: Ralph#1_WordsAndMusic
-name:  WordsAndMusic 
-persona: 
-- Ralph
+name:  Words and Music 
+type: Story
+description: Ralph is particularly interested in matching text to music, e.g. in terms of emotions.
+related-components:
+  - persona: 
+    - Ralph
 keywords: 
-- music
-- words
+  - music
+  - words
 work-package:
-- WP2
-pilot:
-- 
-priority:
-- 
-type:
- - Story
+  - WP2
+pilot: []
 story type:
-- expert driven
+  - expert driven
 ---
 
 
-# Ralph#1_WordsAndMusic
+# Words and Music
 
 ## Persona
 
