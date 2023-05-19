@@ -3,6 +3,8 @@ component-id: Amy
 name: "Amy"
 description: "Organologist, Musicologist, and Music historian."
 type: Persona
+work-package:
+- WP2
 long-title: "Amy"
 related-components:
 - story:

@@ -1,15 +1,17 @@
 ---
 component-id: Sethus
 name: "Sethus"
+description: "Sethus's research focuses on the description and formalization of the compositional processes at work in modal polyphony."
 long-title: "Sethus"
 type: Persona
 related-components:
-- Sethus#1_ConflictingTheoreticalInterpretations
-- Sethus#2_CreateRelevantCorpus
-- Sethus#3_ConflictingAnalyticalAnnotations
+- story:
+  - Sethus#1_ConflictingTheoreticalInterpretations
+  - Sethus#2_CreateRelevantCorpus
+  - Sethus#3_ConflictingAnalyticalAnnotations
 ---
 
-# Persona description
+# Sethus
 
 This is a description of the persona Sethus
 

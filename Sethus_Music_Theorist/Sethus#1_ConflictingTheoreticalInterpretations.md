@@ -1,7 +1,7 @@
 ---
-component-id: 
-- Sethus#1_ConflictingTheoreticalInterpretations
-name:  ConflictingTheoreticalInterpretations 
+component-id: Sethus#1_ConflictingTheoreticalInterpretations
+name: "Conflicting theoretical interpretations"
+description: "In collaboration with other colleagues, Sethus is preparing a book on modal theory and its application to late Renaissance compositions."
 persona: 
 - Sethus
 keywords: 
@@ -18,12 +18,18 @@ pilot:
 - TONALITIES
 priority:
 - Life changer
-type:
- - Story
+type: Story
 story type:
 - expert domain
+related-components:
+- persona:
+  - Sethus
+- story:
+  - Sethus#3_ConflictingAnalyticalAnnotations
+  - Sethus#2_CreateRelevantCorpus
+  
 ---
-# Sethus#1_ConflictingTheoreticalInterpretations
+# Conflicting theoretical interpretations
 
 ## Persona
 

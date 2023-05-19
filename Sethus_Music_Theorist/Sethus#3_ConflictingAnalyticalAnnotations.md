@@ -1,9 +1,7 @@
 ---
-component-id: 
-- Sethus#1_ConflictingAnalyticalAnnotations
-name:  ConflictingAnalyticalAnnotations 
-persona: 
-- Sethus
+component-id: Sethus#3_ConflictingAnalyticalAnnotations
+name: "Conflicting analytical annotations"
+description: "In collaboration with other colleagues, Sethus is preparing a book on modal theory and its application to late Renaissance compositions."
 keywords: 
 - conflicting analytical interpretations
 - analytical concepts
@@ -19,12 +17,17 @@ pilot:
 - TONALITIES
 priority:
 - Life changer
-type:
- - Story
+type: Story
 story type:
 - expert domain
+related-components:
+- persona:
+  - Sethus
+- story:
+  - Sethus#1_ConflictingTheoreticalInterpretations
+  - Sethus#2_CreateRelevantCorpus
 ---
-# Sethus#3_ConflictingAnalyticalAnnotations
+# Conflicting analytical annotations
 
 ## Persona
 

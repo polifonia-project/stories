@@ -1,9 +1,7 @@
 ---
-component-id: 
-- Sethus#2_CreateRelevantCorpus
-name:  CreateRelevantCorpus 
-persona: 
-- Sethus
+component-id: Sethus#2_CreateRelevantCorpus
+name: "Create a relevant corpus"
+description: "Sethus prepares a book on a specific aspect of compositional practices during the Renaissance period, and aims at finding a set of relevant references to sources to illustrate his text."
 keywords: 
 - multi-criteria search 
 - corpus navigation based on facets
@@ -17,12 +15,17 @@ pilot:
 - FACETS
 priority:
 - Life changer
-type:
- - Story
+type: Story
 story type:
 - expert driven
+related-components:
+- persona:
+  - Sethus
+- story:
+  - Sethus#1_ConflictingTheoreticalInterpretations
+  - Sethus#3_ConflictingAnalyticalAnnotations
 ---
-# Sethus#2_CreateRelevantCorpus
+# Create a relevant corpus
 ## Persona
 
 Sethus is a music theorist, composer and teacher, specialized in late Renaissance music. In this field, his research focuses on the 
