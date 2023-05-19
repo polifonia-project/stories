@@ -1,27 +1,25 @@
 ---
-component-id:
-- Ortenz#1_MusicAndChildhood
-name:  MusicAndChildhood 
-persona:
-- Ortenz
+component-id: Ortenz#1_MusicAndChildhood
+name: Music and Childhood 
+type: Story
+description: "Ortenz is planning to write an article about the role of music in children education as a means to develop national identity."
+related-components:
+  - persona:
+    - Ortenz
 keywords:
-- music history
-- national identity
-- childhood
-- text analysis
-- art interpretation
+  - music history
+  - national identity
+  - childhood
+  - text analysis
+  - art interpretation
 work-package:
-- WP1
+  - WP1
 pilot:
-- CHILD
-priority:
-- life improver
-type:
- - Story
+  - CHILD
 story type:
-- expert driven
+  - expert driven
 ---
-# Ortenz#1_MusicAndChildhood
+# Music and Childhood
 
 ## Persona
 

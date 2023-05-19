@@ -1,30 +1,30 @@
 ---
-component-id:
-- Ortenz#2_MusicalSocialNetwork
-name:  MusicalSocialNetwork 
-persona:
-- Ortenz
+component-id: Ortenz#2_MusicalSocialNetwork
+name: Musical Social Network 
+type: Story
+description: "Ortenz would like to have a system for visualising events (meetings of composers and musicians) in time and space in 
+  order to track musicians' careers, their overlap and intersections, gathering trends in time and space, and making 
+  emerge patterns of knowledge transmission."
+related-components:
+  - persona:
+    - Ortenz
 keywords:
-- music history
-- events
-- encounters
-- text analysis
-- annotation
-- collaboration
+  - music history
+  - events
+  - encounters
+  - text analysis
+  - annotation
+  - collaboration
 work-package:
-- WP1
-- WP4
-- WP2
+  - WP1
+  - WP4
+  - WP2
 pilot:
-- MEETUPS
-priority:
-- life improver
-type:
- - Story
+  - MEETUPS
 story type:
-- expert driven
+  - expert driven
 ---
-# Ortenz#2_MusicalSocialNetwork
+# Musical Social Network
 
 ## Persona
 

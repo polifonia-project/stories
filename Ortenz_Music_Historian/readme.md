@@ -1,14 +1,19 @@
 ---
 component-id: Ortenz
 name: "Ortenz"
-long-title: "Ortenz"
+description: Music, Art and Cultural Historian
 type: Persona
+long-title: "Ortenz"
 related-components:
-- Ortenz#1_MusicAndChildhood
-- Ortenz#2_MusicalSocialNetwork
+  - Ortenz#1_MusicAndChildhood
+  - Ortenz#2_MusicalSocialNetwork
+project: polifonia-project
+pilot: 
+  - MEETUPS
+  - CHILD
 ---
 
-# Persona description
+# Ortenz
 
 This is a description of the persona Ortenz.
 The persona is relevant to pilots #CHILD and #MEETS.
