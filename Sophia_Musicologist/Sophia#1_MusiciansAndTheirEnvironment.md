@@ -1,9 +1,7 @@
 ---
-component-id:
-- Sophia#1_MusiciansAndTheirEnvironment
-name:  MusiciansAndTheirEnvironment 
-persona:
-- Sophia
+component-id: Sophia#1_MusiciansAndTheirEnvironment
+name: "Musicians and their environment" 
+persona: Sophia
 keywords:
 - 16th century
 - 17th century
@@ -11,18 +9,25 @@ keywords:
 - composers
 - people network
 - text analysis
-work-package:
-- WP5
 pilot:
 - MEETUPS
 priority:
 - life improver
-type:
- - Story
+type: Story
 story type:
 - expert driven
+work-packages:
+- WP5
+pilot:
+- MEETUPS
+related-component:
+- persona:
+  - Sofia
+- story:
+  - Sophia#2_OriginsAndForm
+  - Sophia#3_Reorchestration
 ---
-# Sophia#1_MusiciansAndTheirEnvironment
+#  Musicians and their environment
 
 ## Persona
 
