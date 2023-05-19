@@ -1,9 +1,6 @@
 ---
-component-id:
-- Sophia#2_OriginsAndForm
-name:  OriginsAndForm 
-persona:
-- Sophia
+component-id: Sophia#2_OriginsAndForm
+name: "Origins and form" 
 keywords:
 - 16th century
 - 17th century
@@ -12,16 +9,22 @@ keywords:
 - language
 work-package:
 - WP5
-pilot:
-- None
 priority:
 - life improver
 type:
  - Story
 story type:
 - expert driven
+related-component:
+- persona:
+  - Sofia
+- story:
+  - Sophia#1_MusiciansAndTheirEnvironment
+  - Sophia#2_OriginsAndForm
+  - Sophia#3_Reorchestration
+
 ---
-# Sophia#2_OriginsAndForm
+# Origins and form
 
 ## Persona
 

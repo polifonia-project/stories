@@ -1,8 +1,7 @@
 ---
 component-id: Sophia#3_Reorchestration
 name:  Reorchestration 
-persona: 
-- Sophia
+description: "Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes  music compositions of that time with a completely new orchestration."
 keywords: 
 - orchestration
 - instrumentation
@@ -12,13 +11,18 @@ pilot:
 - To be completed
 priority:
 - Must have
-type:
- - Story
+type: Story
 story type:
 - expert driven
+related-component:
+- persona:
+  - Sofia
+- story:
+  - Sophia#1_MusiciansAndTheirEnvironment
+  - Sophia#3_Reorchestration
 ---
 
-# Sophia#3_Reorchestration
+# Reorchestration
 
 ## Persona
 Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician. She is a musicologist working in the music department of a university. She has a particular interest in late 16th to 18th century music, specifically that of a particular composer living and working in Rome, Wien (Haydn, Mozart, Beethoven) London and Paris. 
