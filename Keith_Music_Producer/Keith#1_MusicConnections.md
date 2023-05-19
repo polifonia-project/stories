@@ -1,8 +1,11 @@
 ---
 component-id: Keith#1_MusicConnections
-name:  Music Connections 
-persona: 
- - Keith
+name: Music Connections 
+type: Story
+description: Keith wants to compile programmes of music, e.g. for music festivals.
+related-component:
+  - persona: 
+    - Keith
 keywords: 
  - connections between music
  - serendipitous discovery
@@ -10,7 +13,6 @@ work-package:
  - WP5
 pilot:
  - INTERLINK
-type: Story
 story type:
   - expert driven
 ---

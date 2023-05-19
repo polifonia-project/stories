@@ -1,8 +1,11 @@
 ---
 component-id: Anna#1_HearingMusic
 name: Hearing Music
-persona: 
-  - Anna
+type: Story
+description: Anna wants to experience live music with the aid of haptic technology.
+related-component:
+  - persona: 
+    - Anna
 keywords: 
   - hatpics
   - live music
@@ -13,7 +16,6 @@ work-package:
   - WP5
 pilot:
   - ACCESS
-type: Story
 story type:
   - Expert driven
 ---

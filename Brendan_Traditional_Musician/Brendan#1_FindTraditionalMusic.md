@@ -1,8 +1,11 @@
 ---
 component-id: Brendan#1_FindTraditionalMusic
 name: Find Traditional Music
-persona: 
-  - Brendan
+type: Story
+description: Find suitably similar traditional music and historical context from northern European corpora.
+related-component:
+  - persona: 
+    - Brendan
 keywords: 
   - traditional music
   - melodic similarity
@@ -12,7 +15,6 @@ work-package:
   - WP3
 pilot:
   - TUNES
-type: Story
 story type: 
 - expert driven
 ---
