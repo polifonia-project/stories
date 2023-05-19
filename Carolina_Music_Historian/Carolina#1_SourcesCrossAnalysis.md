@@ -1,25 +1,22 @@
 ---
 component-id: Carolina#1_SourcesCrossAnalysis
-name:  SourcesCrossAnalysis 
+name:  Sources Cross-Analysis 
 persona: 
-- Carolina
+  - Carolina
 keywords: 
-- sources cross-analysis
+  - sources cross-analysis
 work-package:
-- WP2
-- WP3
-- WP4
-- WP5
+  - WP2
+  - WP3
+  - WP4
+  - WP5
 pilot:
-- MUSICBO
-priority:
-- Must have
-type:
- - Story
+  - MUSICBO
+type: Story
 story type:
 - expert driven
 ---
-# Carolina#1_SourcesCrossAnalysis
+# Sources Cross-Analysis
 
 ## Persona
 Carolina is a music historian with a passion for the Baroque. She is a researcher and collaborates with the International Museum and the Music Library of Bologna. 

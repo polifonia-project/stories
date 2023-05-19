@@ -1,13 +1,17 @@
 ---
 component-id: Carolina
 name: "Carolina"
-long-title: "Carolina"
+description: "Researcher"
 type: Persona
+long-title: "Carolina"
 related-components:
-- Carolina#1_SourcesCrossAnalysis
+  - story:
+    - Carolina#1_SourcesCrossAnalysis
+project: polifonia-project
+pilot: MUSICBO
 ---
 
-# Persona description
+# Carolina
 
 This is a description of the persona Carolina.
 
