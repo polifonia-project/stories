@@ -1,13 +1,18 @@
 ---
 component-id: Keoma
 name: "Keoma"
-long-title: "Keoma"
+description: Architect and Restorer
 type: Persona
+long-title: "Keoma"
 related-components:
-- Keoma#1_RestorationAndSoundPractices
+  - story:
+    - Keoma#1_RestorationAndSoundPractices
+project: polifonia-project
+pilot:
+  - BELLS
 ---
 
-# Persona description
+# Keoma
 
 This is a description of the persona Keoma
 

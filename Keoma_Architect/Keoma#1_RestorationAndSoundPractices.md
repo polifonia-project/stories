@@ -1,26 +1,22 @@
 ---
-component-id: 
-- Keoma#1_RestorationAndSoundPractices
-name:  RestorationAndSoundPractices 
+component-id: Keoma#1_RestorationAndSoundPractices
+name:  Restoration and Sound Practices 
 persona: 
-- Keoma
+  - Keoma
 keywords: 
-- sound practices
-- restoration
+  - sound practices
+  - restoration
 work-package:
-- WP1
-- WP2
-- WP4
+  - WP1
+  - WP2
+  - WP4
 pilot:
-- BELLS
-priority:
-- Life improver
-type:
- - Story
+  - BELLS
+type: Story
 story type: 
-- expert driven
+  - expert driven
 ---
-# Keoma#1_RestorationAndSoundPractices
+# Restoration and Sound Practices
 
 ## Persona
 
