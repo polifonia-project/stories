@@ -3,6 +3,10 @@ component-id: Andrea#1_Serendipity
 name:  Serendipity 
 type: Story
 description: "Andrea's goal is to discover and explore sacred music written from the period of the Renaissance through the twentieth century and its unexpected links with his scholarly studies."
+related-components:
+  - persona: 
+    - Andrea
+  - musoW
 keywords: 
   - serendipity
   - organs
@@ -11,12 +15,9 @@ work-package:
   - WP1
   - WP5
 pilot:
-  - musoW
   - ORGANS
 story type:
   - expert driven
-related-components:
-- persona: Andrea
 ---
 
 # Serendipity
