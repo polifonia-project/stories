@@ -1,7 +1,7 @@
 ---
-component-id: Sonia#2 - Shuffle mode
-persona: 
-- Sonia
+component-id: Sonia#2_ShuffleMode
+name: "Shuffle mode"
+description: "Sonia likes exploring music, either finding out more about music and musicians she already knows or uncovering new interests."
 keywords: 
 - Playlist, shuffle
 work-package:
@@ -11,14 +11,17 @@ work-package:
 - WP5
 pilot:
 - INTERLINK
-priority:
-- 
-type:
- - Story
+type: Story
 story type:
 - expert driven
+related-components:
+- persona: 
+  - Sonia
+- story:
+  - Sonia#1_ExplorationMode
+  - Sonia#3_StatsMode
 ---
-# Sonia#2_ShuffleMode
+# Shuffle mode
 
 ## Persona
 Sonia

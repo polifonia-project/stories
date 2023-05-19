@@ -1,7 +1,8 @@
 ---
-component-id: Sonia#1 - Exploration mode
-persona: 
-- Sonia
+component-id: Sonia#1_ExplorationMode
+name: "Exploration mode"
+description: "Sonia likes exploring music, either finding out more about music and musicians she already knows or uncovering new interests."
+type: Story
 keywords: 
 - Playlist
 work-package:
@@ -11,14 +12,16 @@ work-package:
 - WP5
 pilot:
 - INTERLINK
-priority:
-- 
-type:
- - Story
 story type:
 - expert driven
+related-components:
+- persona: 
+  - Sonia
+- story:
+  - Sonia#2_ShuffleMode
+  - Sonia#3_StatsMode
 ---
-# Sonia#1_ExplorationMode
+# Exoloration mode
 
 ## Persona
 Sonia

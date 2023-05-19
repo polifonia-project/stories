@@ -1,15 +1,17 @@
 ---
 component-id: Sonia
 name: "Sonia"
+description: "Lecturer, music producer and festival director interested in finding new music."
 long-title: "Sonia"
 type: Persona
-related-component:
-- Sonia#1_ExplorationMode
-- Sonia#2_ShuffleMode
-- Sonia#3_StatsMode
+related-components:
+- story:
+  - Sonia#1_ExplorationMode
+  - Sonia#2_ShuffleMode
+  - Sonia#3_StatsMode
 ---
 
-# Persona description
+# Sonia
 
 A lecturer, music producer and festival director interested in finding new music.
 

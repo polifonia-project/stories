@@ -1,7 +1,7 @@
 ---
-component-id: Sonia#3 - Stats mode
-persona: 
-- Sonia
+component-id: Sonia#3_StatsMode
+name: "Stats mode"
+description: "Sonia likes to explore her playlist history, find interesting statistics and patterns and see how it compares to other music listeners."
 keywords: 
 - Playlist, statistics, history, visualisation, comparison
 WP:
@@ -11,14 +11,17 @@ WP:
 - WP5
 pilot:
 - INTERLINK
-priority:
-- 
-type:
- - Story
+type: Story
 story type:
 - expert driven
+related-components:
+- persona: 
+  - Sonia
+- story:
+  - Sonia#1_ExplorationMode
+  - Sonia#2_ShuffleMode
 ---
-# Sonia#3
+# Stats mode
 
 ## Persona
 Sonia
