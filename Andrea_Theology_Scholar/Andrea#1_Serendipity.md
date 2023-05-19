@@ -2,26 +2,23 @@
 component-id: Andrea#1_Serendipity
 name:  Serendipity 
 persona: 
-- Andrea
+  - Andrea
 keywords: 
-- serendipity
-- organs
-- sacred music
+  - serendipity
+  - organs
+  - sacred music
 work-package:
-- WP1
-- WP5
+  - WP1
+  - WP5
 pilot:
-- musoW
-- Organs
-priority:
-- Must have
-type:
- - Story
+  - musoW
+  - ORGANS
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
 
-# Andrea#1_Serendipity
+# Serendipity
 
 ## Persona
 Andrea is a priest-scholar and a graduate music pianist with a specialization in organ music. 
