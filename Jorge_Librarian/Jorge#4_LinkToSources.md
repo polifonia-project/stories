@@ -15,6 +15,13 @@ pilot:
 type: Story
 story type:
   - expert driven
+related-components:
+- persona:
+  - Jorge
+- story:
+  - Jorge#1_OrganizeMyLibrary
+  - Jorge#3_DynamicExploration
+  - Jorge#2_FindSimilarScores
 ---
 # Link To Sources
 
