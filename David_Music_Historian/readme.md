@@ -1,13 +1,18 @@
 ---
 component-id: David
 name: "David"
-long-title: "David"
+description: Music Historian.
 type: Persona
+long-title: "David"
 related-components:
-- David#1_MusicHistorian
+  - story:
+    - David#1_MusicHistorian
+project: polifonia-project
+pilot: 
+  - MEETUPS
 ---
 
-# Persona description
+# David
 
 A music historian working in the music department of a university. 
 

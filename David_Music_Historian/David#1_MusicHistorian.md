@@ -1,26 +1,23 @@
 ---
 component-id: David#1_MusicHistorian
-name:  MusicHistorian 
+name:  Music Historian 
 persona: 
-- David
+  - David
 keywords: 
-- music historian
-- social history of music
+  - music historian
+  - social history of music
 work-package:
-- WP2
-- WP3
-- WP4
-- WP5
+  - WP2
+  - WP3
+  - WP4
+  - WP5
 pilot:
-- MEETUPS
-priority:
-- Illustrative
-type:
- - Story
+  - MEETUPS
+type: Story
 story type:
 - expert driven
 ---
-# David#1_MusicHistorian
+# Music Historian
 
 ## Persona
 David
