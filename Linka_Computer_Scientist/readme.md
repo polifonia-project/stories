@@ -12,7 +12,7 @@ pilot:
   - INTERLINK
 ---
 
-# Persona description
+# Linka
 Lecturer in Music Technology
 
 
