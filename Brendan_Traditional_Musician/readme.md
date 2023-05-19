@@ -1,13 +1,18 @@
 ---
 component-id: Brendan
 name: "Brendan"
-long-title: "Brendan"
+description: "Irish Traditional Musician/Scholar and Ethnomusicologist."
 type: Persona
+long-title: "Brendan"
 related-components:
-- Brendan#1_FindTraditionalMusic
+  - story:
+    - Brendan#1_FindTraditionalMusic
+project: polifonia-project
+pilot: 
+  - TUNES
 ---
 
-# Persona description
+# Brendan
 
 This is a description of the persona Brendan
 

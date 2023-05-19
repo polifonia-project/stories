@@ -1,26 +1,22 @@
 ---
-component-id: 
-- Brendan#1_FindTraditionalMusic
-name: FindTraditionalMusic
+component-id: Brendan#1_FindTraditionalMusic
+name: Find Traditional Music
 persona: 
-- Brendan
+  - Brendan
 keywords: 
-- Traditional music
-- Melodic similarity
-- Rhythmic similarity
-- Tunes
+  - traditional music
+  - melodic similarity
+  - rhythmic similarity
+  - tunes
 work-package:
-- WP3
+  - WP3
 pilot:
-- TUNES
-priority:
-- life improver
-type:
- - Story
+  - TUNES
+type: Story
 story type: 
 - expert driven
 ---
-# Brendan#1_FindTraditionalMusic
+# Find Traditional Music
 
 ## Goal 
 
