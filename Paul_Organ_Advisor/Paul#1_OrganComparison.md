@@ -1,26 +1,24 @@
 ---
-component-id: 
-- Paul#1_OrganComparison
-name:  OrganComparison 
-persona: 
-- Paul
+component-id: Paul#1_OrganComparison
+name:  Organ Comparison 
+type: Story
+description: Successfully plan the restoration of an organ.
+related-components:
+  - persona: 
+    - Paul
 keywords: 
-- dutch organs
-- instruments
-- tradition
+ - dutch organs
+ - instruments
+ - tradition
 work-package:
-- WP2
-- WP5
+ - WP2
+ - WP5
 pilot:
-- ORGANS
-priority:
--
-type:
- - Story
+  - ORGANS
 story type: 
-- expert driven
+  - expert driven
 ---
-# Paul#1_OrganComparison
+#  Organ Comparison
 
 ## Goal 
 
