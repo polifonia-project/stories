@@ -8,8 +8,7 @@ related-components:
   - story:
     - Laurent#1_MusicArchives
 project: polifonia-project
-pilot:
-  - ""
+pilot: []
 ---
 
 # Laurent

@@ -1,16 +1,18 @@
 ---
 component-id: Laurent#1_MusicArchives
 name:  Music Archives 
-persona: 
-  - Laurent
+type: Story
+description: Laurent's goal is to discover and explore Archives, Historical and Research Resources that deal with music in some way, for the extrapolation of content to be included in his newsletter.
+related-components: 
+  - persona:
+    - Laurent
+  - musoW
 keywords: 
   - music archives
   - historical resources
 work-package:
   - --
-pilot:
-  - musoW
-type: Story
+pilot: []
 story type:
   - expert driven
 ---

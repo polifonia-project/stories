@@ -10,7 +10,7 @@ project: polifonia-project
 pilot: []
 ---
 
-# Persona description
+# Ralph
 
 This is a description of the persona Ralph.
 
