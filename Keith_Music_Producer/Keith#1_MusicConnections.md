@@ -1,23 +1,20 @@
 ---
 component-id: Keith#1_MusicConnections
-name:  MusicConnections 
+name:  Music Connections 
 persona: 
-- Keith
+ - Keith
 keywords: 
-- connections between music
-- serendipitous discovery
-WP:
-- WP5
+ - connections between music
+ - serendipitous discovery
+work-package:
+ - WP5
 pilot:
-- INTERLINK
-priority:
--
-type:
- - Story
+ - INTERLINK
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
-# Keith#1_MusicConnections
+# Music Connections
 
 ## Persona
 Keith

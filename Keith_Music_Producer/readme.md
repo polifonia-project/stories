@@ -1,13 +1,18 @@
 ---
 component-id: Keith
 name: "Keith"
-long-title: "Keith"
+description:
 type: Persona
+long-title: "Keith"
 related-components:
-- Keith#1_MusicConnections
+  - story:
+    - Keith#1_MusicConnections
+project: polifonia-project
+pilot:
+ - INTERLINK
 ---
 
-# Persona description
+# Keith
 
 Event and music producer
 
