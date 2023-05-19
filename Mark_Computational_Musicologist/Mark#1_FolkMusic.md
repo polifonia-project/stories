@@ -1,24 +1,21 @@
 ---
 component-id: Mark#1_FolkMusic
-name:  FolkMusic 
+name:  Folk Music 
 persona: 
-- Mark
+  - Mark
 keywords: 
-- folk music
+  - folk music
 work-package:
-- WP2
+  - WP2
 pilot:
-- TUNES
-priority:
-- 
-type:
- - Story
+  - TUNES
+type: Story
 story type:
-- expert driven
+  - expert driven
 ---
 
 
-# Mark#1_FolkMusic
+# Folk Music
 
 ## Persona
 

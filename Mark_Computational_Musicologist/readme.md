@@ -1,13 +1,18 @@
 ---
 component-id: Mark
 name: "Mark"
-long-title: "Mark"
+description: Computational Musicologist
 type: Persona
+long-title: "Mark"
 related-components:
-- Mark#1_FolkMusic
+  - story:
+    - Mark#1_FolkMusic
+project: polifonia-project
+pilot:
+  - TUNES
 ---
 
-# Persona description
+# Mark
 
 A computational musicologist working in the music department of a university.
 
