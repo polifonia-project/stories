@@ -1,11 +1,15 @@
 ---
 component-id: Paul
 name: "Paul"
-long-title: "Paul"
+description: Organist, Organ Builder and Musicologist.
 type: Persona
+long-title: "Paul"
 related-components:
-- Paul#1_OrganComparison
-- Paul#2_ResourceReliability
+  - Paul#1_OrganComparison
+  - Paul#2_ResourceReliability
+project: polifonia-project
+pilot:
+  - ORGANS
 ---
 
 # Persona description

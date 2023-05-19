@@ -1,26 +1,24 @@
 ---
-component-id: 
-- Paul#2_ResourceReliability
-name:  ResourceReliability 
-persona: 
-- Paul
+component-id: Paul#2_ResourceReliability
+name:  Resource Reliability
+type: Story 
+description: Successfully plan the restoration of an organ.
+related-components:
+  - persona: 
+    - Paul
 keywords: 
-- dutch organs
-- instruments
-- tradition
+  - dutch organs
+  - instruments
+  - tradition
 work-package:
-- WP2
-- WP5
+  - WP2
+  - WP5
 pilot:
-- ORGANS
-priority:
--
-type:
- - Story
+  - ORGANS
 story type: 
-- expert driven
+  - expert driven
 ---
-# Paul#2_ResourceReliability
+# Resource Reliability
 
 ## Goal 
 
