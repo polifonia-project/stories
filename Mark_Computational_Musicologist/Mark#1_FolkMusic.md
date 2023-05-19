@@ -1,15 +1,17 @@
 ---
 component-id: Mark#1_FolkMusic
-name:  Folk Music 
-persona: 
-  - Mark
+name: Folk Music 
+type: Story
+description: Mark is interested in understanding how Dutch folk tunes relate to other music, e.g. French court operas.
+related-components:
+  - persona: 
+    - Mark
 keywords: 
   - folk music
 work-package:
   - WP2
 pilot:
   - TUNES
-type: Story
 story type:
   - expert driven
 ---
