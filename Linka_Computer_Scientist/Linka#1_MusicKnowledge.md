@@ -1,8 +1,11 @@
 ---
 component-id: Linka#1_MusicKnowledge
 name:  Music Knowledge 
-persona:
-  - Linka
+type: Story
+description: Linka is interested in finding and describing music-related data of heterogeneous types and formats from different sources. Thanks to the ability to represent diverse content, her main goal is to inter-relate music data so as to enable large scale experiments for knowledge discovery.
+related-components:
+  - persona:
+    - Linka
 keywords:
   - multi-modality
   - music Data
@@ -10,7 +13,6 @@ work-package:
   - WP2
 pilot:
   - INTERLINK
-type: Story
 story type:
   - pilot driven
 ---
