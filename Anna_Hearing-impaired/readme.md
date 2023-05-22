@@ -1,7 +1,7 @@
 ---
 component-id: Anna
 name: "Anna"
-description:
+description: "Anna is a fan of live music. She became hearing imparied in later life."
 type: Persona
 long-title: "Anna"
 related-components:
