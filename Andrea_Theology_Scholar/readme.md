@@ -1,7 +1,7 @@
 ---
 component-id: Andrea
 name: "Andrea"
-decription: "Pianist, Organist, Priest and Theology Scholar."
+description: "Pianist, Organist, Priest and Theology Scholar."
 type: Persona
 long-title: "Andrea"
 related-components:
