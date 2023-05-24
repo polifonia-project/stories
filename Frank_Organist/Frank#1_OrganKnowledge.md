@@ -14,6 +14,9 @@ pilot:
 type: Story
 story type: 
   - expert driven
+related-components:
+- persona:
+  - Frank
 ---
 # Organ Knowledge
 
