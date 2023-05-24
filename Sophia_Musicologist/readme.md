@@ -1,20 +1,20 @@
 ---
 component-id: Sophia
 name: "Sophia"
-description: "Sophia’s original qualifications, and her Ph.D., were in music and she is also a practising musician."
+description: "Sophia’s original qualifications (including her Ph.D.) were in music. She is also a practising musician."
 long-title: "Sophia"
 type: Persona
-work-packages:
-- WP2
-- WP4
-- WP5
+work-package:
+  - WP2
+  - WP4
+  - WP5
 pilot:
-- MEETUPS
-related-component:
-- story:
-  - Sophia#1_MusiciansAndTheirEnvironment
-  - Sophia#2_OriginsAndForm
-  - Sophia#3_Reorchestration
+  - MEETUPS
+related-components:
+  - story:
+    - Sophia#1_MusiciansAndTheirEnvironment
+    - Sophia#2_OriginsAndForm
+    - Sophia#3_Reorchestration
 ---
 
 # Sophia
