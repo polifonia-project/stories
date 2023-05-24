@@ -5,7 +5,7 @@ type: Story
 description: Sophia is interested in understanding how the composer was influenced, e.g. by which other composers.
 related-component:
 - persona:
-  - Sofia
+  - Sophia
 - story:
   - Sophia#1_MusiciansAndTheirEnvironment
   - Sophia#3_Reorchestration

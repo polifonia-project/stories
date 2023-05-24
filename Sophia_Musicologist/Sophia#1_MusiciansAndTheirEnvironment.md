@@ -5,7 +5,7 @@ type: Story
 description: Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds.
 related-components:
   - persona:
-    - Sofia
+    - Sophia
   - story:
     - Sophia#2_OriginsAndForm
     - Sophia#3_Reorchestration

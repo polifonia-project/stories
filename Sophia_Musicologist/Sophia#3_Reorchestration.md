@@ -5,7 +5,7 @@ type: Story
 description: "Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes  music compositions of that time with a completely new orchestration."
 related-components:
   - persona:
-    - Sofia
+    - Sophia
   - story:
     - Sophia#1_MusiciansAndTheirEnvironment
     - Sophia#3_Reorchestration
