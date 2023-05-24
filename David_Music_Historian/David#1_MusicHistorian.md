@@ -1,8 +1,9 @@
 ---
 component-id: David#1_MusicHistorian
 name:  Music Historian 
-persona: 
-  - David
+related-components:
+  - persona: 
+    - David
 keywords: 
   - music historian
   - social history of music

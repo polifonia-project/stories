@@ -3,7 +3,7 @@ component-id: Brendan#1_FindTraditionalMusic
 name: Find Traditional Music
 type: Story
 description: Find suitably similar traditional music and historical context from northern European corpora.
-related-component:
+related-components:
   - persona: 
     - Brendan
 keywords: 
