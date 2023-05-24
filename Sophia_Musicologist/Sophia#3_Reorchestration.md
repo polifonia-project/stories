@@ -1,25 +1,23 @@
 ---
 component-id: Sophia#3_Reorchestration
 name:  Reorchestration 
+type: Story
 description: "Sophia needs to study the instrumentation of a musical composition of the 18th century in order to organize a music festival that compares philological and modern performances and that proposes  music compositions of that time with a completely new orchestration."
+related-components:
+  - persona:
+    - Sofia
+  - story:
+    - Sophia#1_MusiciansAndTheirEnvironment
+    - Sophia#3_Reorchestration
 keywords: 
 - orchestration
 - instrumentation
 work-package:
-- WP2
+  - WP2
 pilot:
-- To be completed
-priority:
-- Must have
-type: Story
+  - To be completed
 story type:
-- expert driven
-related-component:
-- persona:
-  - Sofia
-- story:
-  - Sophia#1_MusiciansAndTheirEnvironment
-  - Sophia#3_Reorchestration
+  - expert driven
 ---
 
 # Reorchestration

@@ -1,7 +1,14 @@
 ---
 component-id: Sophia#1_MusiciansAndTheirEnvironment
 name: "Musicians and their environment" 
-persona: Sophia
+type: Story
+description: Sophia is interested in understanding the social-historical reasons behind how the music was created and how it sounds.
+related-components:
+  - persona:
+    - Sofia
+  - story:
+    - Sophia#2_OriginsAndForm
+    - Sophia#3_Reorchestration
 keywords:
 - 16th century
 - 17th century
@@ -9,23 +16,12 @@ keywords:
 - composers
 - people network
 - text analysis
+work-package:
+  - WP5
 pilot:
-- MEETUPS
-priority:
-- life improver
-type: Story
+  - MEETUPS
 story type:
-- expert driven
-work-packages:
-- WP5
-pilot:
-- MEETUPS
-related-component:
-- persona:
-  - Sofia
-- story:
-  - Sophia#2_OriginsAndForm
-  - Sophia#3_Reorchestration
+  - expert driven
 ---
 #  Musicians and their environment
 

@@ -1,6 +1,14 @@
 ---
 component-id: Sophia#2_OriginsAndForm
 name: "Origins and form" 
+type: Story
+description: Sophia is interested in understanding how the composer was influenced, e.g. by which other composers.
+related-component:
+- persona:
+  - Sofia
+- story:
+  - Sophia#1_MusiciansAndTheirEnvironment
+  - Sophia#3_Reorchestration
 keywords:
 - 16th century
 - 17th century
@@ -9,19 +17,8 @@ keywords:
 - language
 work-package:
 - WP5
-priority:
-- life improver
-type:
- - Story
 story type:
 - expert driven
-related-component:
-- persona:
-  - Sofia
-- story:
-  - Sophia#1_MusiciansAndTheirEnvironment
-  - Sophia#3_Reorchestration
-
 ---
 # Origins and form
 

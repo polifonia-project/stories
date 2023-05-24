@@ -3,7 +3,7 @@ component-id: Keith#1_MusicConnections
 name: Music Connections 
 type: Story
 description: Keith wants to compile programmes of music, e.g. for music festivals.
-related-component:
+related-components:
   - persona: 
     - Keith
 keywords: 

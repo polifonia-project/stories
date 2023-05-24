@@ -17,7 +17,7 @@ work-package:
 pilot:
   - ACCESS
 story type:
-  - Expert driven
+  - expert driven
 ---
 # Hearing Music
 

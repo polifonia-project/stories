@@ -1,9 +1,11 @@
 ---
 component-id: William#1_EuropeanFolkMusic
 name:  "European Folk Music" 
+type: Story
 description: "William is looking for songs matching his search criteria from the 20th and 21st centuries, across various music collections in Europe (particularly folk music)."
-persona:
-- William
+related-components:
+  - persona:
+    - William
 keywords:
 - Folk music
 - European
@@ -11,14 +13,11 @@ keywords:
 - Queries
 - Visualisations
 work-package:
-- WP2
+  - WP2
 pilot:
-- INTERLINK
-priority:
-- life improver
-type: Story
+  - INTERLINK
 story type:
-- expert driven
+  - expert driven
 ---
 
 # European Folk Music
