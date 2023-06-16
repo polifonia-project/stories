@@ -50,7 +50,7 @@ To do this, Keoma would have to resort to numerous searches: bibliographic sourc
 
 Thanks to Polifonia, Keoma can carry out these searches automatically, through a keyword search, retrieving a large amount of data in a short time. 
 
-## Scenario  
+## Example data  
 The searched data can be divided into: Architectural data, Data related to the bells, Data related to sound practices, Data related to sound recordings, Bibliographic data.
 
 **Architectural data**
