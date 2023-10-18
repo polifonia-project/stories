@@ -4,6 +4,8 @@ name: "Keoma"
 description: Architect and Restorer
 type: Persona
 long-title: "Keoma"
+licence:
+  - CC-BY_v4
 related-components:
   - story:
     - Keoma#1_RestorationAndSoundPractices
