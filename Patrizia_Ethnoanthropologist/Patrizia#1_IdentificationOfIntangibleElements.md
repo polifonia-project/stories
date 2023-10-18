@@ -2,7 +2,9 @@
 component-id: Patrizia#1_IdentificationOfIntangibleElements
 name:  Identification of Intangible Elements 
 type: Story
-description: Patrizia must propose safeguarding actions on some intangible practices related with bells sound. 
+description: Patrizia must propose safeguarding actions on some intangible practices related with bells sound.
+licence:
+  - CC-BY_v4
 related-components:
   - persona: 
     - Patrizia
