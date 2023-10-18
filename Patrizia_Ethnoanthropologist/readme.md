@@ -4,8 +4,11 @@ name: "Patrizia"
 description: Ethnoanthropologist and Officer at the Italian Ministry of Culture
 type: Persona
 long-title: "Patrizia"
+licence:
+  - CC-BY_v4
 related-components:
-  - Patrizia#1_IdentificationOfIntangibleElements
+  - story:
+    - Patrizia#1_IdentificationOfIntangibleElements
 project: polifonia-project
 pilot:
   - BELLS
