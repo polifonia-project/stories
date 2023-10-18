@@ -3,6 +3,8 @@ component-id: Keoma#1_RestorationAndSoundPractices
 name:  Restoration and Sound Practices 
 type: Story
 description: Keoma needs to find different types of information and data from different sources. His goal is to interconnect data between architectures and their use for sound performances, in order to proceed with protection actions.
+licence:
+  - CC-BY_v4
 related-components:
   - persona: 
     - Keoma
