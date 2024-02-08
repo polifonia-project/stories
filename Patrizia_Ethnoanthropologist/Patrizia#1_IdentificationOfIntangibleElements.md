@@ -40,7 +40,7 @@ CQ2: What kind of execution characterizes that bell tower?
 
 CQ3: Are there formalized collective actors who carry out sound practices?
 
-CQ4: Are there formalized transmission methods that characterize the acquisition of skills related to the bell practice?
+CQ4: Are there formalized transmission methods that characterize the acquisition of skills related to the bell practice(courses; associations)?
 
 CQ5: Which age groups do the transmission practices involve?
 
