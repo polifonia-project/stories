@@ -38,19 +38,17 @@ Keoma has to elaborate a restructuring plan for various bell towers and wants to
 
 Keoma therefore needs to know what kind of sound practices are performed in each bell tower, starting with the names of the Churches given in a list. 
 
-Keoma begins to search for the location of each church, also to understand if it is an urban, peri-urban or rural context. 
+Keoma begins to search for the location and the address of each church, also to understand if it is an urban, peri-urban or rural context. 
 
 Keoma needs to know if in each of the churches the practices of sound are currently practiced by moving the bells manually or electrically. 
 
 Furthermore, for static calculations he needs to know with which mounting system each bell is attached, its weight, its measurements and the material it is made of. 
 
-If the sound techniques involve human beings, Keoma needs to understand what kind of tools (ropes, pestels) are used in the production of the sound and how many people are generally employed in the performance. 
-
-Keoma also needs to know if there are sound documents that testify to the musical performances carried out in the different bell towers, to document the use of the bells in different events. 
+Keoma also needs to know if there are sound documents of the musical performances carried out in the different bell towers, to document the use of the bells in different events. 
 
 To do this, Keoma would have to resort to numerous searches: bibliographic sources, archival sources, field surveys and interviews with informed people. 
 
-Thanks to Polifonia, Keoma can carry out these searches automatically, through a keyword search, retrieving a large amount of data in a short time. 
+Thanks to Polifonia, Keoma can carry out these searches automatically, through a keyword search, retrieving these data in a short time. 
 
 ## Example data  
 The searched data can be divided into: Architectural data, Data related to the bells, Data related to sound practices, Data related to sound recordings, Bibliographic data.
@@ -70,11 +68,11 @@ The data related to each individual Italian church can be retrieved on the web f
 The data relating to the bells can be searched on some websites of the sector such as Associazione Campanari Liguri, Associazione Italiana di Campanologia; in the specialized bibliography of which very few publications are online; in the General Catalog of Cultural Heritage. 
 For example:
 
-- The bells in the Church of San Pietro di Sturla are 5 (a “bell concert”) 
+- The bells in the Church of San Pietro di Sturla are 5 (a “set of bells”) 
 
 - The mounting system of the bells is the “falling clapper” (battaglio cadente) 
 
-- The bells are all made of bronze and they were melted by Fonderia Regolo Capanni di Fidenza (PR) in 1929 
+- The bells are all made of bronze and they were cast by Fonderia Regolo Capanni di Fidenza (PR) in 1929 
 
 - The bells have different nominal notes: REb3, MI b3, FA3, SOL b3, LA b3. The extension of the whole concert is an “intervallo di quinta” 
 
